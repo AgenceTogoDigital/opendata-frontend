@@ -28,10 +28,12 @@
                 <div class="fr-header__brand fr-enlarge-link">
                     <div class="fr-header__brand-top">
                         <div class="fr-header__logo">
-                            <p class="fr-logo">
+                            {% include theme('svg/RT.svg') %}
+
+                            <!-- <p class="fr-logo">
                                 République
-                                <br>Française
-                            </p>
+                                <br>Togolaise
+                            </p> -->
                         </div>
                         <div class="fr-header__navbar">
                             <button
@@ -56,7 +58,9 @@
                     </div>
                     <div class="fr-header__service">
                         <a href="{{ url_for('site.home') }}" title="{{ _('Go back to home page') }}">
-                            {% include theme('svg/logotype.svg') %}
+                            <!-- {% include theme('svg/logotype.svg') %} -->
+                             <h1>data.gouv.tg</h1>
+                             <p style="font-weight: bold;">PLATEFORME DE DONNEÉS OUVERTES</p>
                         </a>
                     </div>
                 </div>

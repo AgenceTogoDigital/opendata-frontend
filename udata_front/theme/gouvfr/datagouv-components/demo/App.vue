@@ -393,7 +393,7 @@ const dataservice: Dataservice = {
 
 <template>
   <h1>
-    data.gouv.fr Components
+    data.gouv.tg Components
   </h1>
   <div>
     <ResourceAccordion dataset-id="someId" :resource="resource" :expanded-on-mount="false" class="fr-mb-2v" />

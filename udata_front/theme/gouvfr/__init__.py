@@ -47,9 +47,9 @@ gouvfr_menu = nav.Bar('gouvfr_menu', [
     nav.Item(_('API'), 'dataservices.list'),
     nav.Item(_('Reuses'), 'reuses.list'),
     nav.Item(_('Organizations'), 'organizations.list'),
-    nav.Item(_('Getting started on data.gouv.fr'), None, items=[
+    nav.Item(_('Getting started on data.gouv.tg'), None, items=[
         nav.Item(
-            _('What is data.gouv.fr?'),
+            _('What is data.gouv.tg?'),
             'gouvfr.show_page',
             args={'slug': 'about/a-propos_data-gouv'}
         ),
@@ -64,7 +64,7 @@ gouvfr_menu = nav.Bar('gouvfr_menu', [
             args={'slug': 'onboarding/reutilisateurs'}
         ),
         nav.Item(
-            _('data.gouv.fr guides'),
+            _('data.gouv.tg guides'),
             None,
             url=current_app.config.get('GUIDES_URL')
         ),
