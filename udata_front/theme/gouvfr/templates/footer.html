@@ -98,32 +98,32 @@
                             <ul class="fr-links-group" style="display: flex;">
                                 <li>
                                     <a class="fr-link" title="{{_('Twitter - new tab')}}"
-                                        href="https://twitter.com/datagouvfr" target="_blank">
+                                        href="https://x.com/digitalgouvtg" target="_blank">
                                         <span class="fr-icon-twitter-line fr-mr-1w" aria-hidden="true"></span> Twitter
                                     </a>
                                 </li>
                                 <li>
                                     <a class="fr-link" title="{{_('Linkedin - new tab')}}"
-                                        href="https://www.linkedin.com/company/data-gouv-fr/" target="_blank">
+                                        href="https://www.linkedin.com/company/agence-togo-digital/" target="_blank">
                                         <span class="fr-icon-linkedin-box-line fr-mr-1w" aria-hidden="true"></span>
                                         Linkedin
                                     </a>
                                 </li>
                                 <li>
                                     <a class="fr-link" title="{{_('Mastodon - new tab')}}"
-                                        href="https://social.numerique.gouv.fr/@datagouvfr" target="_blank">
+                                        href="#" target="_blank">
                                         <span class="fr-icon-mastodon-line fr-mr-1w" aria-hidden="true"></span> Mastodon
                                     </a>
                                 </li>
                                 <li>
                                     <a class="fr-link" title="{{_('Github - new tab')}}"
-                                        href="https://github.com/etalab/data.gouv.fr" target="_blank">
+                                        href="#" target="_blank">
                                         <span class="fr-icon-github-line fr-mr-1w" aria-hidden="true"></span> Github
                                     </a>
                                 </li>
                                 <li>
                                     <a class="fr-link" title="{{_('RSS - new tab')}}"
-                                        href="{{ url_for('datasets.recent_feed') }}" target="_blank">
+                                        href="#" target="_blank">
                                         <span class="fr-icon-rss-line fr-mr-1w" aria-hidden="true"></span> RSS
                                     </a>
                                 </li>
@@ -193,7 +193,7 @@
                         {% endfor %}
                     </ul>
                 </div> -->
-                        <!-- {% endcache %} -->
+                        {% endcache %}
                         <div class="fr-col-auto fr-ml-auto self-end">
                             <nav role="navigation" class="fr-translate fr-nav">
                                 <div class="fr-nav__item">
@@ -204,39 +204,43 @@
                                     </button>
                                     <div class="fr-collapse fr-translate__menu fr-menu" id="translate-in-footer">
                                         <ul class="fr-menu__list">
-                                            {% for code, name in config['LANGUAGES'].items() %}
+                                        {% for code, name in config['LANGUAGES'].items() %}
                                             <li>
-                                                <a class="fr-translate__language fr-nav__link" hreflang="{{code}}"
-                                                    lang="{{code}}" href="{{language_url(code)}}" {% if
-                                                    g.lang_code==code %}aria-current="true" {% endif %}>
+                                                <a
+                                                    class="fr-translate__language fr-nav__link"
+                                                    hreflang="{{code}}"
+                                                    lang="{{code}}"
+                                                    href="{{language_url(code)}}"
+                                                    {% if g.lang_code == code %}aria-current="true"{% endif %}
+                                                >
                                                     {{code|upper}} - {{name}}
                                                 </a>
                                             </li>
-                                            {% endfor %}
+                                        {% endfor %}
                                         </ul>
-                                    </div>
-                                </div>
+                                    </div>                                </div>
                             </nav>
                         </div>
                     </div>
-                    <!-- {% cache cache_duration, 'footer-bottom', g.lang_code|default(config.DEFAULT_LANGUAGE)|string %} -->
+                    {% cache cache_duration, 'footer-bottom', g.lang_code|default(config.DEFAULT_LANGUAGE)|string %}
                     <!-- <div class="fr-footer__bottom">
-                <ul class="fr-footer__bottom-list">
-                    {% for item in nav.gouvfr_footer %}
-                        <li class="fr-footer__bottom-item">
-                            <a href="{{ '' if item.items else item.url }}" class="fr-footer__bottom-link">
-                                {{ item.label }}
-                            </a>
-                        </li>
-                    {% endfor %}
-                </ul> 
-                <div class="fr-footer__bottom-copy">
-                    <p>{{ _("Unless otherwise stated, all content of this site is availabe under <a href='{lo_url}'>Open Licence 2.0</a>").format(
-                        lo_url='https://github.com/etalab/licence-ouverte/blob/master/LO.md#licence-ouverte-20open-licence-20'
-                    ) }}</p>
-                </div>
-            </div> -->
-                    <!-- {% endcache %} -->
+                        <ul class="fr-footer__bottom-list">
+                            {% for item in nav.gouvfr_footer %}
+                            <li class="fr-footer__bottom-item">
+                                <a href="{{ '' if item.items else item.url }}" class="fr-footer__bottom-link">
+                                    {{ item.label }}
+                                </a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                        <div class="fr-footer__bottom-copy">
+                            <p>{{ _("Unless otherwise stated, all content of this site is availabe under <a
+                                    href='{lo_url}'>Open Licence 2.0</a>").format(
+                                lo_url='https://github.com/etalab/licence-ouverte/blob/master/LO.md#licence-ouverte-20open-licence-20'
+                                ) }}</p>
+                        </div>
+                    </div> -->
+                    {% endcache %}
 
 
                 </div>

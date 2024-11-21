@@ -135,11 +135,11 @@ msgid "Organizations"
 msgstr ""
 
 #: udata_front/theme/gouvfr/__init__.py:50
-msgid "Getting started on data.gouv.tg"
+msgid "Getting started on opendata.gouv.tg"
 msgstr ""
 
 #: udata_front/theme/gouvfr/__init__.py:52
-msgid "What is data.gouv.tg?"
+msgid "What is opendata.gouv.tg?"
 msgstr ""
 
 #: udata_front/theme/gouvfr/__init__.py:57
@@ -151,7 +151,7 @@ msgid "How to use data ?"
 msgstr ""
 
 #: udata_front/theme/gouvfr/__init__.py:67
-msgid "data.gouv.tg guides"
+msgid "opendata.gouv.tg guides"
 msgstr ""
 
 #: udata_front/theme/gouvfr/__init__.py:72
@@ -428,7 +428,7 @@ msgid "home"
 msgstr ""
 
 #: udata_front/theme/gouvfr/templates/home.html:18
-msgid "Open platform for French public data"
+msgid "Open platform for Togolese public data"
 msgstr ""
 
 #: udata_front/theme/gouvfr/templates/home.html:20
