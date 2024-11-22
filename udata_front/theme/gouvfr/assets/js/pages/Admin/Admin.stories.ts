@@ -37,9 +37,9 @@ export const HomeAdmin: StoryObj<typeof meta> = {
               "acronym": null,
               "badges": [],
               "id": "646b7187b50b2a93b1ae3d45",
-              "logo": "https://static.data.gouv.fr/avatars/09/1ba932cbfa48dc8c158981de6c700a.jpeg",
-              "logo_thumbnail": "https://static.data.gouv.fr/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
-              "name": "data.gouv.fr",
+              "logo": "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a.jpeg",
+              "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
+              "name": "opendata.gouv.tg",
               "page": "http://dev.local:7000/en/organizations/data-gouv-fr/",
               "slug": "data-gouv-fr",
               "uri": "http://dev.local:7000/api/1/organizations/data-gouv-fr/"
@@ -48,8 +48,8 @@ export const HomeAdmin: StoryObj<typeof meta> = {
               "acronym": null,
               "badges": [],
               "id": "6481e3f7959723cf9f8bc98a",
-              "logo": "https://dev-static.data.gouv.fr/avatars/dd/0525c5aa524398877c90f2611880df.jpg",
-              "logo_thumbnail": "https://dev-static.data.gouv.fr/avatars/dd/0525c5aa524398877c90f2611880df-100.jpg",
+              "logo": "https://dev-static.opendata.gouv.tg/avatars/dd/0525c5aa524398877c90f2611880df.jpg",
+              "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/dd/0525c5aa524398877c90f2611880df-100.jpg",
               "name": "Cour d'appel de Metz",
               "page": "http://dev.local:7000/en/organizations/cour-dappel-de-metz/",
               "slug": "cour-dappel-de-metz",
@@ -61,7 +61,7 @@ export const HomeAdmin: StoryObj<typeof meta> = {
           "since": "2021-10-14T11:12:26.622000+00:00",
           "slug": "nicolas-kempf-1",
           "uri": "http://dev.local:7000/api/1/users/nicolas-kempf-1/",
-          "website": "https://www.data.gouv.fr"
+          "website": "https://www.opendata.gouv.tg"
         };
         await delay();
         return HttpResponse.json(me);

@@ -11,7 +11,7 @@ const meta = {
   parameters: {
     docs: {
       description: {
-        component: "The Data Structure shows a smaller version of explore.data.gouv.fr to the user."
+        component: "The Data Structure shows a smaller version of explore.opendata.gouv.tg to the user."
       }
     }
   },

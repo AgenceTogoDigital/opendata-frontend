@@ -37,9 +37,9 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                       "first_name": "jeanne",
                       "id": "669e726da8b49a686aa3390c",
                       "last_name": "bessiere",
-                      "page": "https://www.data.gouv.fr/fr/users/jeanne-bessiere/",
+                      "page": "https://www.opendata.gouv.tg/fr/users/jeanne-bessiere/",
                       "slug": "jeanne-bessiere",
-                      "uri": "https://www.data.gouv.fr/api/1/users/jeanne-bessiere/"
+                      "uri": "https://www.opendata.gouv.tg/api/1/users/jeanne-bessiere/"
                     },
                     "posted_on": "2024-07-22T14:59:06.086000+00:00",
                     "spam": {
@@ -57,7 +57,7 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                   "id": "5de8f397634f4164071119c5"
                 },
                 "title": "Anomalie juillet 1997",
-                "url": "https://www.data.gouv.fr/api/1/discussions/669e73ba2d615eb2a86b4210/",
+                "url": "https://www.opendata.gouv.tg/api/1/discussions/669e73ba2d615eb2a86b4210/",
                 "user": {
                   "avatar": null,
                   "avatar_thumbnail": null,
@@ -65,9 +65,9 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                   "first_name": "Jane",
                   "id": "669e726da8b49a686aa3390c",
                   "last_name": "Doe",
-                  "page": "https://www.data.gouv.fr/fr/users/jane-doe/",
+                  "page": "https://www.opendata.gouv.tg/fr/users/jane-doe/",
                   "slug": "jane-doe",
-                  "uri": "https://www.data.gouv.fr/api/1/users/jane-doe/"
+                  "uri": "https://www.opendata.gouv.tg/api/1/users/jane-doe/"
                 }
               },
               {
@@ -85,9 +85,9 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                       "first_name": "John",
                       "id": "64a63de24ee3717e3ca73a8e",
                       "last_name": "Doe",
-                      "page": "https://www.data.gouv.fr/fr/users/john-doe/",
+                      "page": "https://www.opendata.gouv.tg/fr/users/john-doe/",
                       "slug": "john-doe",
-                      "uri": "https://www.data.gouv.fr/api/1/users/john-doe/"
+                      "uri": "https://www.opendata.gouv.tg/api/1/users/john-doe/"
                     },
                     "posted_on": "2024-07-08T21:55:35.355000+00:00",
                     "spam": {
@@ -105,7 +105,7 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                   "id": "5de8f397634f4164071119c5"
                 },
                 "title": "French death certificate of my grandfather",
-                "url": "https://www.data.gouv.fr/api/1/discussions/668c6057caeb96f6a0487de3/",
+                "url": "https://www.opendata.gouv.tg/api/1/discussions/668c6057caeb96f6a0487de3/",
                 "user": {
                   "avatar": null,
                   "avatar_thumbnail": null,
@@ -113,9 +113,9 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                   "first_name": "John",
                   "id": "64a63de24ee3717e3ca73a8e",
                   "last_name": "Doe",
-                  "page": "https://www.data.gouv.fr/fr/users/john-doe/",
+                  "page": "https://www.opendata.gouv.tg/fr/users/john-doe/",
                   "slug": "john-doe",
-                  "uri": "https://www.data.gouv.fr/api/1/users/john-doe/"
+                  "uri": "https://www.opendata.gouv.tg/api/1/users/john-doe/"
                 }
               },
               {
@@ -133,9 +133,9 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                       "first_name": "John",
                       "id": "61d9cc7ad962b77922870df1",
                       "last_name": "DOE",
-                      "page": "https://www.data.gouv.fr/fr/users/john-doe/",
+                      "page": "https://www.opendata.gouv.tg/fr/users/john-doe/",
                       "slug": "john-doe",
-                      "uri": "https://www.data.gouv.fr/api/1/users/john-doe/"
+                      "uri": "https://www.opendata.gouv.tg/api/1/users/john-doe/"
                     },
                     "posted_on": "2024-05-28T11:07:08.960000+00:00",
                     "spam": {
@@ -151,9 +151,9 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                       "first_name": "Anne",
                       "id": "606340e403e60e0cf339e351",
                       "last_name": "Levet",
-                      "page": "https://www.data.gouv.fr/fr/users/anne-levet/",
+                      "page": "https://www.opendata.gouv.tg/fr/users/anne-levet/",
                       "slug": "anne-levet",
-                      "uri": "https://www.data.gouv.fr/api/1/users/anne-levet/"
+                      "uri": "https://www.opendata.gouv.tg/api/1/users/anne-levet/"
                     },
                     "posted_on": "2024-06-06T17:05:00.341000+00:00",
                     "spam": {
@@ -171,7 +171,7 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                   "id": "5de8f397634f4164071119c5"
                 },
                 "title": "unicit\u00e9 de d\u00e9c\u00e8s incorrect provoqu\u00e9 par le fichier des oppositions",
-                "url": "https://www.data.gouv.fr/api/1/discussions/6655badd22e9df29a538704b/",
+                "url": "https://www.opendata.gouv.tg/api/1/discussions/6655badd22e9df29a538704b/",
                 "user": {
                   "avatar": null,
                   "avatar_thumbnail": null,
@@ -179,9 +179,9 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                   "first_name": "John",
                   "id": "61d9cc7ad962b77922870df1",
                   "last_name": "DOE",
-                  "page": "https://www.data.gouv.fr/fr/users/john-doe/",
+                  "page": "https://www.opendata.gouv.tg/fr/users/john-doe/",
                   "slug": "john-doe",
-                  "uri": "https://www.data.gouv.fr/api/1/users/john-doe/"
+                  "uri": "https://www.opendata.gouv.tg/api/1/users/john-doe/"
                 }
               },
               {
@@ -199,9 +199,9 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                       "first_name": "john",
                       "id": "551d1a52c751df046d0cd89f",
                       "last_name": "DOE",
-                      "page": "https://www.data.gouv.fr/fr/users/john-doe/",
+                      "page": "https://www.opendata.gouv.tg/fr/users/john-doe/",
                       "slug": "john-doe",
-                      "uri": "https://www.data.gouv.fr/api/1/users/john-doe/"
+                      "uri": "https://www.opendata.gouv.tg/api/1/users/john-doe/"
                     },
                     "posted_on": "2024-03-08T08:27:23.106000+00:00",
                     "spam": {
@@ -219,7 +219,7 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                   "id": "5de8f397634f4164071119c5"
                 },
                 "title": "Commune du domicile des personnes",
-                "url": "https://www.data.gouv.fr/api/1/discussions/65eacbebea47c3875f34f068/",
+                "url": "https://www.opendata.gouv.tg/api/1/discussions/65eacbebea47c3875f34f068/",
                 "user": {
                   "avatar": null,
                   "avatar_thumbnail": null,
@@ -227,9 +227,9 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                   "first_name": "john",
                   "id": "551d1a52c751df046d0cd89f",
                   "last_name": "DOE",
-                  "page": "https://www.data.gouv.fr/fr/users/john-doe/",
+                  "page": "https://www.opendata.gouv.tg/fr/users/john-doe/",
                   "slug": "john-doe",
-                  "uri": "https://www.data.gouv.fr/api/1/users/john-doe/"
+                  "uri": "https://www.opendata.gouv.tg/api/1/users/john-doe/"
                 }
               },
               {
@@ -247,9 +247,9 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                       "first_name": "John",
                       "id": "61b9c609915b08aa47e92107",
                       "last_name": "DOE",
-                      "page": "https://www.data.gouv.fr/fr/users/john-doe/",
+                      "page": "https://www.opendata.gouv.tg/fr/users/john-doe/",
                       "slug": "john-doe",
-                      "uri": "https://www.data.gouv.fr/api/1/users/john-doe/"
+                      "uri": "https://www.opendata.gouv.tg/api/1/users/john-doe/"
                     },
                     "posted_on": "2024-02-16T15:25:18.118000+00:00",
                     "spam": {
@@ -265,9 +265,9 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                       "first_name": "Fabrice",
                       "id": "63f8715e1155494fb4c7da10",
                       "last_name": "ROMANS",
-                      "page": "https://www.data.gouv.fr/fr/users/fabrice-romans/",
+                      "page": "https://www.opendata.gouv.tg/fr/users/fabrice-romans/",
                       "slug": "fabrice-romans",
-                      "uri": "https://www.data.gouv.fr/api/1/users/fabrice-romans/"
+                      "uri": "https://www.opendata.gouv.tg/api/1/users/fabrice-romans/"
                     },
                     "posted_on": "2024-02-16T19:03:33.881000+00:00",
                     "spam": {
@@ -285,7 +285,7 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                   "id": "5de8f397634f4164071119c5"
                 },
                 "title": "Fichier des d\u00e9c\u00e8s Janvier 2024",
-                "url": "https://www.data.gouv.fr/api/1/discussions/65cf7e5ea64415a5e4edefa6/",
+                "url": "https://www.opendata.gouv.tg/api/1/discussions/65cf7e5ea64415a5e4edefa6/",
                 "user": {
                   "avatar": null,
                   "avatar_thumbnail": null,
@@ -293,13 +293,13 @@ export const DefaultThreads: StoryObj<typeof meta> = {
                   "first_name": "John",
                   "id": "61b9c609915b08aa47e92107",
                   "last_name": "DOE",
-                  "page": "https://www.data.gouv.fr/fr/users/john-doe/",
+                  "page": "https://www.opendata.gouv.tg/fr/users/john-doe/",
                   "slug": "john-doe",
-                  "uri": "https://www.data.gouv.fr/api/1/users/john-doe/"
+                  "uri": "https://www.opendata.gouv.tg/api/1/users/john-doe/"
                 }
               }
             ],
-            "next_page": "https://www.data.gouv.fr/api/1/discussions/?page=2&for=5de8f397634f4164071119c5&sort=-created&page_size=5",
+            "next_page": "https://www.opendata.gouv.tg/api/1/discussions/?page=2&for=5de8f397634f4164071119c5&sort=-created&page_size=5",
             "page": 1,
             "page_size": 5,
             "previous_page": null,

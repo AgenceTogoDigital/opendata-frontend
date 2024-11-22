@@ -22,7 +22,7 @@ export const Form: StoryObj<typeof meta> = {
         return HttpResponse.json(organization);
       }),
       http.post('*/api/1/organizations/:organizationId/logo', async () => {
-        return HttpResponse.json({"image": "https://demo-static.data.gouv.fr/avatars/84/3194d831264f769fa817e58813d413-100.png", "success": true}), {
+        return HttpResponse.json({"image": "https://demo-static.opendata.gouv.tg/avatars/84/3194d831264f769fa817e58813d413-100.png", "success": true}), {
           status: 200,
         };
       }),

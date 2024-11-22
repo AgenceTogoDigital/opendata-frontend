@@ -30,6 +30,6 @@ export const DefaultDeleteUserButton: StoryObj<typeof meta> = {
   args: {
     id: "someId",
     full_name: "John Doe",
-    avatar_thumbnail: "https://static.data.gouv.fr/avatars/ad/95e60b115a4582b2dcb1eb0ad7e9d3-original.png"
+    avatar_thumbnail: "https://static.opendata.gouv.tg/avatars/ad/95e60b115a4582b2dcb1eb0ad7e9d3-original.png"
   },
 };

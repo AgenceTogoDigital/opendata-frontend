@@ -81,15 +81,15 @@ const dataservice: Dataservice = {
       views: 0
     },
     acronym: null,
-    logo: "https://static.data.gouv.fr/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
-    logo_thumbnail: "https://static.data.gouv.fr/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
-    page: "https://demo.data.gouv.fr/fr/organizations/test-meteo-france/",
+    logo: "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
+    logo_thumbnail: "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
+    page: "https://demo.opendata.gouv.tg/fr/organizations/test-meteo-france/",
     business_number_id: "",
     description: "",
     badges: [{kind: 'certified'}, {kind: 'public-service'}],
     name: "Météo France",
     slug: "test-meteo-france",
-    uri: "https://demo.data.gouv.fr/api/1/organizations/test-meteo-france/",
+    uri: "https://demo.opendata.gouv.tg/api/1/organizations/test-meteo-france/",
     url: ""
   },
   owner: null,
@@ -323,8 +323,8 @@ export const DataserviceCardTabularApi: StoryObj<typeof meta> = {
     ...args,
     dataservice: {
       ...args.dataservice,
-      title: 'API automatique data.gouv.fr',
-      organization: { ...args.dataservice.organization, name: 'data.gouv.fr' },
+      title: 'API automatique opendata.gouv.tg',
+      organization: { ...args.dataservice.organization, name: 'opendata.gouv.tg' },
       id: '6716420e0cf1cfbbd07b4c8b', // Set in `.env`
     }
   },

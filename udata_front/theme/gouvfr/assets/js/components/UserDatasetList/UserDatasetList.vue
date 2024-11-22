@@ -41,7 +41,7 @@ const loading = ref(false);
  */
 const currentRequest = ref<CancelTokenSource | null>(null);
 
-/** TODO : use a config when the component moved to data.gouv.fr-components */
+/** TODO : use a config when the component moved to opendata.gouv.tg-components */
 const pageSize = 3;
 
 /**

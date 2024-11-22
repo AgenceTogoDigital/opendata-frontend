@@ -33,7 +33,7 @@ setup(
     long_description_content_type='text/markdown',
     url='https://github.com/datagouv/udata-front',
     author='Etalab',
-    author_email='pypi@data.gouv.fr',
+    author_email='pypi@opendata.gouv.tg',
     packages=find_packages(),
     include_package_data=True,
     python_requires='>=3.8',

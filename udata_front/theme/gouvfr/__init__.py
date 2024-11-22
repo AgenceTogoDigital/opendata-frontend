@@ -47,9 +47,9 @@ gouvfr_menu = nav.Bar('gouvfr_menu', [
     nav.Item(_('API'), 'dataservices.list'),
     nav.Item(_('Reuses'), 'reuses.list'),
     nav.Item(_('Organizations'), 'organizations.list'),
-    nav.Item(_('Getting started on data.gouv.tg'), None, items=[
+    nav.Item(_('Getting started on opendata.gouv.tg'), None, items=[
         nav.Item(
-            _('What is data.gouv.tg?'),
+            _('What is opendata.gouv.tg?'),
             'gouvfr.show_page',
             args={'slug': 'about/a-propos_data-gouv'}
         ),
@@ -64,7 +64,7 @@ gouvfr_menu = nav.Bar('gouvfr_menu', [
             args={'slug': 'onboarding/reutilisateurs'}
         ),
         nav.Item(
-            _('data.gouv.tg guides'),
+            _('opendata.gouv.tg guides'),
             None,
             url=current_app.config.get('GUIDES_URL')
         ),
@@ -91,7 +91,7 @@ if export_dataset_id:
                              _external=True)
         opendata_links.append(nav.Item(_('Data catalog'), None, url=export_url))
 opendata_links.append(nav.Item(_('Follow data opening'), None,
-                      url="https://ouverture.data.gouv.fr"))
+                      url="https://ouverture.opendata.gouv.tg"))
 opendata_links.append(nav.Item(_('Portal for European data'), None,
                       url="https://data.europa.eu"))
 
@@ -101,7 +101,7 @@ nav.Bar('gouvfr_opendata', opendata_links)
 platform_links = [
     nav.Item(_('Guides'), None, url=current_app.config.get('GUIDES_URL', '#')),
     nav.Item(_('Roadmap and news'), 'gouvfr.show_page', args={'slug': 'roadmap'}),
-    nav.Item(_('Contact us'), None, url='https://support.data.gouv.fr'),
+    nav.Item(_('Contact us'), None, url='https://support.opendata.gouv.tg'),
     nav.Item(_('Give us your feedback'), None,
              url=current_app.config.get('FEEDBACK_FORM_URL', '#')),
     nav.Item(_('Statistics'), 'site.dashboard'),
@@ -111,11 +111,11 @@ nav.Bar('gouvfr_platform', platform_links)
 
 resources_links = [
     nav.Item(_("api.gouv.fr"), None, url='https://api.gouv.fr'),
-    nav.Item(_("schema.data.gouv.fr"), None,
+    nav.Item(_("schema.opendata.gouv.tg"), None,
              url=current_app.config.get('SCHEMA_DOCUMENTATION_URL', '#')),
-    nav.Item("meteo.data.gouv.fr", None, url="https://meteo.data.gouv.fr"),
-    nav.Item("transport.data.gouv.fr", None, url="https://transport.data.gouv.fr"),
-    nav.Item("defis.data.gouv.fr", None, url="https://defis.data.gouv.fr"),
+    nav.Item("meteo.opendata.gouv.tg", None, url="https://meteo.opendata.gouv.tg"),
+    nav.Item("transport.opendata.gouv.tg", None, url="https://transport.opendata.gouv.tg"),
+    nav.Item("defis.opendata.gouv.tg", None, url="https://defis.opendata.gouv.tg"),
 ]
 
 nav.Bar('gouvfr_resources', resources_links)

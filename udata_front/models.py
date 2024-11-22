@@ -169,7 +169,7 @@ class GeoSireneCommuneDataset(TerritoryDataset):
     id = 'geo_sirene_com'
     title = 'SIRENE'
     organization_id = INSEE_ORG_ID
-    url_template = 'https://files.data.gouv.fr/geo-sirene/last/communes/{code}.csv'
+    url_template = 'https://files.opendata.gouv.tg/geo-sirene/last/communes/{code}.csv'
     description = '''
         Extraite de la base [SIRENE](/datasets/5862206588ee38254d3f4e5e/)
         sur le périmètre de la commune.

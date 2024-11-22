@@ -22,8 +22,8 @@ const args = {
     id: "someUserId",
     first_name: "John",
     last_name: "Doe",
-    avatar: "https://demo-static.data.gouv.fr/avatars/92/6284d057ca4279af35e9b62bc62639-100.png",
-    avatar_thumbnail: "https://demo-static.data.gouv.fr/avatars/92/6284d057ca4279af35e9b62bc62639-100.png",
+    avatar: "https://demo-static.opendata.gouv.tg/avatars/92/6284d057ca4279af35e9b62bc62639-100.png",
+    avatar_thumbnail: "https://demo-static.opendata.gouv.tg/avatars/92/6284d057ca4279af35e9b62bc62639-100.png",
   } as User,
 };
 

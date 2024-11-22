@@ -40,7 +40,7 @@ const args: ReuseProps = {
     description: "Some description",
     created_at: (new Date()).toDateString(),
     last_update: (new Date()).toDateString(),
-    page: "https://www.data.gouv.fr",
+    page: "https://www.opendata.gouv.tg",
     archived: false,
     deleted: false,
     private: false,
@@ -53,7 +53,7 @@ const args: ReuseProps = {
       id: "someUserId",
       first_name: "John",
       last_name: "Doedoedoedoedoe",
-      page: "https://demo.data.gouv.fr/en/users/antonin-garrone/",
+      page: "https://demo.opendata.gouv.tg/en/users/antonin-garrone/",
     },
     organization: null,
     metrics: {
@@ -64,8 +64,8 @@ const args: ReuseProps = {
     },
     organization: null,
     title: "My new reuse reuse reuse with with with a a a very very very long long long name name name",
-    image: "https://static.data.gouv.fr/images/aa/c1f583251a4697850bd01e2cc95877.png",
-    image_thumbnail: "https://static.data.gouv.fr/images/aa/c1f583251a4697850bd01e2cc95877.png",
+    image: "https://static.opendata.gouv.tg/images/aa/c1f583251a4697850bd01e2cc95877.png",
+    image_thumbnail: "https://static.opendata.gouv.tg/images/aa/c1f583251a4697850bd01e2cc95877.png",
   } as Reuse,
   reuseUrl: "/reuses/6571faa17f46a65ee05c4d17",
 };
@@ -85,7 +85,7 @@ const organization: Organization = CertifiedPublicServiceName.args.organization;
 
 const organizationWithLogo: Organization = {
   ...organization,
-  logo_thumbnail: "https://static.data.gouv.fr/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg"
+  logo_thumbnail: "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg"
 };
 
 const argsWithOrganizationWithLogo: ReuseProps = {

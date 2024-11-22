@@ -1,8 +1,8 @@
-# data.gouv.fr Components
+# opendata.gouv.tg Components
 
 ## Architectures
 
-The package contains ready-made components to use on your data.gouv.fr front-end.
+The package contains ready-made components to use on your opendata.gouv.tg front-end.
 
 This package works with `@gouvfr/dsfr` and `@gouvminint/vue-dsfr` packages.
 

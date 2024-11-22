@@ -5,7 +5,7 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <!--
    méta-données ETALAB
-   contient les informations nécessaires à ETALAB pour référencer nos jeux de données sur data.gouv.fr
+   contient les informations nécessaires à ETALAB pour référencer nos jeux de données sur opendata.gouv.tg
    date de MAJ : 07/04/2014
    créé par : Célia Carceller Kemiche
    contact : celia.carceller-kemiche@agriculture.gouv.fr
@@ -14,7 +14,7 @@
       <xs:complexType>
          <xs:sequence>
             <!--
-            méta-données des jeux de données référencés sur data.gouv.fr
+            méta-données des jeux de données référencés sur opendata.gouv.tg
             -->
             <xs:element name="metadata">
                <xs:complexType>

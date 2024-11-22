@@ -125,7 +125,7 @@
 ## 4.0.0 (2024-04-23)
 
 - **breaking change** Migrate to Python 3.11 [#376](https://github.com/etalab/udata-front/pull/376)
-- Fix api urls locked on dev.data.gouv.fr [#401](https://github.com/datagouv/udata-front/pull/401)
+- Fix api urls locked on dev.opendata.gouv.tg [#401](https://github.com/datagouv/udata-front/pull/401)
 
 ## 3.5.5 (2024-04-16)
 
@@ -171,8 +171,8 @@
 
 - Fix vue runtime errors [#343](https://github.com/etalab/udata-front/pull/343)
 - New featured topic : agriculture [#344](https://github.com/etalab/udata-front/pull/344)
-- Create data.gouv.fr-components NPM package and move some `gouvfr` components to it [#324](https://github.com/etalab/udata-front/pull/324)[#350](https://github.com/etalab/udata-front/pull/350)
-- Setup storybook for data.gouv.fr-components [#346](https://github.com/etalab/udata-front/pull/346)
+- Create opendata.gouv.tg-components NPM package and move some `gouvfr` components to it [#324](https://github.com/etalab/udata-front/pull/324)[#350](https://github.com/etalab/udata-front/pull/350)
+- Setup storybook for opendata.gouv.tg-components [#346](https://github.com/etalab/udata-front/pull/346)
 
 ## 3.5.0, 3.4.0 and 3.3.0 (2024-01-23)
 

@@ -3,7 +3,7 @@
  */
 
 var ALLOWED_DOMAINS = [
-    'www.data.gouv.fr', 'static.data.gouv.fr', 'files.data.gouv.fr',
+    'www.opendata.gouv.tg', 'static.opendata.gouv.tg', 'files.opendata.gouv.tg',
 ]
 
 var count = 0;

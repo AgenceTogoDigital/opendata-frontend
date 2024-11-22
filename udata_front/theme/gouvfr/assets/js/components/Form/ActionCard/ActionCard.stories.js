@@ -24,7 +24,7 @@ export default {
 
 const args = {
   title: "Publish a dataset",
-  content: "Administration or public society, everybody can publish on data.gouv.fr !",
+  content: "Administration or public society, everybody can publish on opendata.gouv.tg !",
   icon: "udata_front/theme/gouvfr/templates/svg/illustrations/dataset.svg",
   actionsAlignment: "end",
 };
@@ -61,7 +61,7 @@ export const CardWithSecondaryButton = {
   args: {
     ...args,
     title: "Publish with a schema",
-    content: "Are your data following a reference schema ? Validate, correct and publish your data on data.gouv.fr !",
+    content: "Are your data following a reference schema ? Validate, correct and publish your data on opendata.gouv.tg !",
     icon: "udata_front/theme/gouvfr/templates/svg/illustrations/schema.svg",
   },
 };
