@@ -39,7 +39,7 @@
             <p class="fr-m-0">
               {{ t("A SIRET number will allow us to assign a type to your organization (administrations, collectivities, companies, etc.) and will facilitate your certification.") }} <br/>
               {{ t("Please note that all administrations have a SIRET number.") }} <br/>
-              {{ t("You can find your SIRET on ") }}<a class="text-decoration-underline" href="https://annuaire-entreprises.opendata.gouv.tg/" target="_blank">{{ t("l’Annuaire des Entreprises.") }}</a>
+              {{ t("You can find your SIRET on ") }}<a class="text-decoration-underline" href="https://annuaire-entreprises.opendata.gouv.tg /" target="_blank">{{ t("l’Annuaire des Entreprises.") }}</a>
             </p>
           </Accordion>
           <Accordion
@@ -153,7 +153,7 @@
                 />
               </div>
               <div v-else>
-                <p>{{ t('No organization found matching this SIRET on annuaire-entreprises.opendata.gouv.tg') }}</p>
+                <p>{{ t('No organization found matching this SIRET on annuaire-entreprises.opendata.gouv.tg ') }}</p>
               </div>
             </div>
             <LinkedToAccordion

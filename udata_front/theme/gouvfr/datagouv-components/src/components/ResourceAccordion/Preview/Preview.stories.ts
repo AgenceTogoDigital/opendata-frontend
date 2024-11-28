@@ -11,7 +11,7 @@ const meta = {
   parameters: {
     docs: {
       description: {
-        component: "The Preview shows a smaller version of explore.opendata.gouv.tg to the user."
+        component: "The Preview shows a smaller version of explore.opendata.gouv.tg  to the user."
       }
     }
   },
@@ -28,7 +28,7 @@ const resource: Resource = {
   type: "main",
   format: "csv",
   url: "https://www.opendata56.fr/api/explore/v2.1/catalog/datasets/bornes-de-recharge-de-vehicules-electriques-irve-copie/exports/csv",
-  latest: "https://www.opendata.gouv.tg/fr/datasets/r/cf3cc17f-955a-42bb-a4ef-77f59e703940",
+  latest: "https://www.opendata.gouv.tg /fr/datasets/r/cf3cc17f-955a-42bb-a4ef-77f59e703940",
   checksum: null,
   filesize: null,
   mime: "text/csv",
@@ -121,7 +121,7 @@ const resource: Resource = {
     "analysis:parsing:finished_at": "2024-06-04T20:05:18.968805+00:00",
     "analysis:parsing:started_at": "2024-06-04T20:05:17.151069+00:00"
   },
-  preview_url: "https://explore.opendata.gouv.tg/fr/resources/cf3cc17f-955a-42bb-a4ef-77f59e703940",
+  preview_url: "https://explore.opendata.gouv.tg /fr/resources/cf3cc17f-955a-42bb-a4ef-77f59e703940",
   "schema": {
     "name": null,
     "version": null,

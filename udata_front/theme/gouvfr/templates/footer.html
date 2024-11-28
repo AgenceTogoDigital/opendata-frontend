@@ -9,23 +9,26 @@
                 <div class="fr-grid-row fr-grid-row--start fr-grid-row--gutters">
                     <div class="fr-col-12 fr-col-sm-3">
                         <h3 class="fr-footer__top-cat">{{ _('Rubriques') }}</h3>
-                        <ul class="fr-footer__top-list">
+                        <ul class="fr-footer__top-list" style="font-size: large;">
                             <!-- {% for item in nav.gouvfr_opendata %} -->
                             <!-- <li>
                                 <a class="fr-footer__top-link" href="{{ item.url }}">{{ item.label }}</a>
                             </li> -->
                             <!-- {% endfor %} -->
                             <li><a class="fr-footer__top-link" href="/">Accueil</a></li>
-                            <li><a class="fr-footer__top-link" href="https://ressources.digital.gouv.tg/logiciels-libres">Logiciels libres</a></li>
+                            <li><a class="fr-footer__top-link"
+                                    href="https://ressources.digital.gouv.tg/logiciels-libres">Logiciels libres</a></li>
                             <li><a class="fr-footer__top-link" href="#">API</a></li>
                             <li><a class="fr-footer__top-link" href="#">Open Data</a></li>
-                            <li><a class="fr-footer__top-link" href="https://ressources.digital.gouv.tg/documents">Documents de gouvernance</a></li>
+                            <li><a class="fr-footer__top-link"
+                                    href="https://ressources.digital.gouv.tg/documents">Documents de gouvernance</a>
+                            </li>
                             <li><a class="fr-footer__top-link" href="#">A propos</a></li>
 
                         </ul>
                     </div>
                     <div class="fr-col-12 fr-col-sm-3">
-                        <h3 class="fr-footer__top-cat">{{ _('Liens Utiles') }}</h3>
+                        <h3 class="fr-footer__top-cat" >{{ _('Liens Utiles') }}</h3>
                         <ul class="fr-footer__top-list">
                             <!-- {% for item in nav.gouvfr_platform %} -->
                             <!-- <li>
@@ -82,7 +85,7 @@
                             <li>
                                 <a
                                     href="https://github.com/datagouv/udata-front/"
-                                    title="{{ _('opendata.gouv.tg extension: udata-front') }}"
+                                    title="{{ _('opendata.gouv.tg  extension: udata-front') }}"
                                     class="fr-footer__top-link"
                                 >
                                     {{ _('udata theme extension: udata-front ({version})').format(
@@ -92,7 +95,7 @@
                             </li>
                         </ul> -->
                         <div class="fr-follow__social">
-                            <p>{{ _("Follow us") }}
+                            <p class="fr-footer__top-link">{{ _("Follow us") }}
                                 {{ _("on social media") }}
                             </p>
                             <ul class="fr-links-group" style="display: flex;">
@@ -110,20 +113,17 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a class="fr-link" title="{{_('Mastodon - new tab')}}"
-                                        href="#" target="_blank">
+                                    <a class="fr-link" title="{{_('Mastodon - new tab')}}" href="#" target="_blank">
                                         <span class="fr-icon-mastodon-line fr-mr-1w" aria-hidden="true"></span> Mastodon
                                     </a>
                                 </li>
                                 <li>
-                                    <a class="fr-link" title="{{_('Github - new tab')}}"
-                                        href="#" target="_blank">
+                                    <a class="fr-link" title="{{_('Github - new tab')}}" href="#" target="_blank">
                                         <span class="fr-icon-github-line fr-mr-1w" aria-hidden="true"></span> Github
                                     </a>
                                 </li>
                                 <li>
-                                    <a class="fr-link" title="{{_('RSS - new tab')}}"
-                                        href="#" target="_blank">
+                                    <a class="fr-link" title="{{_('RSS - new tab')}}" href="#" target="_blank">
                                         <span class="fr-icon-rss-line fr-mr-1w" aria-hidden="true"></span> RSS
                                     </a>
                                 </li>
@@ -166,21 +166,22 @@
                     </div>
                 </div>
             </div>
-        </div>
-        {% endcache %} -->
+        </div> -->
+                        {% endcache %}
                         <!-- <div class="fr-container"> -->
-                        <!--    <div class="fr-footer__body">
-            {% cache cache_duration, 'footer-brand-and-links', g.lang_code|default(config.DEFAULT_LANGUAGE)|string %}
-                <div class="fr-footer__brand fr-enlarge-link">
+                        <!--    <div class="fr-footer__body">-->
+                        {% cache cache_duration, 'footer-brand-and-links',
+                        g.lang_code|default(config.DEFAULT_LANGUAGE)|string %}
+                        <!--   <div class="fr-footer__brand fr-enlarge-link">
                  <p class="fr-logo" title="république française">
                         république
                         <br>Togolaise
                     </p> -->
                         <!-- {% include theme('svg/RT.svg') %} -->
 
-                        <!-- <a class="fr-footer__brand-link" href="/" title="{{_('Go back to website home - opendata.gouv.tg - République Française')}}"> -->
+                        <!-- <a class="fr-footer__brand-link" href="/" title="{{_('Go back to website home - opendata.gouv.tg  - République Française')}}"> -->
                         <!-- {% include theme('svg/logotype.svg') %} -->
-                        <!-- <h1>opendata.gouv.tg</h1>
+                        <!-- <h1>opendata.gouv.tg </h1>
                     </a>
                 </div> -->
                         <!-- <div class="fr-footer__content">
@@ -204,21 +205,18 @@
                                     </button>
                                     <div class="fr-collapse fr-translate__menu fr-menu" id="translate-in-footer">
                                         <ul class="fr-menu__list">
-                                        {% for code, name in config['LANGUAGES'].items() %}
+                                            {% for code, name in config['LANGUAGES'].items() %}
                                             <li>
-                                                <a
-                                                    class="fr-translate__language fr-nav__link"
-                                                    hreflang="{{code}}"
-                                                    lang="{{code}}"
-                                                    href="{{language_url(code)}}"
-                                                    {% if g.lang_code == code %}aria-current="true"{% endif %}
-                                                >
+                                                <a class="fr-translate__language fr-nav__link" hreflang="{{code}}"
+                                                    lang="{{code}}" href="{{language_url(code)}}" {% if
+                                                    g.lang_code==code %}aria-current="true" {% endif %}>
                                                     {{code|upper}} - {{name}}
                                                 </a>
                                             </li>
-                                        {% endfor %}
+                                            {% endfor %}
                                         </ul>
-                                    </div>                                </div>
+                                    </div>
+                                </div>
                             </nav>
                         </div>
                     </div>
@@ -254,7 +252,7 @@
             
                     {% include theme('svg/logo-atd.svg') %}
  
-                    <a class="fr-footer__brand-link" href="/" title="{{_('Go back to website home - opendata.gouv.tg - République Française')}}">
+                    <a class="fr-footer__brand-link" href="/" title="{{_('Go back to website home - opendata.gouv.tg  - République Française')}}">
                    {% include theme('svg/logotype.svg') %}
                 </a>
             </div>  -->

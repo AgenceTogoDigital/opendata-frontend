@@ -523,3 +523,4 @@ def language_url(lang_code):
     except Exception:
         # Never fails
         return url_for("site.home", lang_code=lang_code, **params, _external=True)
+

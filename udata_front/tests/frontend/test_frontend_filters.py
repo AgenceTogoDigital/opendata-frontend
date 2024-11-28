@@ -240,7 +240,7 @@ class FrontEndRootTest:
             return render_template_string('{{ i18n_alternate_links() }}')
 
         app.register_blueprint(test)
-        app.config['DEFAULT_LANGUAGE'] = 'en'
+        app.config['DEFAULT_LANGUAGE'] = 'fr'
         app.config['LANGUAGES'] = {
             'en': 'English',
             'fr': 'Français',
@@ -264,7 +264,7 @@ class FrontEndRootTest:
             return render_template_string('{{ i18n_alternate_links() }}')
 
         app.register_blueprint(test)
-        app.config['DEFAULT_LANGUAGE'] = 'en'
+        app.config['DEFAULT_LANGUAGE'] = 'fr'
         app.config['LANGUAGES'] = {
             'en': 'English',
             'fr': 'Français',

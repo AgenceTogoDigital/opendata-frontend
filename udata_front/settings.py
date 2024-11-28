@@ -5,7 +5,7 @@ Default settings for udata-front
 # TODO: move this back to an extension
 RESOURCES_SCHEMAGOUVFR_ENABLED = True
 SCHEMA_GOUVFR_VALIDATA_URL = 'https://validata.etalab.studio'
-SCHEMA_DOCUMENTATION_URL = 'https://schema.opendata.gouv.tg/'
+SCHEMA_DOCUMENTATION_URL = 'https://schema.opendata.gouv.tg /'
 SCHEMA_PUBLISHING_URL = 'https://publier.etalab.studio/fr'
 
 # Dataset settings
@@ -21,8 +21,8 @@ BANNER_HTML_CONTENT_EN = ''
 BANNER_HTML_CONTENT_FR = ''
 
 # Demo
-DEMO_SERVER_URL = 'https://demo.opendata.gouv.tg'
-DEMO_SERVER_NAME = 'demo.opendata.gouv.tg'
+DEMO_SERVER_URL = 'https://demo.opendata.gouv.tg '
+DEMO_SERVER_NAME = 'demo.opendata.gouv.tg '
 
 # Frontend forms url
 DATA_SEARCH_FEEDBACK_FORM_URL = ''
@@ -38,20 +38,20 @@ PAGES_REPO_BRANCH = 'master'
 APIGOUVFR_URL = 'https://api.gouv.fr/api/v1/apis'
 APIGOUVFR_ALLOW_OPENNESS = ['open', 'semi_open']
 
-# catalogue.opendata.gouv.tg
-CATALOG_URL = 'https://catalogue.opendata.gouv.tg/'
+# catalogue.opendata.gouv.tg 
+CATALOG_URL = 'https://catalogue.opendata.gouv.tg /'
 
-# suport.opendata.gouv.tg
-SUPPORT_URL = 'https://support.opendata.gouv.tg/'
+# suport.opendata.gouv.tg 
+SUPPORT_URL = 'https://support.opendata.gouv.tg /'
 
 # Guides
-GUIDES_URL = 'https://guides.opendata.gouv.tg/'
-GUIDES_USER_ACCOUNT_URL = 'https://guides.opendata.gouv.tg/publier-des-donnees/guide-opendata.gouv.tg/creer-un-compte-utilisateur-et-rejoindre-une-organisation' # noqa
-GUIDES_ORGANIZATION_URL = 'https://guides.opendata.gouv.tg/publier-des-donnees/guide-opendata.gouv.tg/organisation/creer-une-organisation' # noqa
-GUIDES_DATASET_URL = 'https://guides.opendata.gouv.tg/publier-des-donnees/guide-opendata.gouv.tg/jeux-de-donnees/publier-un-jeu-de-donnees' # noqa
-GUIDES_REUSE_URL = 'https://guides.opendata.gouv.tg/publier-des-donnees/guide-opendata.gouv.tg/reutilisations' # noqa
-GUIDES_COMMUNITY_URL = 'https://guides.opendata.gouv.tg/publier-des-donnees/guide-opendata.gouv.tg/ressource-communautaire' # noqa
-GUIDES_QUALITY_URL = 'https://guides.opendata.gouv.tg/publier-des-donnees/guide-qualite/ameliorer-la-qualite-dun-jeu-de-donnees-en-continu/ameliorer-le-score-de-qualite-des-metadonnees' # noqa
+GUIDES_URL = 'https://guides.opendata.gouv.tg /'
+GUIDES_USER_ACCOUNT_URL = 'https://guides.opendata.gouv.tg /publier-des-donnees/guide-opendata.gouv.tg /creer-un-compte-utilisateur-et-rejoindre-une-organisation' # noqa
+GUIDES_ORGANIZATION_URL = 'https://guides.opendata.gouv.tg /publier-des-donnees/guide-opendata.gouv.tg /organisation/creer-une-organisation' # noqa
+GUIDES_DATASET_URL = 'https://guides.opendata.gouv.tg /publier-des-donnees/guide-opendata.gouv.tg /jeux-de-donnees/publier-un-jeu-de-donnees' # noqa
+GUIDES_REUSE_URL = 'https://guides.opendata.gouv.tg /publier-des-donnees/guide-opendata.gouv.tg /reutilisations' # noqa
+GUIDES_COMMUNITY_URL = 'https://guides.opendata.gouv.tg /publier-des-donnees/guide-opendata.gouv.tg /ressource-communautaire' # noqa
+GUIDES_QUALITY_URL = 'https://guides.opendata.gouv.tg /publier-des-donnees/guide-qualite/ameliorer-la-qualite-dun-jeu-de-donnees-en-continu/ameliorer-le-score-de-qualite-des-metadonnees' # noqa
 
 # CAPTCHEtat
 
@@ -72,7 +72,7 @@ PROCONNECT_CLIENT_ID = None
 PROCONNECT_CLIENT_SECRET = None
 
 # Newsletter
-NEWSLETTER_SUBSCRIPTION_URL = 'https://f.info.opendata.gouv.tg/f/lp/infolettre-data-gouv-fr-landing-page/lk3q01y6'  # noqa
+NEWSLETTER_SUBSCRIPTION_URL = 'https://f.info.opendata.gouv.tg /f/lp/infolettre-data-gouv-fr-landing-page/lk3q01y6'  # noqa
 
 # Metrics API
 METRICS_API = None

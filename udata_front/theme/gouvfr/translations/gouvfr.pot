@@ -7,12 +7,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: udata-front 6.0.2.dev0\n"
-"Report-Msgid-Bugs-To: data.gouv@opendata.gouv.tg\n"
-"POT-Creation-Date: 2024-11-22 11:35+0000\n"
-"PO-Revision-Date: 2024-11-22 11:35+0000\n"
-"Last-Translator: Data.gouv.fr Team <data.gouv@opendata.gouv.tg>\n"
+"Report-Msgid-Bugs-To: data.gouv@opendata.gouv.tg \n"
+"POT-Creation-Date: 2024-11-22 12:23+0000\n"
+"PO-Revision-Date: 2024-11-22 12:23+0000\n"
+"Last-Translator: opendata.gouv.tg  Team <data.gouv@opendata.gouv.tg >\n"
 "Language: en\n"
-"Language-Team: Data.gouv.fr Team <data.gouv@opendata.gouv.tg>\n"
+"Language-Team: opendata.gouv.tg  Team <data.gouv@opendata.gouv.tg >\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -135,11 +135,11 @@ msgid "Organizations"
 msgstr ""
 
 #: udata_front/theme/gouvfr/__init__.py:50
-msgid "Getting started on opendata.gouv.tg"
+msgid "Getting started on opendata.gouv.tg "
 msgstr ""
 
 #: udata_front/theme/gouvfr/__init__.py:52
-msgid "What is opendata.gouv.tg?"
+msgid "What is opendata.gouv.tg ?"
 msgstr ""
 
 #: udata_front/theme/gouvfr/__init__.py:57
@@ -151,7 +151,7 @@ msgid "How to use data ?"
 msgstr ""
 
 #: udata_front/theme/gouvfr/__init__.py:67
-msgid "opendata.gouv.tg guides"
+msgid "opendata.gouv.tg  guides"
 msgstr ""
 
 #: udata_front/theme/gouvfr/__init__.py:72
@@ -204,7 +204,7 @@ msgid "api.gouv.fr"
 msgstr ""
 
 #: udata_front/theme/gouvfr/__init__.py:114
-msgid "schema.opendata.gouv.tg"
+msgid "schema.opendata.gouv.tg "
 msgstr ""
 
 #: udata_front/theme/gouvfr/__init__.py:124
@@ -328,7 +328,7 @@ msgid "Open-source engine: udata ({version})"
 msgstr ""
 
 #: udata_front/theme/gouvfr/templates/footer.html:85
-msgid "opendata.gouv.tg extension: udata-front"
+msgid "opendata.gouv.tg  extension: udata-front"
 msgstr ""
 
 #: udata_front/theme/gouvfr/templates/footer.html:88
@@ -377,7 +377,7 @@ msgstr ""
 
 #: udata_front/theme/gouvfr/templates/footer.html:181
 #: udata_front/theme/gouvfr/templates/footer.html:257
-msgid "Go back to website home - opendata.gouv.tg - République Française"
+msgid "Go back to website home - opendata.gouv.tg  - République Française"
 msgstr ""
 
 #: udata_front/theme/gouvfr/templates/footer.html:187
@@ -964,12 +964,12 @@ msgstr ""
 
 #: udata_front/theme/gouvfr/templates/dataset/display.html:150
 msgid ""
-"This dataset is handled by the <a href='{geo_link}'>geo.opendata.gouv.tg</a> "
+"This dataset is handled by the <a href='{geo_link}'>geo.opendata.gouv.tg </a> "
 "platform.\n"
 "                This platform is not actively maintained and as a result, you"
 " may find some bogus data or metadata.\n"
 "                More information about <a href='{blog_link}'>the shutdown of "
-"geo.opendata.gouv.tg is available here.</a>"
+"geo.opendata.gouv.tg  is available here.</a>"
 msgstr ""
 
 #: udata_front/theme/gouvfr/templates/dataset/display.html:166
@@ -1116,7 +1116,7 @@ msgid ""
 "                                discover how schemas improve your data "
 "quality and the available use cases\n"
 "                                on <a "
-"href=\"{url}\">schema.opendata.gouv.tg</a>"
+"href=\"{url}\">schema.opendata.gouv.tg </a>"
 msgstr ""
 
 #: udata_front/theme/gouvfr/templates/dataset/display.html:640

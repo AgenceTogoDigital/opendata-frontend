@@ -9,7 +9,7 @@ const meta = {
 export default meta;
 
 const args = {
-  steps: ["Publish data on opendata.gouv.tg", "Describe your dataset", "Add files", "Complete your publishing"],
+  steps: ["Publish data on opendata.gouv.tg ", "Describe your dataset", "Add files", "Complete your publishing"],
   currentStep: 0,
 };
 

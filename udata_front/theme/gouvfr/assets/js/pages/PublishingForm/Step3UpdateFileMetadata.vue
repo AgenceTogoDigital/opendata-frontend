@@ -101,7 +101,7 @@
                 class="fr-m-0 fr-mb-1w"
               >
                 <template v-slot:schema>
-                  <a :href="schema_documentation_url">schema.opendata.gouv.tg</a>
+                  <a :href="schema_documentation_url">schema.opendata.gouv.tg </a>
                 </template>
               </i18n-t>
             </Accordion>

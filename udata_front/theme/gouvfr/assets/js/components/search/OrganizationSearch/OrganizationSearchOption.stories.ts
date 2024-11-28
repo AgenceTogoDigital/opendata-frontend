@@ -28,7 +28,7 @@ export const DefaultOrganizationSearchOption: StoryObj<typeof meta> = {
   }),
   args: {
     name: 'Etalab',
-    link: 'https://www.opendata.gouv.tg/fr/organizations/etalab/',
+    link: 'https://www.opendata.gouv.tg /fr/organizations/etalab/',
     logo: ''
   },
 };

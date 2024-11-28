@@ -19,8 +19,8 @@ const originalReuse : Reuse = {
   extras: {},
   featured: false,
   id: "someId",
-  image: "https://static.opendata.gouv.tg/images/aa/c1f583251a4697850bd01e2cc95877.png",
-  image_thumbnail: "https://static.opendata.gouv.tg/images/aa/c1f583251a4697850bd01e2cc95877.png",
+  image: "https://static.opendata.gouv.tg /images/aa/c1f583251a4697850bd01e2cc95877.png",
+  image_thumbnail: "https://static.opendata.gouv.tg /images/aa/c1f583251a4697850bd01e2cc95877.png",
   last_modified: "2024-03-04T08:07:50.215000+00:00",
   metrics: {
     datasets: 1,
@@ -30,15 +30,15 @@ const originalReuse : Reuse = {
   },
   organization: null,
   owner: {
-    avatar: "https://static.opendata.gouv.tg/avatars/27/62003f06b04fa996d1e3ae84adbaf9-original.png",
-    avatar_thumbnail: "https://static.opendata.gouv.tg/avatars/27/62003f06b04fa996d1e3ae84adbaf9-500.png",
+    avatar: "https://static.opendata.gouv.tg /avatars/27/62003f06b04fa996d1e3ae84adbaf9-original.png",
+    avatar_thumbnail: "https://static.opendata.gouv.tg /avatars/27/62003f06b04fa996d1e3ae84adbaf9-500.png",
     class: "User",
     first_name: "Benoit",
     id: "5bdb10308b4c4108ae679f01",
     last_name: "Demaegdt",
-    page: "https://www.opendata.gouv.tg/fr/users/benoit-demaegdt/",
+    page: "https://www.opendata.gouv.tg /fr/users/benoit-demaegdt/",
     slug: "benoit-demaegdt",
-    uri: "https://www.opendata.gouv.tg/api/1/users/benoit-demaegdt/"
+    uri: "https://www.opendata.gouv.tg /api/1/users/benoit-demaegdt/"
   },
   page: "",
   private: false,
@@ -52,13 +52,13 @@ const originalReuse : Reuse = {
   topic: "transport_and_mobility",
   type: "vizualization",
   uri: "",
-  url: "opendata.gouv.tg"
+  url: "opendata.gouv.tg "
 };
 
 const args = {
   originalReuse,
-  feedbackUrl: "https://demo.opendata.gouv.tg/fr/reuses/?q=feedback",
-  redirectDraftUrl: "https://demo.opendata.gouv.tg/fr/reuses/?q=draft",
+  feedbackUrl: "https://demo.opendata.gouv.tg /fr/reuses/?q=feedback",
+  redirectDraftUrl: "https://demo.opendata.gouv.tg /fr/reuses/?q=draft",
   steps: ["Describe your reuse", "Add datasets", "Complete your publishing"],
 };
 

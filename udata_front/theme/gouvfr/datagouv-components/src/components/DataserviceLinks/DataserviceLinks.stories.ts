@@ -22,7 +22,7 @@ const dataservice: Dataservice = {
   archived_at: null,
   authorization_request_url: null,
   availability: 99.9,
-  base_api_url: "https://www.opendata.gouv.tg",
+  base_api_url: "https://www.opendata.gouv.tg ",
   created_at: (new Date()).toDateString(),
   datasets: [
     {
@@ -36,7 +36,7 @@ const dataservice: Dataservice = {
   ],
   deleted_at: null,
   description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
-  endpoint_description_url: "https://www.opendata.gouv.tg",
+  endpoint_description_url: "https://www.opendata.gouv.tg ",
   extras: {},
   format: "json",
   harvest: {},
@@ -61,15 +61,15 @@ const dataservice: Dataservice = {
       views: 0
     },
     acronym: null,
-    logo: "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
-    logo_thumbnail: "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
-    page: "https://demo.opendata.gouv.tg/fr/organizations/test-meteo-france/",
+    logo: "https://static.opendata.gouv.tg /avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
+    logo_thumbnail: "https://static.opendata.gouv.tg /avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
+    page: "https://demo.opendata.gouv.tg /fr/organizations/test-meteo-france/",
     business_number_id: "",
     description: "",
     badges: [{kind: 'certified'}, {kind: 'public-service'}],
     name: "Météo France",
     slug: "test-meteo-france",
-    uri: "https://demo.opendata.gouv.tg/api/1/organizations/test-meteo-france/",
+    uri: "https://demo.opendata.gouv.tg /api/1/organizations/test-meteo-france/",
     url: ""
   },
   owner: null,

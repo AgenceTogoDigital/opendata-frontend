@@ -25,9 +25,9 @@ const args = {
     description: "Some description",
     created_at: (new Date()).toDateString(),
     last_modified: (new Date()).toDateString(),
-    page: "https://www.opendata.gouv.tg",
-    url: "https://www.opendata.gouv.tg",
-    uri: "https://www.opendata.gouv.tg",
+    page: "https://www.opendata.gouv.tg ",
+    url: "https://www.opendata.gouv.tg ",
+    uri: "https://www.opendata.gouv.tg ",
     archived: null,
     deleted: null,
     private: false,
@@ -40,7 +40,7 @@ const args = {
       id: "someUserId",
       first_name: "First",
       last_name: "Last",
-      page: "https://demo.opendata.gouv.tg/en/users/antonin-garrone/",
+      page: "https://demo.opendata.gouv.tg /en/users/antonin-garrone/",
     },
     organization: null,
     metrics: {
@@ -50,8 +50,8 @@ const args = {
       views: 5,
     },
     title: "My new reuse",
-    image: "https://static.opendata.gouv.tg/images/aa/c1f583251a4697850bd01e2cc95877.png",
-    image_thumbnail: "https://static.opendata.gouv.tg/images/aa/c1f583251a4697850bd01e2cc95877.png",
+    image: "https://static.opendata.gouv.tg /images/aa/c1f583251a4697850bd01e2cc95877.png",
+    image_thumbnail: "https://static.opendata.gouv.tg /images/aa/c1f583251a4697850bd01e2cc95877.png",
   } satisfies Reuse,
 };
 

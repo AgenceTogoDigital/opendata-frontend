@@ -26,7 +26,7 @@ const owner: User = {
   id: "someId",
   first_name: "Jean",
   last_name: "Dupond",
-  page: "http://www.opendata.gouv.tg",
+  page: "http://www.opendata.gouv.tg ",
 };
 
 const args: CardLGProps = {
@@ -37,7 +37,7 @@ const args: CardLGProps = {
     description: "Some description",
     last_update: (new Date()).toDateString(),
     license: "lov2",
-    page: "https://www.opendata.gouv.tg",
+    page: "https://www.opendata.gouv.tg ",
     private: false,
     quality: {
       all_resources_available: true,
@@ -57,7 +57,7 @@ const args: CardLGProps = {
     community_resources: [],
     created_at: "2014-12-12T12:01:06.889000+00:00",
     last_modified: "2020-11-03T09:16:55.837000+00:00",
-    uri: "https://www.opendata.gouv.tg",
+    uri: "https://www.opendata.gouv.tg ",
     slug: "data-gouv-fr",
     tags: [],
     frequency: "Unknown",
@@ -93,7 +93,7 @@ updateLastYear.setFullYear(updateLastYear.getFullYear() - 1, 0, 1);
 
 const ownerWithAvatar: User = {
   ...owner,
-  avatar_thumbnail: "https://static.opendata.gouv.tg/avatars/0d/aebc1b126b410aa73701fde285dd76-100.jpg"
+  avatar_thumbnail: "https://static.opendata.gouv.tg /avatars/0d/aebc1b126b410aa73701fde285dd76-100.jpg"
 };
 
 const organization: Organization = {
@@ -101,16 +101,16 @@ const organization: Organization = {
   acronym: null,
   name: "My Organization",
   badges: [],
-  page: "https://www.opendata.gouv.tg/fr/organizations/data-gouv-fr/",
-  uri: "https://www.opendata.gouv.tg/fr/organizations/data-gouv-fr/",
+  page: "https://www.opendata.gouv.tg /fr/organizations/data-gouv-fr/",
+  uri: "https://www.opendata.gouv.tg /fr/organizations/data-gouv-fr/",
   slug: "data-gouv-fr",
-  logo: "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a.jpeg",
-  logo_thumbnail: "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
+  logo: "https://static.opendata.gouv.tg /avatars/09/1ba932cbfa48dc8c158981de6c700a.jpeg",
+  logo_thumbnail: "https://static.opendata.gouv.tg /avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
 };
 
 const organizationWithLogo: Organization = {
   ...organization,
-  logo_thumbnail: "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg"
+  logo_thumbnail: "https://static.opendata.gouv.tg /avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg"
 };
 
 const argsWithOwnerWithAvatar: CardLGProps = {

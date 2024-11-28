@@ -5,6 +5,7 @@ from datetime import datetime
 from babel.messages.pofile import read_po, write_po
 from babel.util import LOCALTZ
 from invoke import task, call
+from logging import Logger
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__)))
 
@@ -116,9 +117,9 @@ def set_po_metadata(filename, locale):
     with open(filename, 'rb') as infile:
         catalog = read_po(infile, locale)
     catalog.copyright_holder = 'Etalab'
-    catalog.msgid_bugs_address = 'data.gouv@opendata.gouv.tg'
-    catalog.language_team = 'Data.gouv.fr Team <data.gouv@opendata.gouv.tg>'
-    catalog.last_translator = 'Data.gouv.fr Team <data.gouv@opendata.gouv.tg>'
+    catalog.msgid_bugs_address = 'data.gouv@opendata.gouv.tg '
+    catalog.language_team = 'opendata.gouv.tg  Team <data.gouv@opendata.gouv.tg >'
+    catalog.last_translator = 'opendata.gouv.tg  Team <data.gouv@opendata.gouv.tg >'
     catalog.revision_date = datetime.now(LOCALTZ)
     with open(filename, 'wb') as outfile:
         write_po(outfile, catalog, width=80)
@@ -134,7 +135,7 @@ def i18n(ctx, update=False):
     info('Extract python translations')
     with ctx.cd(ROOT):
         ctx.run('python setup.py extract_messages')
-        set_po_metadata(os.path.join(I18N_ROOT, 'gouvfr.pot'), 'en')
+        set_po_metadata(os.path.join(I18N_ROOT, 'gouvfr.pot'), 'fr')
         for lang in LANGUAGES:
             pofile = os.path.join(I18N_ROOT, lang, 'LC_MESSAGES', 'gouvfr.po')
             if not os.path.exists(pofile):
@@ -150,10 +151,10 @@ def i18n(ctx, update=False):
         ctx.run('npm run i18n:extract')
     success('Updated udata-front translations')
 
-    info('Extract opendata.gouv.tg-components vue translations')
+    info('Extract opendata.gouv.tg -components vue translations')
     with ctx.cd(COMPONENTS_ROOT):
         ctx.run('npm run i18n:extract')
-    success('Updated opendata.gouv.tg-components translations')
+    success('Updated opendata.gouv.tg -components translations')
 
 
 

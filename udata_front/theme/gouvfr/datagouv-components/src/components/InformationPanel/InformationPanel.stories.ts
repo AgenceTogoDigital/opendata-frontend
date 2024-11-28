@@ -36,16 +36,16 @@ const quality : Quality = {
 
 const dataset : DatasetV2 = {
   id: "653a6afa18f9f98d2ffdadee",
-  page: "https://demo.opendata.gouv.tg/fr/datasets/donnees-changement-climatique-sqr/",
+  page: "https://demo.opendata.gouv.tg /fr/datasets/donnees-changement-climatique-sqr/",
   resources: {
     rel: "subsection",
-    href: "https://demo.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=653a6afa18f9f98d2ffdadee&page=1&page_size=50",
+    href: "https://demo.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=653a6afa18f9f98d2ffdadee&page=1&page_size=50",
     total: 12,
     type: "GET"
   },
   community_resources: {
     rel: "subsection",
-    href: "https://demo.opendata.gouv.tg/api/2/datasets/653a6afa18f9f98d2ffdadee/resources/?page=1&page_size=50",
+    href: "https://demo.opendata.gouv.tg /api/2/datasets/653a6afa18f9f98d2ffdadee/resources/?page=1&page_size=50",
     total: 0,
     type: "GET"
   },
@@ -85,7 +85,7 @@ const dataset : DatasetV2 = {
   created_at: "2023-10-26T13:34:50.156000+00:00",
   last_modified: "2023-12-07T16:51:02.937000+00:00",
   last_update: "2023-11-03T08:55:42.847000+00:00",
-  uri: "https://demo.opendata.gouv.tg/api/1/datasets/donnees-changement-climatique-sqr/",
+  uri: "https://demo.opendata.gouv.tg /api/1/datasets/donnees-changement-climatique-sqr/",
   slug: "donnees-changement-climatique-sqr",
   quality: quality,
   metrics: { discussions: 12, followers: 25, reuses: 8, views: 59, resources_downloads:	18705 },
@@ -103,13 +103,13 @@ const dataset : DatasetV2 = {
   organization: {
     id: "some_id",
     acronym: null,
-    logo: "https://demo-static.opendata.gouv.tg/avatars/a2/b135634de04fb8a76c8ec3100e5e4b.png",
-    logo_thumbnail:"https://demo-static.opendata.gouv.tg/avatars/a2/b135634de04fb8a76c8ec3100e5e4b-100.png",
-    page: "https://demo.opendata.gouv.tg/fr/organizations/test-meteo-france/",
+    logo: "https://demo-static.opendata.gouv.tg /avatars/a2/b135634de04fb8a76c8ec3100e5e4b.png",
+    logo_thumbnail:"https://demo-static.opendata.gouv.tg /avatars/a2/b135634de04fb8a76c8ec3100e5e4b-100.png",
+    page: "https://demo.opendata.gouv.tg /fr/organizations/test-meteo-france/",
     badges: [],
     name: "[TEST] Météo France",
     slug: "test-meteo-france",
-    uri: "https://demo.opendata.gouv.tg/api/1/organizations/test-meteo-france/"
+    uri: "https://demo.opendata.gouv.tg /api/1/organizations/test-meteo-france/"
   }
 };
 const license : License = {

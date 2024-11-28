@@ -1,7 +1,7 @@
 <template>
   <MultiSelect
     :placeholder="$t('Schema')"
-    :explanation="showExplanation ? $t('Data schemas describe data models: what are the fields, how are data shown, what are the available values, etc. See schema.opendata.gouv.tg') : ''"
+    :explanation="showExplanation ? $t('Data schemas describe data models: what are the fields, how are data shown, what are the available values, etc. See schema.opendata.gouv.tg ') : ''"
     :searchPlaceholder="$t('Search a schema...')"
     :allOption="allOption ? allOption : $t('All schemas')"
     :initialOptions="initialOptions"

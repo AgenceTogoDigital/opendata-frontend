@@ -6,7 +6,7 @@
     <span class="fr-icon-search-line absolute fr-m-1w" aria-hidden="true"></span>
     <input
       class="fr-input fr-col-12 fr-pl-10v"
-      :placeholder="t('Search an organization on opendata.gouv.tg')"
+      :placeholder="t('Search an organization on opendata.gouv.tg ')"
       ref="inputRef"
       autocomplete="off"
       role="combobox"

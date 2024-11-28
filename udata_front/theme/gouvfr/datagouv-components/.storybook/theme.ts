@@ -7,8 +7,8 @@ export default create({
   fontBase: 'Marianne, sans-serif',
   fontCode: 'monospace',
 
-  brandTitle: 'opendata.gouv.tg-components Storybook',
-  brandUrl: 'https://www.opendata.gouv.tg',
+  brandTitle: 'opendata.gouv.tg -components Storybook',
+  brandUrl: 'https://www.opendata.gouv.tg ',
   brandImage: logo,
   colorPrimary: '#161616',
   colorSecondary: '#3558a2'

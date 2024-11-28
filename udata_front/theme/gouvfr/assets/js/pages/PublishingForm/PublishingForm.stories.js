@@ -7,7 +7,7 @@ export default {
 };
 
 const args = {
-  redirectDraftUrl: "https://demo.opendata.gouv.tg/fr/datasets/?q=draft",
+  redirectDraftUrl: "https://demo.opendata.gouv.tg /fr/datasets/?q=draft",
 };
 
 export const Form = {

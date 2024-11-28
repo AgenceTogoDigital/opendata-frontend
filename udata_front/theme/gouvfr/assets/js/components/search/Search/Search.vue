@@ -70,7 +70,7 @@
                 <div class="fr-col-12">
                   <MultiSelect
                     :placeholder="t('Licenses')"
-                    :explanation="t('Licenses define reuse rules for published datasets. See page opendata.gouv.tg/licences')"
+                    :explanation="t('Licenses define reuse rules for published datasets. See page opendata.gouv.tg /licences')"
                     :searchPlaceholder="t('Search a license...')"
                     :allOption="t('All licenses')"
                     :listUrl="licensesUrl"

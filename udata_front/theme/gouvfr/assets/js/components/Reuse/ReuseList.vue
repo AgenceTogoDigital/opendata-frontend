@@ -33,7 +33,7 @@ export type ReuseListProps = {
   pageSize?: number,
 };
 
-/** TODO : use a config when the component moved to opendata.gouv.tg-components */
+/** TODO : use a config when the component moved to opendata.gouv.tg -components */
 const defaultPageSize = 20;
 </script>
 

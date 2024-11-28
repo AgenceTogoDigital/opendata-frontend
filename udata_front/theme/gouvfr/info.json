@@ -1,10 +1,10 @@
 {
   "application": "udata",
   "identifier": "gouvfr",
-  "name": "Data.gouv.fr",
+  "name": "opendata.gouv.tg ",
   "author": "Etalab",
-  "description": "Data.gouv.fr theme",
-  "website": "http://opendata.gouv.tg",
+  "description": "opendata.gouv.tg  theme",
+  "website": "http://opendata.gouv.tg ",
   "license": "AGPL",
   "version": "0.1.0",
   "doctype": "html5",

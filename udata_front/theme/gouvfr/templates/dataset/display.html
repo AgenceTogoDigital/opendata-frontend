@@ -10,7 +10,7 @@
 {% from theme('macros/quality_score_with_warning_below.html') import quality_score_with_warning_below %}
 {% from theme('macros/report.html') import report_btn with context %}
 
-## FIXME: remove inspire:indentifier robots condition when geo.opendata.gouv.tg is shutdown
+## FIXME: remove inspire:indentifier robots condition when geo.opendata.gouv.tg  is shutdown
 {% set meta = {
     'title': dataset.full_title,
     'description': dataset.description|mdstrip(60)|forceescape,
@@ -144,14 +144,14 @@
                     )}}
                 </div>
             {% endif %}
-            {# FIXME: remove when geo.opendata.gouv.tg is shutdown #}
+            {# FIXME: remove when geo.opendata.gouv.tg  is shutdown #}
             {% if 'geop:dataset_id' in dataset.extras %}
             <p class="well well-warning fr-py-3v fr-my-3v fr-text--sm">
-                ⚠️ {{ _("This dataset is handled by the <a href='{geo_link}'>geo.opendata.gouv.tg</a> platform.
+                ⚠️ {{ _("This dataset is handled by the <a href='{geo_link}'>geo.opendata.gouv.tg </a> platform.
                 This platform is not actively maintained and as a result, you may find some bogus data or metadata.
-                More information about <a href='{blog_link}'>the shutdown of geo.opendata.gouv.tg is available here.</a>").format(
-                    geo_link='https://geo.opendata.gouv.tg',
-                    blog_link='https://www.opendata.gouv.tg/fr/posts/extinction-de-geo-data-gouv-fr/'
+                More information about <a href='{blog_link}'>the shutdown of geo.opendata.gouv.tg  is available here.</a>").format(
+                    geo_link='https://geo.opendata.gouv.tg ',
+                    blog_link='https://www.opendata.gouv.tg /fr/posts/extinction-de-geo-data-gouv-fr/'
                 )}}
             </p>
             {% endif %}
@@ -628,7 +628,7 @@
                             <p class="fr-text--xs fr-m-0">
                                 {{_('Schemas allow to describe data models,
                                 discover how schemas improve your data quality and the available use cases
-                                on <a href="{url}">schema.opendata.gouv.tg</a>')
+                                on <a href="{url}">schema.opendata.gouv.tg </a>')
                                 .format(url=config.SCHEMA_DOCUMENTATION_URL)}}
                             </p>
                         </div>

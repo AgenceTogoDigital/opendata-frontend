@@ -38,7 +38,7 @@ export const SimpleExternalLink: StoryObj<typeof meta> = {
     setup() {
       return { args };
     },
-    template: `<AppLink to="https://www.opendata.gouv.tg">
+    template: `<AppLink to="https://www.opendata.gouv.tg ">
                 Link test
               </AppLink>`,
   }),
@@ -51,7 +51,7 @@ export const SimpleExternalLinkInNewWindow: StoryObj<typeof meta> = {
     setup() {
       return { args };
     },
-    template: `<AppLink to="https://www.opendata.gouv.tg" target="_blank">
+    template: `<AppLink to="https://www.opendata.gouv.tg " target="_blank">
                 Link test
               </AppLink>`,
   }),
@@ -71,7 +71,7 @@ export const SimpleInternalLinks: StoryObj<typeof meta> = {
                 <AppLink to="/about">
                   About
                 </AppLink>
-                <AppLink to="https://www.opendata.gouv.tg">
+                <AppLink to="https://www.opendata.gouv.tg ">
                   External Site
                 </AppLink>
               </div>

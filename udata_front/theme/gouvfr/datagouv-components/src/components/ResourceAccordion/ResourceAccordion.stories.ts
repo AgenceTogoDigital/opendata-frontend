@@ -72,14 +72,14 @@ test.. test... test..... test?..... test!....
     id: "e2bc9b7c-4598-4bdb-92c3-9109a16f288c",
     internal: {created_at_internal: "2023-11-15T10:40:22.288000+00:00", last_modified_internal: "2023-11-15T10:40:22.461000+00:00"},
     last_modified: "2023-11-15T10:40:22.461000+00:00",
-    latest: "https://www.opendata.gouv.tg/fr/datasets/r/e2bc9b7c-4598-4bdb-92c3-9109a16f288c",
+    latest: "https://www.opendata.gouv.tg /fr/datasets/r/e2bc9b7c-4598-4bdb-92c3-9109a16f288c",
     metrics: {views: 0},
     mime: "text/csv",
     preview_url: "",
     schema: null,
     title: "tondeuse_batterie_fr.csv",
     type: "main",
-    url: "https://static.opendata.gouv.tg/resources/indice-de-reparabilite-organisation-ribimex/20231115-104022/data.csv"
+    url: "https://static.opendata.gouv.tg /resources/indice-de-reparabilite-organisation-ribimex/20231115-104022/data.csv"
   } satisfies Resource
 };
 
@@ -97,14 +97,14 @@ const argsWithSchema = {
     id: "e2bc9b7c-4598-4bdb-92c3-9109a16f288c",
     internal: {created_at_internal: "2023-11-15T10:40:22.288000+00:00", last_modified_internal: "2023-11-15T10:40:22.461000+00:00"},
     last_modified: "2023-11-15T10:40:22.461000+00:00",
-    latest: "https://www.opendata.gouv.tg/fr/datasets/r/e2bc9b7c-4598-4bdb-92c3-9109a16f288c",
+    latest: "https://www.opendata.gouv.tg /fr/datasets/r/e2bc9b7c-4598-4bdb-92c3-9109a16f288c",
     metrics: {views: 15000000},
     mime: "text/csv",
-    preview_url: "https://explore.opendata.gouv.tg/?url=https%3A%2F%2Fwww.opendata.gouv.tg%2Ffr%2Fdatasets%2Fr%2Fe2bc9b7c-4598-4bdb-92c3-9109a16f288c",
+    preview_url: "https://explore.opendata.gouv.tg /?url=https%3A%2F%2Fwww.opendata.gouv.tg %2Ffr%2Fdatasets%2Fr%2Fe2bc9b7c-4598-4bdb-92c3-9109a16f288c",
     schema: {name: "etalab/schema-indice-reparabilite", version: "0.1.2"},
     title: "tondeuse_batterie_fr.csv",
     type: "main",
-    url: "https://static.opendata.gouv.tg/resources/indice-de-reparabilite-organisation-ribimex/20231115-104022/data.csv"
+    url: "https://static.opendata.gouv.tg /resources/indice-de-reparabilite-organisation-ribimex/20231115-104022/data.csv"
   } satisfies Resource
 };
 

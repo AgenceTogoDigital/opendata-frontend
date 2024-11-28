@@ -2,7 +2,7 @@ import type { License } from "@datagouv/components/ts";
 import { MaybeRefOrGetter, ref, toValue, watchEffect } from "vue";
 import fetchLicenses from "../api/licenses";
 
-/** TODO : to be removed when the component moved to opendata.gouv.tg-components */
+/** TODO : to be removed when the component moved to opendata.gouv.tg -components */
 
 export default function useLicense(id: MaybeRefOrGetter<string>) {
     const license = ref<License | null>(null);

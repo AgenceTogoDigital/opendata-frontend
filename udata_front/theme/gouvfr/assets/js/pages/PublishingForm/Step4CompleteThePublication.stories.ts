@@ -16,9 +16,9 @@ const originalDataset = CardLG.CardLGWithOrganizationLogo.args.dataset as Datase
 
 const args = {
   originalDataset,
-  feedbackUrl: "https://demo.opendata.gouv.tg/fr/datasets/?q=feedback",
+  feedbackUrl: "https://demo.opendata.gouv.tg /fr/datasets/?q=feedback",
   steps: Stepper.StepperOnSecondStep.args.steps,
-  redirectDraftUrl: "https://demo.opendata.gouv.tg/fr/datasets/?q=draft",
+  redirectDraftUrl: "https://demo.opendata.gouv.tg /fr/datasets/?q=draft",
 };
 
 export const Step4 : StoryObj<typeof meta> = {

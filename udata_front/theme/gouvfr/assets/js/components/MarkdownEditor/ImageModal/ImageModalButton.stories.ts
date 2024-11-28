@@ -29,7 +29,7 @@ const args = {};
 
 export const DefaultImageModalButton: StoryObj<typeof meta> = {
   play: async ({ args, step }) => {
-    const link = "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a.jpeg";
+    const link = "https://static.opendata.gouv.tg /avatars/09/1ba932cbfa48dc8c158981de6c700a.jpeg";
 
     await step('Click on button', async () => {
       await userEvent.click(screen.getByTestId("image-modal-button"));

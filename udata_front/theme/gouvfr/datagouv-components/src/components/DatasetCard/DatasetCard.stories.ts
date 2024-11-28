@@ -32,23 +32,23 @@ const datasetRoutes = [
 
 const dataset: DatasetV2 = {
   id: "653a6afa18f9f98d2ffdadee",
-  page: "https://demo.opendata.gouv.tg/fr/datasets/donnees-changement-climatique-sqr/",
+  page: "https://demo.opendata.gouv.tg /fr/datasets/donnees-changement-climatique-sqr/",
   resources: {
     rel: "subsection",
-    href: "https://demo.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=653a6afa18f9f98d2ffdadee&page=1&page_size=50",
+    href: "https://demo.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=653a6afa18f9f98d2ffdadee&page=1&page_size=50",
     total: 12,
     type: "GET"
   },
   community_resources: {
     rel: "subsection",
-    href: "https://demo.opendata.gouv.tg/api/2/datasets/653a6afa18f9f98d2ffdadee/resources/?page=1&page_size=50",
+    href: "https://demo.opendata.gouv.tg /api/2/datasets/653a6afa18f9f98d2ffdadee/resources/?page=1&page_size=50",
     total: 0,
     type: "GET"
   },
   created_at: (new Date()).toDateString(),
   last_modified: (new Date()).toDateString(),
   last_update: (new Date()).toDateString(),
-  uri: "https://demo.opendata.gouv.tg/api/1/datasets/donnees-changement-climatique-sqr/",
+  uri: "https://demo.opendata.gouv.tg /api/1/datasets/donnees-changement-climatique-sqr/",
   slug: "donnees-changement-climatique-sqr",
   quality: {
     all_resources_available: false,
@@ -92,9 +92,9 @@ const dataset: DatasetV2 = {
       views: 0
     },
     acronym: null,
-    logo: "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
-    logo_thumbnail: "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
-    page: "https://demo.opendata.gouv.tg/fr/organizations/test-meteo-france/",
+    logo: "https://static.opendata.gouv.tg /avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
+    logo_thumbnail: "https://static.opendata.gouv.tg /avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
+    page: "https://demo.opendata.gouv.tg /fr/organizations/test-meteo-france/",
     business_number_id: "",
     description: "",
     badges: [
@@ -107,7 +107,7 @@ const dataset: DatasetV2 = {
     ],
     name: "Météo France",
     slug: "test-meteo-france",
-    uri: "https://demo.opendata.gouv.tg/api/1/organizations/test-meteo-france/",
+    uri: "https://demo.opendata.gouv.tg /api/1/organizations/test-meteo-france/",
     url: ""
   }
 };
@@ -163,7 +163,7 @@ export const DatasetCardSimpleWithOwner: StoryObj<typeof meta> = {
         id: "someUserId",
         first_name: "John",
         last_name: "Doedoedoedoedoedoedoedoedoedoedoedoe",
-        page: "https://demo.opendata.gouv.tg/en/users/antonin-garrone/",
+        page: "https://demo.opendata.gouv.tg /en/users/antonin-garrone/",
       },
     }
   },
