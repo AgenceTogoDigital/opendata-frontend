@@ -568,16 +568,16 @@ msgid "Linkedin - new tab"
 msgstr "Linkedin - nouvel onglet"
 
 #: udata_front/theme/gouvfr/templates/newsletter.html:52
-msgid "Mastodon - new tab"
-msgstr "Mastodon - nouvel onglet"
+msgid "YouTube - new tab"
+msgstr "YouTube - nouvel onglet"
 
 #: udata_front/theme/gouvfr/templates/newsletter.html:57
 msgid "Github - new tab"
 msgstr "Github - nouvel onglet"
 
 #: udata_front/theme/gouvfr/templates/newsletter.html:62
-msgid "RSS - new tab"
-msgstr "RSS - nouvel onglet"
+msgid "Facebook - new tab"
+msgstr "Facebook - nouvel onglet"
 
 #: udata_front/theme/gouvfr/templates/dataset/display.html:647
 #: udata_front/theme/gouvfr/templates/page.html:52

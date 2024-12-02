@@ -102,7 +102,7 @@
                                 <li>
                                     <a class="fr-link" title="{{_('Twitter - new tab')}}"
                                         href="https://x.com/digitalgouvtg" target="_blank">
-                                        <span class="fr-icon-twitter-line fr-mr-1w" aria-hidden="true"></span> Twitter
+                                        <span class="fr-icon-twitter-x-line fr-mr-1w" aria-hidden="true"></span> Twitter
                                     </a>
                                 </li>
                                 <li>
@@ -113,22 +113,24 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a class="fr-link" title="{{_('Mastodon - new tab')}}" href="#" target="_blank">
-                                        <span class="fr-icon-mastodon-line fr-mr-1w" aria-hidden="true"></span> Mastodon
+                                    <a class="fr-link" title="{{_('YouTube - new tab')}}" href="#" target="_blank">
+                                        <span class="fr-icon-youtube-line fr-mr-1w" aria-hidden="true"></span>
+                                        YouTube
                                     </a>
                                 </li>
                                 <li>
                                     <a class="fr-link" title="{{_('Github - new tab')}}" href="#" target="_blank">
-                                        <span class="fr-icon-github-line fr-mr-1w" aria-hidden="true"></span> Github
+                                        <span class="fr-icon-github-line fr-mr-1w" aria-hidden="true"></span>
+                                        Github
                                     </a>
                                 </li>
                                 <li>
-                                    <a class="fr-link" title="{{_('RSS - new tab')}}" href="#" target="_blank">
-                                        <i class="fa-brands fa-youtube"></i>
-                                        <span class="fr-icon-rss-line fr-mr-1w" aria-hidden="true"></span> Facebook
+                                    <a class="fr-link" title="{{_('Facebook - new tab')}}" href="#" target="_blank">
+                                        <span class="fr-fi-facebook-circle-line fr-mr-1w" aria-hidden="true"></span>
+                                        Facebook
                                     </a>
                                 </li>
-                            
+                                
                             </ul>
                         </div>
 
@@ -245,24 +247,35 @@
 
                 </div>
             </div>
-
         </div>
-        <div class="fr-container">
-            <p class="text-xs text-gray-600 font-normal mt-3">C.R.N.M - Copyright © 2024 – Agence Togo
-                Digital</p>
-            <!-- <div class="fr-footer__brand fr-enlarge-link">
-            
-                    {% include theme('svg/logo-atd.svg') %}
- 
-                    <a class="fr-footer__brand-link" href="/" title="{{_('Go back to website home - opendata.gouv.tg  - République Française')}}">
-                   {% include theme('svg/logotype.svg') %}
-                </a>
-            </div>  -->
+        <!-- Copyright -->
+        <div class="footer__top">
+            <div class="fr-container fr-pb-6v">
+                <div class="fr-grid-row fr-grid-row--start fr-grid-row--gutters">
+                    <div class="fr-col-12 fr-col-sm-9">
+                        <span class="fr-text--xs">C.R.N.M - Copyright © 2024 – Agence Togo Digital</span>
+                    </div>
+                    <div class="fr-col-12 fr-col-sm-3" >
+                        <!-- <span class="fr-text--xs">Propulsé par</span> -->
+                        {% include theme('svg/Propul ATD.svg') %}
+                    </div>
+                </div>
+                <!-- <div class="fr-footer__brand fr-enlarge-link">
+                
+                        {% include theme('svg/logo-atd.svg') %}
+     
+                        <a class="fr-footer__brand-link" href="/" title="{{_('Go back to website home - opendata.gouv.tg  - République Française')}}">
+                       {% include theme('svg/logotype.svg') %}
+                    </a>
+                </div>  -->
+            </div>
         </div>
 
         <!-- <div> 
             <span class="text-gray-500 text-[8px] ml-1">Propulsé par</span>
-            <img src=" 'img/logo-atd.png' "  class="w-[100px]" alt="Logo ATD"></div> 
+            <img src=" 'img/logo-atd.png' "  class="w-[100px]" alt="Logo ATD">
 
         </div> -->
+    </div>
+
 </footer>

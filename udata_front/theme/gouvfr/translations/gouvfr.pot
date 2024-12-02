@@ -357,7 +357,7 @@ msgstr ""
 
 #: udata_front/theme/gouvfr/templates/footer.html:113
 #: udata_front/theme/gouvfr/templates/newsletter.html:52
-msgid "Mastodon - new tab"
+msgid "YouTube - new tab"
 msgstr ""
 
 #: udata_front/theme/gouvfr/templates/footer.html:119
@@ -367,7 +367,7 @@ msgstr ""
 
 #: udata_front/theme/gouvfr/templates/footer.html:125
 #: udata_front/theme/gouvfr/templates/newsletter.html:62
-msgid "RSS - new tab"
+msgid "Facebook - new tab"
 msgstr ""
 
 #: udata_front/theme/gouvfr/templates/footer.html:141
