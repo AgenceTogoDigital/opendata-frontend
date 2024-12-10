@@ -49,7 +49,7 @@
                     </ul>
                     <div class="fr-grid-row justify-center fr-mt-2w">
                         <a
-                            href="#"
+                            href="{{ url_for('gouvfr.show_page', slug='thematiques-a-la-une') }}"
                             class="fr-btn fr-btn--secondary fr-icon-arrow-right-s-line fr-btn--icon-right"
                         >
                             {{ _('All featured topics') }}
@@ -111,7 +111,7 @@
 </section>
 
 
-{# Datasets section #}
+{# Datasets section #} 
 {% set visible_datasets = current_site.settings.home_datasets|visibles %}
 {% set nb_datasets = visible_datasets|length %}
 {% set dataset_tabs = (
