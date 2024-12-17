@@ -31,8 +31,8 @@ FEEDBACK_FORM_URL = ''
 PUBLISHING_FORM_FEEDBACK_URL = ''
 
 # Static pages from github repo
-PAGES_GH_REPO_NAME = 'etalab/datagouvfr-pages'
-PAGES_REPO_BRANCH = 'master'
+PAGES_GH_REPO_NAME = 'AgenceTogoDigital/opendata-pages'
+PAGES_REPO_BRANCH = 'main'
 
 # api.gouv.fr
 APIGOUVFR_URL = 'https://api.gouv.fr/api/v1/apis'
