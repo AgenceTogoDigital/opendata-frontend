@@ -175,7 +175,7 @@ watchEffect(async () => {
 
   {
     // Fetching last 12 months
-    const response = await fetch(`https://metric-api.opendata.gouv.tg /api/organizations/data/?organization_id__exact=${props.oid}&metric_month__sort=desc&page_size=12`)
+    const response = await fetch(`https://metric-api.opendata.gouv.tg/api/organizations/data/?organization_id__exact=${props.oid}&metric_month__sort=desc&page_size=12`)
     const page = await response.json();
 
     metricsViews.value = {};
@@ -191,7 +191,7 @@ watchEffect(async () => {
 
   {
     // Fetching totals
-    const response = await fetch(`https://metric-api.opendata.gouv.tg /api/organizations_total/data/?organization_id__exact=${props.oid}`)
+    const response = await fetch(`https://metric-api.opendata.gouv.tg/api/organizations_total/data/?organization_id__exact=${props.oid}`)
     const page = await response.json();
     if(page.data[0]) {
       metricsViewsTotal.value = page.data[0].visit_dataset;

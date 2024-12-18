@@ -8,15 +8,15 @@ export default {
         first_name: "John",
         last_name: "Doe",
         roles: [],
-        avatar: "https://demo-static.opendata.gouv.tg /avatars/84/3194d831264f769fa817e58813d413-100.png",
+        avatar: "https://demo-static.opendata.gouv.tg/avatars/84/3194d831264f769fa817e58813d413-100.png",
         organizations: [
           {
             acronym: null,
             badges: [],
             class: "Organization",
             id: "65e9b7cf830c3b5a515ee4ed",
-            logo: "https://demo-static.opendata.gouv.tg /avatars/84/3194d831264f769fa817e58813d413-100.png",
-            logo_thumbnail: "https://demo-static.opendata.gouv.tg /avatars/84/3194d831264f769fa817e58813d413-100.png",
+            logo: "https://demo-static.opendata.gouv.tg/avatars/84/3194d831264f769fa817e58813d413-100.png",
+            logo_thumbnail: "https://demo-static.opendata.gouv.tg/avatars/84/3194d831264f769fa817e58813d413-100.png",
             name: "My Organization",
             page: "",
             slug: "my-organization",
@@ -27,8 +27,8 @@ export default {
             badges: [],
             class: "Organization",
             id: "65e9b7cf830c3b5a515ee4ed",
-            logo: "https://demo-static.opendata.gouv.tg /avatars/84/3194d831264f769fa817e58813d413-100.png",
-            logo_thumbnail: "https://demo-static.opendata.gouv.tg /avatars/84/3194d831264f769fa817e58813d413-100.png",
+            logo: "https://demo-static.opendata.gouv.tg/avatars/84/3194d831264f769fa817e58813d413-100.png",
+            logo_thumbnail: "https://demo-static.opendata.gouv.tg/avatars/84/3194d831264f769fa817e58813d413-100.png",
             name: "My Second Organization",
             page: "",
             slug: "my-second-organization",
@@ -363,8 +363,8 @@ export default {
             },
             "id": "534fff81a3a7292c64a77e5c",
             "last_modified": "2024-09-02T05:17:59.801000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
+            "logo": "https://static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
             "members": [],
             "metrics": {
               "datasets": 59,
@@ -374,9 +374,9 @@ export default {
               "views": 3325184
             },
             "name": "Institut National de la Statistique et des Etudes Economiques (Insee)",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
             "slug": "institut-national-de-la-statistique-et-des-etudes-economiques-insee",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
             "url": null
           },
           {
@@ -405,8 +405,8 @@ export default {
             },
             "id": "534fff8ea3a7292c64a77f02",
             "last_modified": "2024-09-02T05:18:00.409000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
+            "logo": "https://static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
             "members": [],
             "metrics": {
               "datasets": 528,
@@ -416,9 +416,9 @@ export default {
               "views": 2582882
             },
             "name": "Minist\u00e8re de l'\u00c9conomie, des Finances et de la Souverainet\u00e9 industrielle et num\u00e9rique",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
             "slug": "ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
             "url": "https://economie.gouv.fr/"
           },
           {
@@ -447,8 +447,8 @@ export default {
             },
             "id": "534fff91a3a7292c64a77f53",
             "last_modified": "2024-09-02T08:24:24.284000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/64/efa546af334b4cbf07e36f694db4fe-original.png",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/64/efa546af334b4cbf07e36f694db4fe-100.png",
+            "logo": "https://static.opendata.gouv.tg/avatars/64/efa546af334b4cbf07e36f694db4fe-original.png",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/64/efa546af334b4cbf07e36f694db4fe-100.png",
             "members": [],
             "metrics": {
               "datasets": 702,
@@ -458,9 +458,9 @@ export default {
               "views": 3518193
             },
             "name": "Minist\u00e8re de l'Int\u00e9rieur et des Outre-Mer",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-linterieur-et-des-outre-mer/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-linterieur-et-des-outre-mer/",
             "slug": "ministere-de-linterieur-et-des-outre-mer",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-linterieur-et-des-outre-mer/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-linterieur-et-des-outre-mer/",
             "url": "http://www.interieur.gouv.fr/"
           },
           {
@@ -489,8 +489,8 @@ export default {
             },
             "id": "534fff75a3a7292c64a77de4",
             "last_modified": "2024-09-02T05:17:58.395000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/2015-01-12/8ebc26cca2394e089a8b065fe0ae2659/etalab-original.jpg",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/2015-01-12/8ebc26cca2394e089a8b065fe0ae2659/etalab-100.jpg",
+            "logo": "https://static.opendata.gouv.tg/avatars/2015-01-12/8ebc26cca2394e089a8b065fe0ae2659/etalab-original.jpg",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/2015-01-12/8ebc26cca2394e089a8b065fe0ae2659/etalab-100.jpg",
             "members": [],
             "metrics": {
               "datasets": 49,
@@ -500,9 +500,9 @@ export default {
               "views": 221590
             },
             "name": "Etalab",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/etalab/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/etalab/",
             "slug": "etalab",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/etalab/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/etalab/",
             "url": "https://www.etalab.gouv.fr"
           },
           {
@@ -524,8 +524,8 @@ export default {
             },
             "id": "534fffa0a3a7292c64a7806b",
             "last_modified": "2024-09-02T05:17:49.425000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/c7/513a9d32e84c1dbcc6ac7e2ce42cb8-original.png",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/c7/513a9d32e84c1dbcc6ac7e2ce42cb8-100.png",
+            "logo": "https://static.opendata.gouv.tg/avatars/c7/513a9d32e84c1dbcc6ac7e2ce42cb8-original.png",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/c7/513a9d32e84c1dbcc6ac7e2ce42cb8-100.png",
             "members": [],
             "metrics": {
               "datasets": 36,
@@ -535,9 +535,9 @@ export default {
               "views": 464035
             },
             "name": "OpenStreetMap",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/openstreetmap/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/openstreetmap/",
             "slug": "openstreetmap",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/openstreetmap/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/openstreetmap/",
             "url": "http://www.openstreetmap.fr/"
           },
           {
@@ -566,8 +566,8 @@ export default {
             },
             "id": "534fffa5a3a7292c64a7809e",
             "last_modified": "2024-09-02T05:17:57.698000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/9a/b212bd561b4e54af775c49390f9f24-original.png",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/9a/b212bd561b4e54af775c49390f9f24-100.png",
+            "logo": "https://static.opendata.gouv.tg/avatars/9a/b212bd561b4e54af775c49390f9f24-original.png",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/9a/b212bd561b4e54af775c49390f9f24-100.png",
             "members": [],
             "metrics": {
               "datasets": 177,
@@ -577,9 +577,9 @@ export default {
               "views": 598717
             },
             "name": "Premier ministre",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/premier-ministre/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/premier-ministre/",
             "slug": "premier-ministre",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/premier-ministre/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/premier-ministre/",
             "url": null
           },
           {
@@ -608,8 +608,8 @@ export default {
             },
             "id": "534fff94a3a7292c64a77fc1",
             "last_modified": "2024-09-02T08:34:47.096000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/3c/2a35d973814c2681b6941e11810ff3-original.png",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/3c/2a35d973814c2681b6941e11810ff3-100.png",
+            "logo": "https://static.opendata.gouv.tg/avatars/3c/2a35d973814c2681b6941e11810ff3-original.png",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/3c/2a35d973814c2681b6941e11810ff3-100.png",
             "members": [],
             "metrics": {
               "datasets": 317,
@@ -619,9 +619,9 @@ export default {
               "views": 6169787
             },
             "name": "Minist\u00e8re des Solidarit\u00e9s et de la Sant\u00e9",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-des-solidarites-et-de-la-sante/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-des-solidarites-et-de-la-sante/",
             "slug": "ministere-des-solidarites-et-de-la-sante",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-des-solidarites-et-de-la-sante/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-des-solidarites-et-de-la-sante/",
             "url": null
           },
           {
@@ -648,8 +648,8 @@ export default {
             },
             "id": "5e721a395d57f93d0bed451f",
             "last_modified": "2024-09-02T05:18:00.530000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/76/69d8ead7684d25a80c9fa97d943b06-original.png",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/76/69d8ead7684d25a80c9fa97d943b06-100.png",
+            "logo": "https://static.opendata.gouv.tg/avatars/76/69d8ead7684d25a80c9fa97d943b06-original.png",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/76/69d8ead7684d25a80c9fa97d943b06-100.png",
             "members": [],
             "metrics": {
               "datasets": 30,
@@ -659,9 +659,9 @@ export default {
               "views": 3162657
             },
             "name": "Sant\u00e9 publique France",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/sante-publique-france/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/sante-publique-france/",
             "slug": "sante-publique-france",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/sante-publique-france/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/sante-publique-france/",
             "url": "https://www.santepubliquefrance.fr/"
           },
           {
@@ -690,8 +690,8 @@ export default {
             },
             "id": "534fff80a3a7292c64a77e41",
             "last_modified": "2024-09-02T05:18:00.022000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/1b/e4985396724faf9f6e1122baa7b65c-original.gif",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/1b/e4985396724faf9f6e1122baa7b65c-100.gif",
+            "logo": "https://static.opendata.gouv.tg/avatars/1b/e4985396724faf9f6e1122baa7b65c-original.gif",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/1b/e4985396724faf9f6e1122baa7b65c-100.gif",
             "members": [],
             "metrics": {
               "datasets": 40,
@@ -701,9 +701,9 @@ export default {
               "views": 766633
             },
             "name": "Institut National de l'Information G\u00e9ographique et Foresti\u00e8re",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/institut-national-de-l-information-geographique-et-forestiere/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/institut-national-de-l-information-geographique-et-forestiere/",
             "slug": "institut-national-de-l-information-geographique-et-forestiere",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/institut-national-de-l-information-geographique-et-forestiere/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/institut-national-de-l-information-geographique-et-forestiere/",
             "url": null
           },
           {
@@ -732,8 +732,8 @@ export default {
             },
             "id": "534fff8fa3a7292c64a77f22",
             "last_modified": "2024-09-02T05:17:55.457000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/91/b572136a0046e59aa6bb77f16e0520-original.png",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/91/b572136a0046e59aa6bb77f16e0520-100.png",
+            "logo": "https://static.opendata.gouv.tg/avatars/91/b572136a0046e59aa6bb77f16e0520-original.png",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/91/b572136a0046e59aa6bb77f16e0520-100.png",
             "members": [],
             "metrics": {
               "datasets": 198,
@@ -743,9 +743,9 @@ export default {
               "views": 1599780
             },
             "name": "Minist\u00e8re de l'\u00c9ducation Nationale et de la Jeunesse",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-leducation-nationale-et-de-la-jeunesse/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-leducation-nationale-et-de-la-jeunesse/",
             "slug": "ministere-de-leducation-nationale-et-de-la-jeunesse",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-leducation-nationale-et-de-la-jeunesse/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-leducation-nationale-et-de-la-jeunesse/",
             "url": "http://www.education.gouv.fr"
           },
           {
@@ -774,8 +774,8 @@ export default {
             },
             "id": "534fff91a3a7292c64a77f73",
             "last_modified": "2024-09-02T05:17:55.566000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/57/048fb19b4e40a0a6d346dfb93dcf9e-original.png",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/57/048fb19b4e40a0a6d346dfb93dcf9e-100.png",
+            "logo": "https://static.opendata.gouv.tg/avatars/57/048fb19b4e40a0a6d346dfb93dcf9e-original.png",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/57/048fb19b4e40a0a6d346dfb93dcf9e-100.png",
             "members": [],
             "metrics": {
               "datasets": 172,
@@ -785,9 +785,9 @@ export default {
               "views": 695669
             },
             "name": "Minist\u00e8re de la Culture",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-la-culture-et-de-la-communication/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-la-culture-et-de-la-communication/",
             "slug": "ministere-de-la-culture-et-de-la-communication",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-la-culture-et-de-la-communication/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-la-culture-et-de-la-communication/",
             "url": null
           },
           {
@@ -816,8 +816,8 @@ export default {
             },
             "id": "534fff8da3a7292c64a77eee",
             "last_modified": "2024-09-02T07:04:19.046000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-original.jpg",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-100.jpg",
+            "logo": "https://static.opendata.gouv.tg/avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-original.jpg",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-100.jpg",
             "members": [],
             "metrics": {
               "datasets": 131,
@@ -827,9 +827,9 @@ export default {
               "views": 1182091
             },
             "name": "Minist\u00e8re de la Transition \u00e9cologique",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-la-transition-ecologique/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-la-transition-ecologique/",
             "slug": "ministere-de-la-transition-ecologique",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-la-transition-ecologique/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-la-transition-ecologique/",
             "url": "https://www.ecologique-solidaire.gouv.fr/"
           },
           {
@@ -858,8 +858,8 @@ export default {
             },
             "id": "534fff85a3a7292c64a77e9c",
             "last_modified": "2024-09-02T05:18:00.328000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/cb/959f9456d141299c5648a832e0418f-original.jpg",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/cb/959f9456d141299c5648a832e0418f-100.jpg",
+            "logo": "https://static.opendata.gouv.tg/avatars/cb/959f9456d141299c5648a832e0418f-original.jpg",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/cb/959f9456d141299c5648a832e0418f-100.jpg",
             "members": [],
             "metrics": {
               "datasets": 17,
@@ -869,9 +869,9 @@ export default {
               "views": 321151
             },
             "name": "La Poste",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/la-poste/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/la-poste/",
             "slug": "la-poste",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/la-poste/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/la-poste/",
             "url": null
           },
           {
@@ -900,8 +900,8 @@ export default {
             },
             "id": "534fff58a3a7292c64a77cf6",
             "last_modified": "2024-09-02T07:02:46.741000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/1f/047bb9cae647e9bf0bb222412f0dc3-original.jpg",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/1f/047bb9cae647e9bf0bb222412f0dc3-100.jpg",
+            "logo": "https://static.opendata.gouv.tg/avatars/1f/047bb9cae647e9bf0bb222412f0dc3-original.jpg",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/1f/047bb9cae647e9bf0bb222412f0dc3-100.jpg",
             "members": [],
             "metrics": {
               "datasets": 17,
@@ -911,9 +911,9 @@ export default {
               "views": 444219
             },
             "name": "Autorit\u00e9 de r\u00e9gulation des communications \u00e9lectroniques, des postes et de la distribution de la presse (ARCEP)",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/autorite-de-regulation-des-communications-electroniques-des-postes-et-de-la-distribution-de-la-presse-arcep/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/autorite-de-regulation-des-communications-electroniques-des-postes-et-de-la-distribution-de-la-presse-arcep/",
             "slug": "autorite-de-regulation-des-communications-electroniques-des-postes-et-de-la-distribution-de-la-presse-arcep",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/autorite-de-regulation-des-communications-electroniques-des-postes-et-de-la-distribution-de-la-presse-arcep/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/autorite-de-regulation-des-communications-electroniques-des-postes-et-de-la-distribution-de-la-presse-arcep/",
             "url": "http://www.arcep.fr"
           },
           {
@@ -942,8 +942,8 @@ export default {
             },
             "id": "534fff90a3a7292c64a77f45",
             "last_modified": "2024-09-02T05:17:55.136000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/30/daafde21354471af38bc4a570ab9f6-original.png",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/30/daafde21354471af38bc4a570ab9f6-100.png",
+            "logo": "https://static.opendata.gouv.tg/avatars/30/daafde21354471af38bc4a570ab9f6-original.png",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/30/daafde21354471af38bc4a570ab9f6-100.png",
             "members": [],
             "metrics": {
               "datasets": 253,
@@ -953,9 +953,9 @@ export default {
               "views": 576241
             },
             "name": "Minist\u00e8re de l'Enseignement sup\u00e9rieur et de la Recherche",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-lenseignement-superieur-et-de-la-recherche/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-lenseignement-superieur-et-de-la-recherche/",
             "slug": "ministere-de-lenseignement-superieur-et-de-la-recherche",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-lenseignement-superieur-et-de-la-recherche/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-lenseignement-superieur-et-de-la-recherche/",
             "url": "http://www.enseignementsup-recherche.gouv.fr/"
           },
           {
@@ -975,8 +975,8 @@ export default {
             },
             "id": "54aff550c751df34bd381279",
             "last_modified": "2024-07-24T07:51:49.494000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/2015-01-09/d0b08844d828411fabd93dfe16cec790/logo-datafrance-original.png",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/2015-01-09/d0b08844d828411fabd93dfe16cec790/logo-datafrance-100.png",
+            "logo": "https://static.opendata.gouv.tg/avatars/2015-01-09/d0b08844d828411fabd93dfe16cec790/logo-datafrance-original.png",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/2015-01-09/d0b08844d828411fabd93dfe16cec790/logo-datafrance-100.png",
             "members": [],
             "metrics": {
               "datasets": 0,
@@ -986,9 +986,9 @@ export default {
               "views": 734
             },
             "name": "DataFrance",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/datafrance/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/datafrance/",
             "slug": "datafrance",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/datafrance/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/datafrance/",
             "url": "http://datafrance.info"
           },
           {
@@ -1017,8 +1017,8 @@ export default {
             },
             "id": "534fff5ca3a7292c64a77d1a",
             "last_modified": "2024-09-02T00:31:15.391000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/1e/3ae33c736f41fe8ed91bb9897e010d-original.jpg",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/1e/3ae33c736f41fe8ed91bb9897e010d-100.jpg",
+            "logo": "https://static.opendata.gouv.tg/avatars/1e/3ae33c736f41fe8ed91bb9897e010d-original.jpg",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/1e/3ae33c736f41fe8ed91bb9897e010d-100.jpg",
             "members": [],
             "metrics": {
               "datasets": 32,
@@ -1028,9 +1028,9 @@ export default {
               "views": 199660
             },
             "name": "Caisse nationale de l'assurance maladie",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/caisse-nationale-de-l-assurance-maladie-des-travailleurs-salaries/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/caisse-nationale-de-l-assurance-maladie-des-travailleurs-salaries/",
             "slug": "caisse-nationale-de-l-assurance-maladie-des-travailleurs-salaries",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/caisse-nationale-de-l-assurance-maladie-des-travailleurs-salaries/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/caisse-nationale-de-l-assurance-maladie-des-travailleurs-salaries/",
             "url": "https://www.ameli.fr/"
           },
           {
@@ -1059,8 +1059,8 @@ export default {
             },
             "id": "534fffa8a3a7292c64a780c8",
             "last_modified": "2024-09-02T05:17:59.499000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/9b/01f5340aaa44ad8ead413ad8a29b6e-original.jpg",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/9b/01f5340aaa44ad8ead413ad8a29b6e-100.jpg",
+            "logo": "https://static.opendata.gouv.tg/avatars/9b/01f5340aaa44ad8ead413ad8a29b6e-original.jpg",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/9b/01f5340aaa44ad8ead413ad8a29b6e-100.jpg",
             "members": [],
             "metrics": {
               "datasets": 1025,
@@ -1070,9 +1070,9 @@ export default {
               "views": 1705630
             },
             "name": "R\u00e9gion \u00cele-de-France",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/region-ile-de-france/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/region-ile-de-france/",
             "slug": "region-ile-de-france",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/region-ile-de-france/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/region-ile-de-france/",
             "url": "http://data.iledefrance.fr"
           },
           {
@@ -1101,8 +1101,8 @@ export default {
             },
             "id": "534fff61a3a7292c64a77d59",
             "last_modified": "2024-09-02T00:27:33.979000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/43/4f3dcc999b4e34b7cccf57f64f0b17-original.jpg",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/43/4f3dcc999b4e34b7cccf57f64f0b17-100.jpg",
+            "logo": "https://static.opendata.gouv.tg/avatars/43/4f3dcc999b4e34b7cccf57f64f0b17-original.jpg",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/43/4f3dcc999b4e34b7cccf57f64f0b17-100.jpg",
             "members": [],
             "metrics": {
               "datasets": 16,
@@ -1112,9 +1112,9 @@ export default {
               "views": 183692
             },
             "name": "CNIL",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/cnil/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/cnil/",
             "slug": "cnil",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/cnil/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/cnil/",
             "url": "https://www.cnil.fr/"
           },
           {
@@ -1136,8 +1136,8 @@ export default {
             },
             "id": "534fff9ea3a7292c64a78049",
             "last_modified": "2024-09-02T00:30:23.070000+00:00",
-            "logo": "https://static.opendata.gouv.tg /avatars/b3/9cc0c7e967416c8994d485701ae5e1-original.png",
-            "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/b3/9cc0c7e967416c8994d485701ae5e1-100.png",
+            "logo": "https://static.opendata.gouv.tg/avatars/b3/9cc0c7e967416c8994d485701ae5e1-original.png",
+            "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/b3/9cc0c7e967416c8994d485701ae5e1-100.png",
             "members": [],
             "metrics": {
               "datasets": 2,
@@ -1147,13 +1147,13 @@ export default {
               "views": 46292
             },
             "name": "Open Food Facts",
-            "page": "https://www.opendata.gouv.tg /fr/organizations/open-food-facts/",
+            "page": "https://www.opendata.gouv.tg/fr/organizations/open-food-facts/",
             "slug": "open-food-facts",
-            "uri": "https://www.opendata.gouv.tg /api/1/organizations/open-food-facts/",
+            "uri": "https://www.opendata.gouv.tg/api/1/organizations/open-food-facts/",
             "url": null
           }
         ],
-        "next_page": "https://www.opendata.gouv.tg /api/1/organizations/?sort=-followers&page=2",
+        "next_page": "https://www.opendata.gouv.tg/api/1/organizations/?sort=-followers&page=2",
         "page": 1,
         "page_size": 20,
         "previous_page": null,

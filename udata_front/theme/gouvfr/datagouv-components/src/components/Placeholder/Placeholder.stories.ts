@@ -56,7 +56,7 @@ export const PlaceholderWithLogo: StoryObj<typeof meta> = {
   }),
   args: {
     size: 50,
-    src: "https://demo-static.opendata.gouv.tg /avatars/92/6284d057ca4279af35e9b62bc62639-100.png",
+    src: "https://demo-static.opendata.gouv.tg/avatars/92/6284d057ca4279af35e9b62bc62639-100.png",
     type: "organization",
     alt: "Meteo France logo"
   },

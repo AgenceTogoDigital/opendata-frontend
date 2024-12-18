@@ -58,7 +58,7 @@
                 </div>
             </div>
             <div class="fr-col-12 fr-col-offset-lg-1 fr-col-lg-6">
-                <h2 class="fr-text--md fr-my-0">{{ _('News') }}</h2>
+                <h2 class="fr-text--md fr-my-0">{{ _('News') }}</h2> <br>
                 {% if last_post %}
                 {% set post = last_post %}
                 <div class="fr-grid-row justify-center fr-mb-2w">
@@ -87,19 +87,19 @@
     (_('Discussions'), 'discussions'),
 ] %}
 
-
 {# Metrics Section #}
 <section class="metrics-bar">
     <div class="fr-container fr-py-md-7w fr-py-2w">
         <div class="bar fr-p-9v">
             <h3 style="font-weight: bold;">
                 {% include theme('svg/logotype.svg') %}
-                 {{ _('is') }}</h3>
+                     {{ _('is') }}</h3>
             <div class="fr-grid-row justify-between fr-mt-md-9v fr-mt-2w">
                 {% for (label, metric) in metrics %}
                 <div class="filet fr-my-1v fr-my-md-0">
                     <p class="fr-m-0 text-grey-400">
                         <span class="fr-h1 fr-m-0 block">{{ current_site.metrics[metric]|format_number }}</span>
+                        <!-- <span class="fr-h1 fr-m-0 block">{{ current_site.metrics}}</span> -->
                         {{ label }}
                     </p>
                 </div>
@@ -127,6 +127,7 @@
                 <h2 class="fr-m-0">{{ _('Datasets') }}</h2>
             </div>
             <div class="fr-col-auto fr-grid-row fr-grid-row--gutters">
+                
                 <div class="fr-col-auto">
                     <div class="fr-tags-group fr-hidden fr-unhidden-lg" data-tabs role="tablist">
                         {% for tab_id, label, _, _ in dataset_tabs %}

@@ -11,7 +11,7 @@ const resource = ref<Resource>({
   type: "main",
   format: "csv",
   url: "https://www.opendata56.fr/api/explore/v2.1/catalog/datasets/bornes-de-recharge-de-vehicules-electriques-irve-copie/exports/csv",
-  latest: "https://www.opendata.gouv.tg /fr/datasets/r/cf3cc17f-955a-42bb-a4ef-77f59e703940",
+  latest: "https://www.opendata.gouv.tg/fr/datasets/r/cf3cc17f-955a-42bb-a4ef-77f59e703940",
   checksum: null,
   filesize: null,
   mime: "text/csv",
@@ -104,7 +104,7 @@ const resource = ref<Resource>({
     "analysis:parsing:finished_at": "2024-06-04T20:05:18.968805+00:00",
     "analysis:parsing:started_at": "2024-06-04T20:05:17.151069+00:00"
   },
-  preview_url: "https://explore.opendata.gouv.tg /fr/resources/cf3cc17f-955a-42bb-a4ef-77f59e703940",
+  preview_url: "https://explore.opendata.gouv.tg/fr/resources/cf3cc17f-955a-42bb-a4ef-77f59e703940",
   schema: {name: "etalab/schema-indice-reparabilite", version: "0.1.2"},
   internal: {
     "created_at_internal": "2022-07-13T02:11:56.414000+00:00",
@@ -151,14 +151,14 @@ const resourceWithoutSchema = ref<Resource>({
   id: "e2sdfsfdfsdfbc9b7c-4598-4bdb-92c3-9109a16f288c",
   internal: {created_at_internal: "2023-11-15T10:40:22.288000+00:00", last_modified_internal: "2023-11-15T10:40:22.461000+00:00"},
   last_modified: "2023-11-15T10:40:22.461000+00:00",
-  latest: "https://www.opendata.gouv.tg /fr/datasets/r/e2bc9b7c-4598-4bdb-92c3-9109a16f288c",
+  latest: "https://www.opendata.gouv.tg/fr/datasets/r/e2bc9b7c-4598-4bdb-92c3-9109a16f288c",
   metrics: {views: 0},
   mime: "text/csv",
-  preview_url: "https://explore.opendata.gouv.tg /?url=https%3A%2F%2Fwww.opendata.gouv.tg %2Ffr%2Fdatasets%2Fr%2Fe2bc9b7c-4598-4bdb-92c3-9109a16f288c",
+  preview_url: "https://explore.opendata.gouv.tg/?url=https%3A%2F%2Fwww.opendata.gouv.tg %2Ffr%2Fdatasets%2Fr%2Fe2bc9b7c-4598-4bdb-92c3-9109a16f288c",
   schema: null,
   title: "tondeuse_batterie_fr.csv",
   type: "main",
-  url: "https://static.opendata.gouv.tg /resources/indice-de-reparabilite-organisation-ribimex/20231115-104022/data.csv"
+  url: "https://static.opendata.gouv.tg/resources/indice-de-reparabilite-organisation-ribimex/20231115-104022/data.csv"
 });
 
 const quality : Quality = {
@@ -177,16 +177,16 @@ const quality : Quality = {
 
 const dataset : DatasetV2 = {
   id: "653a6afa18f9f98d2ffdadee",
-  page: "https://demo.opendata.gouv.tg /fr/datasets/donnees-changement-climatique-sqr/",
+  page: "https://demo.opendata.gouv.tg/fr/datasets/donnees-changement-climatique-sqr/",
   resources: {
     rel: "subsection",
-    href: "https://demo.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=653a6afa18f9f98d2ffdadee&page=1&page_size=50",
+    href: "https://demo.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=653a6afa18f9f98d2ffdadee&page=1&page_size=50",
     total: 12,
     type: "GET"
   },
   community_resources: {
     rel: "subsection",
-    href: "https://demo.opendata.gouv.tg /api/2/datasets/653a6afa18f9f98d2ffdadee/resources/?page=1&page_size=50",
+    href: "https://demo.opendata.gouv.tg/api/2/datasets/653a6afa18f9f98d2ffdadee/resources/?page=1&page_size=50",
     total: 0,
     type: "GET"
   },
@@ -228,7 +228,7 @@ const dataset : DatasetV2 = {
   created_at: "2023-10-26T13:34:50.156000+00:00",
   last_modified: "2023-12-07T16:51:02.937000+00:00",
   last_update: "2023-11-03T08:55:42.847000+00:00",
-  uri: "https://demo.opendata.gouv.tg /api/1/datasets/donnees-changement-climatique-sqr/",
+  uri: "https://demo.opendata.gouv.tg/api/1/datasets/donnees-changement-climatique-sqr/",
   slug: "donnees-changement-climatique-sqr",
   quality: quality,
   metrics: { discussions: 12, followers: 25, reuses: 8, views: 59, resources_downloads:	18705 },
@@ -262,13 +262,13 @@ const dataset : DatasetV2 = {
       reuses: 1,
       views: 2,
     },
-    logo: "https://demo-static.opendata.gouv.tg /avatars/a2/b135634de04fb8a76c8ec3100e5e4b.png",
-    logo_thumbnail:"https://demo-static.opendata.gouv.tg /avatars/a2/b135634de04fb8a76c8ec3100e5e4b-100.png",
-    page: "https://demo.opendata.gouv.tg /fr/organizations/test-meteo-france/",
+    logo: "https://demo-static.opendata.gouv.tg/avatars/a2/b135634de04fb8a76c8ec3100e5e4b.png",
+    logo_thumbnail:"https://demo-static.opendata.gouv.tg/avatars/a2/b135634de04fb8a76c8ec3100e5e4b-100.png",
+    page: "https://demo.opendata.gouv.tg/fr/organizations/test-meteo-france/",
     badges: [],
     name: "[TEST] Météo France",
     slug: "test-meteo-france",
-    uri: "https://demo.opendata.gouv.tg /api/1/organizations/test-meteo-france/"
+    uri: "https://demo.opendata.gouv.tg/api/1/organizations/test-meteo-france/"
   }
 };
 
@@ -304,7 +304,7 @@ const reuse : Reuse = {
     id: "someUserId",
     first_name: "First",
     last_name: "Last",
-    page: "https://demo.opendata.gouv.tg /en/users/antonin-garrone/",
+    page: "https://demo.opendata.gouv.tg/en/users/antonin-garrone/",
   },
   metrics: {
     datasets: 3,
@@ -314,8 +314,8 @@ const reuse : Reuse = {
   },
   organization: null,
   title: "My new reuse",
-  image: "https://static.opendata.gouv.tg /images/aa/c1f583251a4697850bd01e2cc95877.png",
-  image_thumbnail: "https://static.opendata.gouv.tg /images/aa/c1f583251a4697850bd01e2cc95877.png",
+  image: "https://static.opendata.gouv.tg/images/aa/c1f583251a4697850bd01e2cc95877.png",
+  image_thumbnail: "https://static.opendata.gouv.tg/images/aa/c1f583251a4697850bd01e2cc95877.png",
 }
 
 const dataservice: Dataservice = {
@@ -369,15 +369,15 @@ const dataservice: Dataservice = {
       views: 0
     },
     acronym: null,
-    logo: "https://static.opendata.gouv.tg /avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
-    logo_thumbnail: "https://static.opendata.gouv.tg /avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
-    page: "https://demo.opendata.gouv.tg /fr/organizations/test-meteo-france/",
+    logo: "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
+    logo_thumbnail: "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
+    page: "https://demo.opendata.gouv.tg/fr/organizations/test-meteo-france/",
     business_number_id: "",
     description: "",
     badges: [{kind: 'certified'}, {kind: 'public-service'}],
     name: "Météo France",
     slug: "test-meteo-france",
-    uri: "https://demo.opendata.gouv.tg /api/1/organizations/test-meteo-france/",
+    uri: "https://demo.opendata.gouv.tg/api/1/organizations/test-meteo-france/",
     url: ""
   },
   owner: null,

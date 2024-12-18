@@ -14,11 +14,11 @@ const organization : Organization = {
   acronym: null,
   name: "opendata.gouv.tg ",
   badges: [],
-  page: "https://www.opendata.gouv.tg /fr/organizations/data-gouv-fr/",
-  uri: "https://www.opendata.gouv.tg /fr/organizations/data-gouv-fr/",
+  page: "https://www.opendata.gouv.tg/fr/organizations/data-gouv-fr/",
+  uri: "https://www.opendata.gouv.tg/fr/organizations/data-gouv-fr/",
   slug: "data-gouv-fr",
-  logo: "https://static.opendata.gouv.tg /avatars/09/1ba932cbfa48dc8c158981de6c700a.jpeg",
-  logo_thumbnail: "https://static.opendata.gouv.tg /avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
+  logo: "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a.jpeg",
+  logo_thumbnail: "https://static.opendata.gouv.tg/avatars/09/1ba932cbfa48dc8c158981de6c700a-100.jpeg",
 };
 
 export const Opened: StoryObj<typeof meta> = {

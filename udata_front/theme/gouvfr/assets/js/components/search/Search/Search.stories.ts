@@ -52,13 +52,13 @@ const meta = {
                 ],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/5b7ffc618b4c4169d30727e0/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/5b7ffc618b4c4169d30727e0/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 18
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5b7ffc618b4c4169d30727e0&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5b7ffc618b4c4169d30727e0&page=1&page_size=50",
                   "type": "GET",
                   "total": 9
                 },
@@ -77,7 +77,7 @@ const meta = {
                   ],
                   "recommendations-externals": [
                     {
-                      "id": "https://annuaire-entreprises.opendata.gouv.tg /",
+                      "id": "https://annuaire-entreprises.opendata.gouv.tg/",
                       "score": 50,
                       "source": "edito",
                       "messages": {
@@ -137,11 +137,11 @@ const meta = {
                 "organization": {
                   "name": "Institut National de la Statistique et des Etudes Economiques (Insee)",
                   "acronym": null,
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
                   "slug": "institut-national-de-la-statistique-et-des-etudes-economiques-insee",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -166,8 +166,8 @@ const meta = {
                   "granularity": "other"
                 },
                 "license": "lov2",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/",
                 "last_update": "2024-09-01T06:41:18+00:00",
                 "archived": null,
                 "quality": {
@@ -211,13 +211,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/5c4ae55a634f4117716d5656/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/5c4ae55a634f4117716d5656/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 9
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5c4ae55a634f4117716d5656&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5c4ae55a634f4117716d5656&page=1&page_size=50",
                   "type": "GET",
                   "total": 5
                 },
@@ -226,7 +226,7 @@ const meta = {
                 "extras": {
                   "recommendations-externals": [
                     {
-                      "id": "https://explore.opendata.gouv.tg /immobilier",
+                      "id": "https://explore.opendata.gouv.tg/immobilier",
                       "score": 50,
                       "source": "edito",
                       "messages": {
@@ -282,11 +282,11 @@ const meta = {
                 "organization": {
                   "name": "Minist\u00e8re de l'\u00c9conomie, des Finances et de la Souverainet\u00e9 industrielle et num\u00e9rique",
                   "acronym": "MEFSIN",
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
                   "slug": "ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -311,8 +311,8 @@ const meta = {
                   "granularity": "poi"
                 },
                 "license": "lov2",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/demandes-de-valeurs-foncieres/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/demandes-de-valeurs-foncieres/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/demandes-de-valeurs-foncieres/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/demandes-de-valeurs-foncieres/",
                 "last_update": "2024-04-08T13:07:58.347000+00:00",
                 "archived": null,
                 "quality": {
@@ -340,7 +340,7 @@ const meta = {
                 "title": "Plan Cadastral Informatis\u00e9",
                 "acronym": "PCI",
                 "slug": "plan-cadastral-informatise",
-                "description": "Le plan cadastral est un assemblage d\u2019environ **600 000 feuilles** ou planches repr\u00e9sentant chacune une section ou une partie d\u2019une section cadastrale.\n\n\nIl couvre la France enti\u00e8re, \u00e0 l\u2019exception de la ville de Strasbourg et de quelques communes voisines, pour des raisons historiques li\u00e9e \u00e0 l\u2019occupation de l\u2019Alsace-Moselle par l\u2019Allemagne entre 1871 et 1918.\n\n#### \n\n#### PCI Vecteur et PCI Image\n\n#### \n\nPour des questions pratiques et techniques, le Plan Cadastral Informatis\u00e9 existe sous la forme de **deux produits compl\u00e9mentaires** : le PCI Vecteur et le PCI Image.\n\nLe **PCI Vecteur** regroupe les feuilles qui ont \u00e9t\u00e9 num\u00e9ris\u00e9es et couvre l\u2019essentiel du territoire.\n\nLe **PCI Image** regroupe les feuilles qui n\u2019ont \u00e9t\u00e9 que scann\u00e9es, et compl\u00e8te la couverture.\n\n#### \n\n#### Couverture\n\n#### \n\n **34 700 communes** sont couvertes par le PCI Vecteur, sur un total de pr\u00e8s de 35 000. Les plans des autres communes sont disponibles dans le PCI Image.\n\nStrasbourg et les communes limitrophes ne sont actuellement pas g\u00e9r\u00e9es au format PCI.\n\nLes collectivit\u00e9s d\u2019outre-mer de Saint-Martin et de Saint-Barthelemy sont pr\u00e9sentes et historiquement int\u00e9gr\u00e9es dans le d\u00e9partement de la Guadeloupe (971).\n\n#### \n\n#### Formats disponibles\n\n#### \n\nLes donn\u00e9es du PCI Vecteur sont disponibles dans plusieurs formats :\n\n  * Format [EDIG\u00c9O](https://www.opendata.gouv.tg /s/resources/plan-cadastral-informatise/20170906-150737/standard_edigeo_2013.pdf) en projection Lambert 93 ;\n  * Format [EDIG\u00c9O](https://www.opendata.gouv.tg /s/resources/plan-cadastral-informatise/20170906-150737/standard_edigeo_2013.pdf) en projection Lambert CC 9 zones ;\n  * Format DXF-PCI en projection Lambert 93 ;\n  * Format DXF-PCI en projection Lambert CC 9 zones.\n\n\n\nLes donn\u00e9es du PCI Image sont disponibles au format TIFF.\n\n#### \n\n#### Mod\u00e8le de donn\u00e9es\n\n#### \n\nChaque commune est subdivis\u00e9e en sections, elles-m\u00eames subdivis\u00e9es en feuilles (ou planches). Une feuille cadastrale comporte des parcelles, qui peuvent supporter des b\u00e2timents, ainsi que de nombreux autres objets d\u2019habillage ou de gestion.  \nPour plus de pr\u00e9cision, veuillez vous reporter \u00e0 la documentation du standard [EDIG\u00c9O](https://www.opendata.gouv.tg /s/resources/plan-cadastral-informatise/20170906-150737/standard_edigeo_2013.pdf).\n\n#### \n\n#### Mise \u00e0 disposition\n\n#### \n\nLes donn\u00e9es sont mises \u00e0 disposition de deux mani\u00e8res :\n\n  * En t\u00e9l\u00e9chargement direct \u00e0 la feuille ou en archive d\u00e9partementale. Ce sont ces URL qu\u2019il faut utiliser si vous souhaitez automatiser la r\u00e9cup\u00e9ration des donn\u00e9es et b\u00e9n\u00e9ficier des meilleures performances.\n  * Via un outil en ligne pour les archives communales. Les donn\u00e9es sont alors produites \u00e0 la vol\u00e9e.\n\n\n\nLes deux modes de mise \u00e0 disposition sont accessibles sur [cadastre.opendata.gouv.tg ](https://cadastre.opendata.gouv.tg /datasets/plan-cadastral-informatise).\n\n#### \n\n#### Mill\u00e9simes disponibles :\n\n#### \n\n  * 13 f\u00e9vrier 2017\n  * 14 mai 2017\n  * 6 juillet 2017\n  * 12 octobre 2017\n  * 2 janvier 2018\n  * 3 avril 2018\n  * 29 juin 2018\n  * 1er octobre 2018\n  * 1er janvier 2019\n  * 1er avril 2019\n  * 1er juillet 2019\n  * 1er octobre 2019\n  * 1er janvier 2020\n  * 1er juillet 2020\n  * 1er octobre 2020\n  * 1er f\u00e9vrier 2021\n  * 1er avril 2021\n  * 1er juillet 2021\n  * 1er octobre 2021\n  * 1er janvier 2022\n  * 1er avril 2022\n  * 1er juillet 2022\n  * 1er octobre 2022\n  * 1er janvier 2023\n  * 1er avril 2023\n  * 1er juillet 2023\n  * 1er octobre 2023\n  * 1er janvier 2024\n  * 1er avril 2024\n  * 1er juillet 2024\n",
+                "description": "Le plan cadastral est un assemblage d\u2019environ **600 000 feuilles** ou planches repr\u00e9sentant chacune une section ou une partie d\u2019une section cadastrale.\n\n\nIl couvre la France enti\u00e8re, \u00e0 l\u2019exception de la ville de Strasbourg et de quelques communes voisines, pour des raisons historiques li\u00e9e \u00e0 l\u2019occupation de l\u2019Alsace-Moselle par l\u2019Allemagne entre 1871 et 1918.\n\n#### \n\n#### PCI Vecteur et PCI Image\n\n#### \n\nPour des questions pratiques et techniques, le Plan Cadastral Informatis\u00e9 existe sous la forme de **deux produits compl\u00e9mentaires** : le PCI Vecteur et le PCI Image.\n\nLe **PCI Vecteur** regroupe les feuilles qui ont \u00e9t\u00e9 num\u00e9ris\u00e9es et couvre l\u2019essentiel du territoire.\n\nLe **PCI Image** regroupe les feuilles qui n\u2019ont \u00e9t\u00e9 que scann\u00e9es, et compl\u00e8te la couverture.\n\n#### \n\n#### Couverture\n\n#### \n\n **34 700 communes** sont couvertes par le PCI Vecteur, sur un total de pr\u00e8s de 35 000. Les plans des autres communes sont disponibles dans le PCI Image.\n\nStrasbourg et les communes limitrophes ne sont actuellement pas g\u00e9r\u00e9es au format PCI.\n\nLes collectivit\u00e9s d\u2019outre-mer de Saint-Martin et de Saint-Barthelemy sont pr\u00e9sentes et historiquement int\u00e9gr\u00e9es dans le d\u00e9partement de la Guadeloupe (971).\n\n#### \n\n#### Formats disponibles\n\n#### \n\nLes donn\u00e9es du PCI Vecteur sont disponibles dans plusieurs formats :\n\n  * Format [EDIG\u00c9O](https://www.opendata.gouv.tg/s/resources/plan-cadastral-informatise/20170906-150737/standard_edigeo_2013.pdf) en projection Lambert 93 ;\n  * Format [EDIG\u00c9O](https://www.opendata.gouv.tg/s/resources/plan-cadastral-informatise/20170906-150737/standard_edigeo_2013.pdf) en projection Lambert CC 9 zones ;\n  * Format DXF-PCI en projection Lambert 93 ;\n  * Format DXF-PCI en projection Lambert CC 9 zones.\n\n\n\nLes donn\u00e9es du PCI Image sont disponibles au format TIFF.\n\n#### \n\n#### Mod\u00e8le de donn\u00e9es\n\n#### \n\nChaque commune est subdivis\u00e9e en sections, elles-m\u00eames subdivis\u00e9es en feuilles (ou planches). Une feuille cadastrale comporte des parcelles, qui peuvent supporter des b\u00e2timents, ainsi que de nombreux autres objets d\u2019habillage ou de gestion.  \nPour plus de pr\u00e9cision, veuillez vous reporter \u00e0 la documentation du standard [EDIG\u00c9O](https://www.opendata.gouv.tg/s/resources/plan-cadastral-informatise/20170906-150737/standard_edigeo_2013.pdf).\n\n#### \n\n#### Mise \u00e0 disposition\n\n#### \n\nLes donn\u00e9es sont mises \u00e0 disposition de deux mani\u00e8res :\n\n  * En t\u00e9l\u00e9chargement direct \u00e0 la feuille ou en archive d\u00e9partementale. Ce sont ces URL qu\u2019il faut utiliser si vous souhaitez automatiser la r\u00e9cup\u00e9ration des donn\u00e9es et b\u00e9n\u00e9ficier des meilleures performances.\n  * Via un outil en ligne pour les archives communales. Les donn\u00e9es sont alors produites \u00e0 la vol\u00e9e.\n\n\n\nLes deux modes de mise \u00e0 disposition sont accessibles sur [cadastre.opendata.gouv.tg ](https://cadastre.opendata.gouv.tg/datasets/plan-cadastral-informatise).\n\n#### \n\n#### Mill\u00e9simes disponibles :\n\n#### \n\n  * 13 f\u00e9vrier 2017\n  * 14 mai 2017\n  * 6 juillet 2017\n  * 12 octobre 2017\n  * 2 janvier 2018\n  * 3 avril 2018\n  * 29 juin 2018\n  * 1er octobre 2018\n  * 1er janvier 2019\n  * 1er avril 2019\n  * 1er juillet 2019\n  * 1er octobre 2019\n  * 1er janvier 2020\n  * 1er juillet 2020\n  * 1er octobre 2020\n  * 1er f\u00e9vrier 2021\n  * 1er avril 2021\n  * 1er juillet 2021\n  * 1er octobre 2021\n  * 1er janvier 2022\n  * 1er avril 2022\n  * 1er juillet 2022\n  * 1er octobre 2022\n  * 1er janvier 2023\n  * 1er avril 2023\n  * 1er juillet 2023\n  * 1er octobre 2023\n  * 1er janvier 2024\n  * 1er avril 2024\n  * 1er juillet 2024\n",
                 "created_at": "2017-04-06T02:56:43.520000+00:00",
                 "last_modified": "2024-07-22T16:04:24.610000+00:00",
                 "deleted": null,
@@ -353,13 +353,13 @@ const meta = {
                 ],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/58e5924b88ee3802ca255566/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/58e5924b88ee3802ca255566/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 3
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=58e5924b88ee3802ca255566&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=58e5924b88ee3802ca255566&page=1&page_size=50",
                   "type": "GET",
                   "total": 11
                 },
@@ -376,11 +376,11 @@ const meta = {
                 "organization": {
                   "name": "Minist\u00e8re de l'\u00c9conomie, des Finances et de la Souverainet\u00e9 industrielle et num\u00e9rique",
                   "acronym": "MEFSIN",
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
                   "slug": "ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -405,8 +405,8 @@ const meta = {
                   "granularity": "other"
                 },
                 "license": "lov2",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/plan-cadastral-informatise/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/plan-cadastral-informatise/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/plan-cadastral-informatise/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/plan-cadastral-informatise/",
                 "last_update": "2024-07-22T16:03:57.027610+00:00",
                 "archived": null,
                 "quality": {
@@ -462,13 +462,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/5c34c4d1634f4173183a64f1/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/5c34c4d1634f4173183a64f1/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 12
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5c34c4d1634f4173183a64f1&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5c34c4d1634f4173183a64f1&page=1&page_size=50",
                   "type": "GET",
                   "total": 3
                 },
@@ -508,11 +508,11 @@ const meta = {
                 "organization": {
                   "name": "Minist\u00e8re de l'Int\u00e9rieur et des Outre-Mer",
                   "acronym": null,
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-linterieur-et-des-outre-mer/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-linterieur-et-des-outre-mer/",
                   "slug": "ministere-de-linterieur-et-des-outre-mer",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-linterieur-et-des-outre-mer/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/64/efa546af334b4cbf07e36f694db4fe-original.png",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/64/efa546af334b4cbf07e36f694db4fe-100.png",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-linterieur-et-des-outre-mer/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/64/efa546af334b4cbf07e36f694db4fe-original.png",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/64/efa546af334b4cbf07e36f694db4fe-100.png",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -537,8 +537,8 @@ const meta = {
                   "granularity": "fr:commune"
                 },
                 "license": "lov2",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/repertoire-national-des-elus-1/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/repertoire-national-des-elus-1/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/repertoire-national-des-elus-1/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/repertoire-national-des-elus-1/",
                 "last_update": "2024-07-31T14:24:59.717000+00:00",
                 "archived": null,
                 "quality": {
@@ -587,13 +587,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/53699d0ea3a729239d205b2e/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/53699d0ea3a729239d205b2e/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 8
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=53699d0ea3a729239d205b2e&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=53699d0ea3a729239d205b2e&page=1&page_size=50",
                   "type": "GET",
                   "total": 1
                 },
@@ -613,11 +613,11 @@ const meta = {
                 "organization": {
                   "name": "Institut National de la Statistique et des Etudes Economiques (Insee)",
                   "acronym": null,
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
                   "slug": "institut-national-de-la-statistique-et-des-etudes-economiques-insee",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -639,8 +639,8 @@ const meta = {
                   "granularity": "fr:commune"
                 },
                 "license": "fr-lo",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/population/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/population/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/population/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/population/",
                 "last_update": "2024-09-01T17:43:52.827073+00:00",
                 "archived": null,
                 "quality": {
@@ -668,7 +668,7 @@ const meta = {
                 "title": "Donn\u00e9es hospitali\u00e8res relatives \u00e0 l'\u00e9pid\u00e9mie de COVID-19",
                 "acronym": "SIVIC",
                 "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
-                "description": "**Dans un contexte d\u2019\u00e9pid\u00e9mie favorable, \u00e0 compter du 1er juillet 2023, le cadre juridique actuellement en cours pr\u00e9voit l\u2019arr\u00eat du traitement des donn\u00e9es personnelles issues de SI-DEP. Par cons\u00e9quent, apr\u00e8s une p\u00e9riode transitoire d\u2019ajustement de deux semaines, les nouveaux indicateurs de surveillance virologique seront publi\u00e9s aux niveaux national, r\u00e9gional et d\u00e9partemental) \u00e0 une fr\u00e9quence hebdomadaire. \nLes consignes de saisie sp\u00e9cifiques dans SI-VIC seront lev\u00e9es \u00e0 partir de cette date, les indicateurs hospitaliers ne seront plus disponibles. \nSant\u00e9 publique France maintient la surveillance de l\u2019\u00e9pid\u00e9mie \u00e0 travers son dispositif multi-sources. Les indicateurs relatifs \u00e0 la surveillance g\u00e9nomique, aux recours aux associations SOS M\u00e9decins, aux urgences hospitali\u00e8res et aux d\u00e9c\u00e8s resteront disponibles.**\n\n**04/04/2023**\nSuite aux adaptations des consignes de saisie des donn\u00e9es observ\u00e9es par les \u00e9tablissements de sant\u00e9, Sant\u00e9 publique France publie fait \u00e9voluer sa restitution des indicateurs de la surveillance hospitali\u00e8re de COVID-19 issus de SIVIC tel que : \n-\tsont suspendus les indicateurs calcul\u00e9s par date de d\u00e9claration \n-\tsont maintenus les indicateurs calcul\u00e9s par date d\u2019admission \u00e0 un rythme bihebdomadaire, les mardi et vendredi.\n\nLes ressources toujours actualis\u00e9es :\n- covid_hosp_txad_fra\n- covid_hosp_ad_age\n- covid_hosp_txad_reg\n- covid_hosp_txad_age_fra\n\n\n**08/06/2022** Compte tenu de la tendance actuelle favorable et la baisse des principaux indicateurs, \u00e0 partir du 11 juin 2022, les indicateurs COVID-19 produits par Sant\u00e9 publique France seront actualis\u00e9s sur G\u00e9odes et opendata.gouv.tg  tous les jours \u00e0 l\u2019exception des week-end et des jours f\u00e9ri\u00e9s. \n\n**Information 11/03/2022**\nLe **nom de fichiers** a \u00e9t\u00e9 modifi\u00e9, suite \u00e0 la mise \u00e0 jour du syst\u00e8me informatique :\n _donnees-hospitalieres-covid19_ devient covid_hospit\n _donnees-hospitalieres-etablissements-covid19_ devient covid_hospit_etab\n _donnees-hospitalieres-nouveaux-covid19_ devient covid_hospit_incid\n _donnees-hospitalieres-classe-age-covid19_ devient covid_hospit_clage10\n _donnees-hospitalieres-classe-age-hebdo-covid19_ devient covid_hosp_ad_age\n\n**Information 04/02/2022**\nDepuis mardi 1er f\u00e9vrier, les formats des fichiers d\u00e9c\u00e8s dans SIVIC ont \u00e9t\u00e9 modifi\u00e9s en amont de Sant\u00e9 publique France. Certaines donn\u00e9es n\u2019ont pas \u00e9t\u00e9 dans nos indicateurs, entrainant une sous-estimation des indicateurs hospitaliers les 2 et 3 f\u00e9vrier. \n\nLes nombres de nouvelles hospitalisations, admissions en soins critiques et d\u00e9c\u00e8s d\u00e9clar\u00e9s le 4 F\u00e9vrier 2022 int\u00e8grent un rattrapage de donn\u00e9es et sont donc surestim\u00e9s.\n\n**Information 31/01/2022**\nAjout de la variable `pouravec` dans les fichiers _covid-hosp-txad-fra.csv_, _covid-hosp-txad-reg.csv_ et _covid-hosp-txad-age-fra.csv_\nCette variable permet une s\u00e9lection selon le lien de l'hospitalisation avec la COVID-19 :\n\n`0` =\tHospitalisations avec infection SARS-CoV-2 (quelque soit le motif de l'hospitalisation)\n`1` =\tHospitalisations pour COVID-19\n`2` =\tHospitalisations pour autre motif, avec infection SARS-CoV-2\n\n(la modalit\u00e9 \"0\" est la somme des modalit\u00e9s \"1\" et \"2\")\n\n_SI-VIC est un outil administratif de gestion hospitali\u00e8re et ne contient aucune information m\u00e9dicale. Les **d\u00e9c\u00e8s** notifi\u00e9s dans SI-VIC ne comprennent donc aucune information concernant l'imputabilit\u00e9 de la Covid-19 au d\u00e9c\u00e8s. La distinction des patients d\u00e9c\u00e9d\u00e9s au cours d'une hospitalisation pour COVID-19 de ceux d\u00e9c\u00e9d\u00e9s au cours d'une hospitalisation pour un autre motif mais avec une infection SARS-CoV-2 ne peut donc \u00eatre faite en se basant sur les donn\u00e9es SI-VIC_\n\n**Information 26/11/2021**\nAjout de ressources donnant acc\u00e8s aux donn\u00e9es hebdomadaires r\u00e9gionales et nationales d'hospitalisation et en fonction de **la date d'admission.**\n\nLes variables pour _covid-hosp-txad-fra.csv_ et _covid-hosp-txad-reg.csv_ \n`tx_indic_7J_DC` = Taux de personnes d\u00e9c\u00e9d\u00e9es durant les 7 derniers jours  (pour 100 000 hab.) \n`tx_indic_7J_hosp` = Taux de nouvelles hospitalisation lors des 7 derniers jours  (pour 100 000 hab.) \n`tx_indic_7J_SC` = Taux de nouvelles hospitalisation en soins critiques lors des 7 derniers jours  (pour 100 000 hab.) \n`tx_prev_hosp` = Taux personnes hospitalis\u00e9es  (pour 100 000 hab.) \n`tx_prev_SC` = Taux de personnes en soins critiques  (pour 100 000 hab.) \n\nEn plus pour _covid-hosp-txad-age-fra.csv_ :\n`cl_age90` = Classe d'\u00e2ge\n\n### Les actions de Sant\u00e9 publique France\n\nSant\u00e9 publique France a pour mission d'am\u00e9liorer et de prot\u00e9ger la sant\u00e9 des populations. Durant la crise sanitaire li\u00e9e \u00e0 l'\u00e9pid\u00e9mie du COVID-19, Sant\u00e9 publique France se charge de surveiller et comprendre la dynamique de l'\u00e9pid\u00e9mie, d'anticiper les diff\u00e9rents sc\u00e9narii et de mettre en place des actions pour pr\u00e9venir et limiter la transmission de ce virus sur le territoire national.\n\n### Description du jeu de donn\u00e9es\n\nLe pr\u00e9sent jeu de donn\u00e9es renseigne sur la situation hospitali\u00e8res concernant l'\u00e9pid\u00e9mie de COVID-19.\n\nCinq fichiers sont propos\u00e9s : \n\n- **Les donn\u00e9es hospitali\u00e8res relatives \u00e0 l'\u00e9pid\u00e9mie du COVID-19 par d\u00e9partement et sexe du patient** : nombre de patients hospitalis\u00e9s, nombre de personnes actuellement en r\u00e9animation ou soins intensifs, nombre de personnes actuellement en Soins de Suite et de R\u00e9adaptation (SSR) ou Unit\u00e9s de Soins de Longue Dur\u00e9e(USLD), nombre de personnes actuellement en hospitalisation conventionnelle, nombre actuellement de personnes hospitalis\u00e9es dans un autre type de service ou nombre cumul\u00e9 de personnes retourn\u00e9es \u00e0 domicile, nombre cumul\u00e9 de personnes d\u00e9c\u00e9d\u00e9es.\n\n- **Les donn\u00e9es hospitali\u00e8res relatives \u00e0 l'\u00e9pid\u00e9mie du COVID-19 par r\u00e9gion, et classe d'\u00e2ge du patient** : nombre de patients hospitalis\u00e9s, nombre de personnes actuellement en r\u00e9animation ou soins intensifs, nombre de personnes actuellement en Soins de Suite et de R\u00e9adaptation (SSR) ou Unit\u00e9s de Soins de Longue Dur\u00e9e(USLD), nombre de personnes actuellement en hospitalisation conventionnelle, nombre actuellement de personnes hospitalis\u00e9es dans un autre type de service, nombre cumul\u00e9 de personnes retourn\u00e9es \u00e0 domicile, nombre cumul\u00e9 de personnes d\u00e9c\u00e9d\u00e9es.\nLe codage des classes d'\u00e2ges est le suivant :\n0\t= tous \u00e2ges\n09\t= 0-9 ans\n19\t= 10-19 ans\n29\t= 20-29 ans\n39\t= 30-39 ans\n49\t= 40-49 ans\n59\t= 50-59 ans\n69\t= 60-69 ans\n79\t= 70- 79 ans\n89\t= 80-89 ans\n90\t= 90 ans et plus\n\n- **Les donn\u00e9es hospitali\u00e8res quotidiennes relatives \u00e0 l'\u00e9pid\u00e9mie du COVID-19 par d\u00e9partement** : nombre quotidien de personnes nouvellement hospitalis\u00e9es, nombre quotidien de nouvelles admissions en r\u00e9animation, nombre quotidien de personnes nouvellement d\u00e9c\u00e9d\u00e9es, nombre quotidien de nouveaux retours \u00e0 domicile.\n\n- **Les donn\u00e9es relatives aux \u00e9tablissements hospitaliers par d\u00e9partement** : nombre cumul\u00e9 de services ayant d\u00e9clar\u00e9 au moins un cas.\n\n- **Les donn\u00e9es relatives \u00e0 les nouvelles admissions en r\u00e9animation par r\u00e9gion** : nombre de nouveaux patients admis en r\u00e9animation dans les 24 derni\u00e8res heures.\n\n\n### Anomalies d\u00e9tect\u00e9es dans les fichiers\n\nAttention, certains fichiers peuvent comporter des anomalies du fait des difficult\u00e9s de collecte des donn\u00e9es.\n\nDes rapports d'erreurs sont publi\u00e9s tous les jours par Etalab dans la rubrique ressources communautaires :\n- [Rapport d'erreurs pour les donn\u00e9es hospitali\u00e8res](https://www.opendata.gouv.tg /fr/datasets/r/f19775db-15c0-4261-a8a6-255034e94dbf) ;\n- [Rapport d'erreurs pour les \u00e9tablissements hospitaliers](https://www.opendata.gouv.tg /fr/datasets/r/8b55024d-6128-4fef-ae03-08692597dd94).\n\n\u00c0 noter que : \n- Le syst\u00e8me de d\u00e9claration des cas n'est pas exhaustif et le nombre d'\u00e9tablissements d\u00e9clarant varie au cours du temps ;\n- Certains patients, pr\u00e9sents dans la base de donn\u00e9es hospitali\u00e8res \u00e0 un moment donn\u00e9, sont retir\u00e9s de la base de donn\u00e9es par les \u00e9tablissements de sant\u00e9 lorsque le r\u00e9sultat biologique du patient est n\u00e9gatif par rapport au COVID-19 ; \n- Pour certains patients, la classe d'\u00e2ge n'a pas \u00e9t\u00e9 identifi\u00e9e dans la base de donn\u00e9es. Ce qui peut induire un d\u00e9calage entre la somme de toutes les classes d'\u00e2ge d'un indicateur et le nombre total de cet indicateur ; \n- Pour certains patients, le sexe n'a pas \u00e9t\u00e9 identifi\u00e9 dans la base de donn\u00e9es. Ce qui peut induire un d\u00e9calage entre la somme H/F  d'un indicateur et le nombre total de cet indicateur. \n\nN\u2019h\u00e9sitez pas \u00e0 signaler d'autres anomalies en commentaire. Ces remarques seront communiqu\u00e9es \u00e0 l'\u00e9quipe en charge de la collecte et diffusion des donn\u00e9es. \n\n### Autres donn\u00e9es disponibles\n\n[Sant\u00e9 publique France](https://www.opendata.gouv.tg /fr/organizations/sante-publique-france/) publie \u00e9galement les [donn\u00e9es des urgences hospitali\u00e8res et de SOS m\u00e9decins relatives \u00e0 l'\u00e9pid\u00e9mie de COVID-19](https://www.opendata.gouv.tg /fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/) et les donn\u00e9es relatives aux [tests de d\u00e9pistage de COVID-19 r\u00e9alis\u00e9s en laboratoire de ville](https://www.opendata.gouv.tg /fr/datasets/donnees-relatives-aux-tests-de-depistage-de-covid-19-realises-en-laboratoire-de-ville/).",
+                "description": "**Dans un contexte d\u2019\u00e9pid\u00e9mie favorable, \u00e0 compter du 1er juillet 2023, le cadre juridique actuellement en cours pr\u00e9voit l\u2019arr\u00eat du traitement des donn\u00e9es personnelles issues de SI-DEP. Par cons\u00e9quent, apr\u00e8s une p\u00e9riode transitoire d\u2019ajustement de deux semaines, les nouveaux indicateurs de surveillance virologique seront publi\u00e9s aux niveaux national, r\u00e9gional et d\u00e9partemental) \u00e0 une fr\u00e9quence hebdomadaire. \nLes consignes de saisie sp\u00e9cifiques dans SI-VIC seront lev\u00e9es \u00e0 partir de cette date, les indicateurs hospitaliers ne seront plus disponibles. \nSant\u00e9 publique France maintient la surveillance de l\u2019\u00e9pid\u00e9mie \u00e0 travers son dispositif multi-sources. Les indicateurs relatifs \u00e0 la surveillance g\u00e9nomique, aux recours aux associations SOS M\u00e9decins, aux urgences hospitali\u00e8res et aux d\u00e9c\u00e8s resteront disponibles.**\n\n**04/04/2023**\nSuite aux adaptations des consignes de saisie des donn\u00e9es observ\u00e9es par les \u00e9tablissements de sant\u00e9, Sant\u00e9 publique France publie fait \u00e9voluer sa restitution des indicateurs de la surveillance hospitali\u00e8re de COVID-19 issus de SIVIC tel que : \n-\tsont suspendus les indicateurs calcul\u00e9s par date de d\u00e9claration \n-\tsont maintenus les indicateurs calcul\u00e9s par date d\u2019admission \u00e0 un rythme bihebdomadaire, les mardi et vendredi.\n\nLes ressources toujours actualis\u00e9es :\n- covid_hosp_txad_fra\n- covid_hosp_ad_age\n- covid_hosp_txad_reg\n- covid_hosp_txad_age_fra\n\n\n**08/06/2022** Compte tenu de la tendance actuelle favorable et la baisse des principaux indicateurs, \u00e0 partir du 11 juin 2022, les indicateurs COVID-19 produits par Sant\u00e9 publique France seront actualis\u00e9s sur G\u00e9odes et opendata.gouv.tg  tous les jours \u00e0 l\u2019exception des week-end et des jours f\u00e9ri\u00e9s. \n\n**Information 11/03/2022**\nLe **nom de fichiers** a \u00e9t\u00e9 modifi\u00e9, suite \u00e0 la mise \u00e0 jour du syst\u00e8me informatique :\n _donnees-hospitalieres-covid19_ devient covid_hospit\n _donnees-hospitalieres-etablissements-covid19_ devient covid_hospit_etab\n _donnees-hospitalieres-nouveaux-covid19_ devient covid_hospit_incid\n _donnees-hospitalieres-classe-age-covid19_ devient covid_hospit_clage10\n _donnees-hospitalieres-classe-age-hebdo-covid19_ devient covid_hosp_ad_age\n\n**Information 04/02/2022**\nDepuis mardi 1er f\u00e9vrier, les formats des fichiers d\u00e9c\u00e8s dans SIVIC ont \u00e9t\u00e9 modifi\u00e9s en amont de Sant\u00e9 publique France. Certaines donn\u00e9es n\u2019ont pas \u00e9t\u00e9 dans nos indicateurs, entrainant une sous-estimation des indicateurs hospitaliers les 2 et 3 f\u00e9vrier. \n\nLes nombres de nouvelles hospitalisations, admissions en soins critiques et d\u00e9c\u00e8s d\u00e9clar\u00e9s le 4 F\u00e9vrier 2022 int\u00e8grent un rattrapage de donn\u00e9es et sont donc surestim\u00e9s.\n\n**Information 31/01/2022**\nAjout de la variable `pouravec` dans les fichiers _covid-hosp-txad-fra.csv_, _covid-hosp-txad-reg.csv_ et _covid-hosp-txad-age-fra.csv_\nCette variable permet une s\u00e9lection selon le lien de l'hospitalisation avec la COVID-19 :\n\n`0` =\tHospitalisations avec infection SARS-CoV-2 (quelque soit le motif de l'hospitalisation)\n`1` =\tHospitalisations pour COVID-19\n`2` =\tHospitalisations pour autre motif, avec infection SARS-CoV-2\n\n(la modalit\u00e9 \"0\" est la somme des modalit\u00e9s \"1\" et \"2\")\n\n_SI-VIC est un outil administratif de gestion hospitali\u00e8re et ne contient aucune information m\u00e9dicale. Les **d\u00e9c\u00e8s** notifi\u00e9s dans SI-VIC ne comprennent donc aucune information concernant l'imputabilit\u00e9 de la Covid-19 au d\u00e9c\u00e8s. La distinction des patients d\u00e9c\u00e9d\u00e9s au cours d'une hospitalisation pour COVID-19 de ceux d\u00e9c\u00e9d\u00e9s au cours d'une hospitalisation pour un autre motif mais avec une infection SARS-CoV-2 ne peut donc \u00eatre faite en se basant sur les donn\u00e9es SI-VIC_\n\n**Information 26/11/2021**\nAjout de ressources donnant acc\u00e8s aux donn\u00e9es hebdomadaires r\u00e9gionales et nationales d'hospitalisation et en fonction de **la date d'admission.**\n\nLes variables pour _covid-hosp-txad-fra.csv_ et _covid-hosp-txad-reg.csv_ \n`tx_indic_7J_DC` = Taux de personnes d\u00e9c\u00e9d\u00e9es durant les 7 derniers jours  (pour 100 000 hab.) \n`tx_indic_7J_hosp` = Taux de nouvelles hospitalisation lors des 7 derniers jours  (pour 100 000 hab.) \n`tx_indic_7J_SC` = Taux de nouvelles hospitalisation en soins critiques lors des 7 derniers jours  (pour 100 000 hab.) \n`tx_prev_hosp` = Taux personnes hospitalis\u00e9es  (pour 100 000 hab.) \n`tx_prev_SC` = Taux de personnes en soins critiques  (pour 100 000 hab.) \n\nEn plus pour _covid-hosp-txad-age-fra.csv_ :\n`cl_age90` = Classe d'\u00e2ge\n\n### Les actions de Sant\u00e9 publique France\n\nSant\u00e9 publique France a pour mission d'am\u00e9liorer et de prot\u00e9ger la sant\u00e9 des populations. Durant la crise sanitaire li\u00e9e \u00e0 l'\u00e9pid\u00e9mie du COVID-19, Sant\u00e9 publique France se charge de surveiller et comprendre la dynamique de l'\u00e9pid\u00e9mie, d'anticiper les diff\u00e9rents sc\u00e9narii et de mettre en place des actions pour pr\u00e9venir et limiter la transmission de ce virus sur le territoire national.\n\n### Description du jeu de donn\u00e9es\n\nLe pr\u00e9sent jeu de donn\u00e9es renseigne sur la situation hospitali\u00e8res concernant l'\u00e9pid\u00e9mie de COVID-19.\n\nCinq fichiers sont propos\u00e9s : \n\n- **Les donn\u00e9es hospitali\u00e8res relatives \u00e0 l'\u00e9pid\u00e9mie du COVID-19 par d\u00e9partement et sexe du patient** : nombre de patients hospitalis\u00e9s, nombre de personnes actuellement en r\u00e9animation ou soins intensifs, nombre de personnes actuellement en Soins de Suite et de R\u00e9adaptation (SSR) ou Unit\u00e9s de Soins de Longue Dur\u00e9e(USLD), nombre de personnes actuellement en hospitalisation conventionnelle, nombre actuellement de personnes hospitalis\u00e9es dans un autre type de service ou nombre cumul\u00e9 de personnes retourn\u00e9es \u00e0 domicile, nombre cumul\u00e9 de personnes d\u00e9c\u00e9d\u00e9es.\n\n- **Les donn\u00e9es hospitali\u00e8res relatives \u00e0 l'\u00e9pid\u00e9mie du COVID-19 par r\u00e9gion, et classe d'\u00e2ge du patient** : nombre de patients hospitalis\u00e9s, nombre de personnes actuellement en r\u00e9animation ou soins intensifs, nombre de personnes actuellement en Soins de Suite et de R\u00e9adaptation (SSR) ou Unit\u00e9s de Soins de Longue Dur\u00e9e(USLD), nombre de personnes actuellement en hospitalisation conventionnelle, nombre actuellement de personnes hospitalis\u00e9es dans un autre type de service, nombre cumul\u00e9 de personnes retourn\u00e9es \u00e0 domicile, nombre cumul\u00e9 de personnes d\u00e9c\u00e9d\u00e9es.\nLe codage des classes d'\u00e2ges est le suivant :\n0\t= tous \u00e2ges\n09\t= 0-9 ans\n19\t= 10-19 ans\n29\t= 20-29 ans\n39\t= 30-39 ans\n49\t= 40-49 ans\n59\t= 50-59 ans\n69\t= 60-69 ans\n79\t= 70- 79 ans\n89\t= 80-89 ans\n90\t= 90 ans et plus\n\n- **Les donn\u00e9es hospitali\u00e8res quotidiennes relatives \u00e0 l'\u00e9pid\u00e9mie du COVID-19 par d\u00e9partement** : nombre quotidien de personnes nouvellement hospitalis\u00e9es, nombre quotidien de nouvelles admissions en r\u00e9animation, nombre quotidien de personnes nouvellement d\u00e9c\u00e9d\u00e9es, nombre quotidien de nouveaux retours \u00e0 domicile.\n\n- **Les donn\u00e9es relatives aux \u00e9tablissements hospitaliers par d\u00e9partement** : nombre cumul\u00e9 de services ayant d\u00e9clar\u00e9 au moins un cas.\n\n- **Les donn\u00e9es relatives \u00e0 les nouvelles admissions en r\u00e9animation par r\u00e9gion** : nombre de nouveaux patients admis en r\u00e9animation dans les 24 derni\u00e8res heures.\n\n\n### Anomalies d\u00e9tect\u00e9es dans les fichiers\n\nAttention, certains fichiers peuvent comporter des anomalies du fait des difficult\u00e9s de collecte des donn\u00e9es.\n\nDes rapports d'erreurs sont publi\u00e9s tous les jours par Etalab dans la rubrique ressources communautaires :\n- [Rapport d'erreurs pour les donn\u00e9es hospitali\u00e8res](https://www.opendata.gouv.tg/fr/datasets/r/f19775db-15c0-4261-a8a6-255034e94dbf) ;\n- [Rapport d'erreurs pour les \u00e9tablissements hospitaliers](https://www.opendata.gouv.tg/fr/datasets/r/8b55024d-6128-4fef-ae03-08692597dd94).\n\n\u00c0 noter que : \n- Le syst\u00e8me de d\u00e9claration des cas n'est pas exhaustif et le nombre d'\u00e9tablissements d\u00e9clarant varie au cours du temps ;\n- Certains patients, pr\u00e9sents dans la base de donn\u00e9es hospitali\u00e8res \u00e0 un moment donn\u00e9, sont retir\u00e9s de la base de donn\u00e9es par les \u00e9tablissements de sant\u00e9 lorsque le r\u00e9sultat biologique du patient est n\u00e9gatif par rapport au COVID-19 ; \n- Pour certains patients, la classe d'\u00e2ge n'a pas \u00e9t\u00e9 identifi\u00e9e dans la base de donn\u00e9es. Ce qui peut induire un d\u00e9calage entre la somme de toutes les classes d'\u00e2ge d'un indicateur et le nombre total de cet indicateur ; \n- Pour certains patients, le sexe n'a pas \u00e9t\u00e9 identifi\u00e9 dans la base de donn\u00e9es. Ce qui peut induire un d\u00e9calage entre la somme H/F  d'un indicateur et le nombre total de cet indicateur. \n\nN\u2019h\u00e9sitez pas \u00e0 signaler d'autres anomalies en commentaire. Ces remarques seront communiqu\u00e9es \u00e0 l'\u00e9quipe en charge de la collecte et diffusion des donn\u00e9es. \n\n### Autres donn\u00e9es disponibles\n\n[Sant\u00e9 publique France](https://www.opendata.gouv.tg/fr/organizations/sante-publique-france/) publie \u00e9galement les [donn\u00e9es des urgences hospitali\u00e8res et de SOS m\u00e9decins relatives \u00e0 l'\u00e9pid\u00e9mie de COVID-19](https://www.opendata.gouv.tg/fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/) et les donn\u00e9es relatives aux [tests de d\u00e9pistage de COVID-19 r\u00e9alis\u00e9s en laboratoire de ville](https://www.opendata.gouv.tg/fr/datasets/donnees-relatives-aux-tests-de-depistage-de-covid-19-realises-en-laboratoire-de-ville/).",
                 "created_at": "2020-03-27T15:40:10.048000+00:00",
                 "last_modified": "2023-07-04T15:11:16.551000+00:00",
                 "deleted": null,
@@ -682,13 +682,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/5e7e104ace2080d9162b61d8/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/5e7e104ace2080d9162b61d8/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 15
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5e7e104ace2080d9162b61d8&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5e7e104ace2080d9162b61d8&page=1&page_size=50",
                   "type": "GET",
                   "total": 43
                 },
@@ -728,11 +728,11 @@ const meta = {
                 "organization": {
                   "name": "Sant\u00e9 publique France",
                   "acronym": "SPF",
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/sante-publique-france/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/sante-publique-france/",
                   "slug": "sante-publique-france",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/sante-publique-france/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/76/69d8ead7684d25a80c9fa97d943b06-original.png",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/76/69d8ead7684d25a80c9fa97d943b06-100.png",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/sante-publique-france/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/76/69d8ead7684d25a80c9fa97d943b06-original.png",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/76/69d8ead7684d25a80c9fa97d943b06-100.png",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -754,8 +754,8 @@ const meta = {
                   "granularity": "fr:departement"
                 },
                 "license": "lov2",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/",
                 "last_update": "2023-06-30T16:29:23.644000+00:00",
                 "archived": null,
                 "quality": {
@@ -811,13 +811,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/53699fe4a3a729239d206227/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/53699fe4a3a729239d206227/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 4
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=53699fe4a3a729239d206227&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=53699fe4a3a729239d206227&page=1&page_size=50",
                   "type": "GET",
                   "total": 4
                 },
@@ -883,11 +883,11 @@ const meta = {
                 "organization": {
                   "name": "Premier ministre",
                   "acronym": null,
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/premier-ministre/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/premier-ministre/",
                   "slug": "premier-ministre",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/premier-ministre/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/9a/b212bd561b4e54af775c49390f9f24-original.png",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/9a/b212bd561b4e54af775c49390f9f24-100.png",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/premier-ministre/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/9a/b212bd561b4e54af775c49390f9f24-original.png",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/9a/b212bd561b4e54af775c49390f9f24-100.png",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -913,8 +913,8 @@ const meta = {
                   "granularity": "fr:commune"
                 },
                 "license": "fr-lo",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/",
                 "last_update": "2024-08-28T06:05:35+00:00",
                 "archived": null,
                 "quality": {
@@ -961,13 +961,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/53698f4ca3a729239d2036df/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/53698f4ca3a729239d2036df/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 95
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=53698f4ca3a729239d2036df&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=53698f4ca3a729239d2036df&page=1&page_size=50",
                   "type": "GET",
                   "total": 9
                 },
@@ -990,11 +990,11 @@ const meta = {
                 "organization": {
                   "name": "Minist\u00e8re de l'Int\u00e9rieur et des Outre-Mer",
                   "acronym": null,
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-linterieur-et-des-outre-mer/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-linterieur-et-des-outre-mer/",
                   "slug": "ministere-de-linterieur-et-des-outre-mer",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-linterieur-et-des-outre-mer/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/64/efa546af334b4cbf07e36f694db4fe-original.png",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/64/efa546af334b4cbf07e36f694db4fe-100.png",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-linterieur-et-des-outre-mer/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/64/efa546af334b4cbf07e36f694db4fe-original.png",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/64/efa546af334b4cbf07e36f694db4fe-100.png",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -1019,8 +1019,8 @@ const meta = {
                   "granularity": "poi"
                 },
                 "license": "fr-lo",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2022/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2022/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2022/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2022/",
                 "last_update": "2023-10-09T14:03:43.114000+00:00",
                 "archived": null,
                 "quality": {
@@ -1068,13 +1068,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/605d268f4661cf23272817c3/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/605d268f4661cf23272817c3/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 29
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=605d268f4661cf23272817c3&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=605d268f4661cf23272817c3&page=1&page_size=50",
                   "type": "GET",
                   "total": 3
                 },
@@ -1091,11 +1091,11 @@ const meta = {
                 "organization": {
                   "name": "Minist\u00e8re de l'\u00c9conomie, des Finances et de la Souverainet\u00e9 industrielle et num\u00e9rique",
                   "acronym": "MEFSIN",
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
                   "slug": "ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -1111,8 +1111,8 @@ const meta = {
                 "temporal_coverage": null,
                 "spatial": null,
                 "license": "lov2",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/fichiers-des-locaux-et-des-parcelles-des-personnes-morales/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/fichiers-des-locaux-et-des-parcelles-des-personnes-morales/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/fichiers-des-locaux-et-des-parcelles-des-personnes-morales/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/fichiers-des-locaux-et-des-parcelles-des-personnes-morales/",
                 "last_update": "2023-12-13T00:03:33.724000+00:00",
                 "archived": null,
                 "quality": {
@@ -1167,13 +1167,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/5a5f4f6c88ee387da4d252a3/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/5a5f4f6c88ee387da4d252a3/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 10
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5a5f4f6c88ee387da4d252a3&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5a5f4f6c88ee387da4d252a3&page=1&page_size=50",
                   "type": "GET",
                   "total": 2
                 },
@@ -1190,11 +1190,11 @@ const meta = {
                 "organization": {
                   "name": "Minist\u00e8re de la Transition \u00e9cologique",
                   "acronym": "MTE",
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-la-transition-ecologique/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-la-transition-ecologique/",
                   "slug": "ministere-de-la-transition-ecologique",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-la-transition-ecologique/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-original.jpg",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-100.jpg",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-la-transition-ecologique/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-original.jpg",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-100.jpg",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -1219,8 +1219,8 @@ const meta = {
                   "granularity": "poi"
                 },
                 "license": "fr-lo",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/base-des-permis-de-construire-et-autres-autorisations-durbanisme-sitadel/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/base-des-permis-de-construire-et-autres-autorisations-durbanisme-sitadel/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/base-des-permis-de-construire-et-autres-autorisations-durbanisme-sitadel/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/base-des-permis-de-construire-et-autres-autorisations-durbanisme-sitadel/",
                 "last_update": "2024-08-30T12:26:58+00:00",
                 "archived": null,
                 "quality": {
@@ -1266,13 +1266,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/58da72bbc751df38734d8658/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/58da72bbc751df38734d8658/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 41
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=58da72bbc751df38734d8658&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=58da72bbc751df38734d8658&page=1&page_size=50",
                   "type": "GET",
                   "total": 8
                 },
@@ -1289,11 +1289,11 @@ const meta = {
                 "organization": {
                   "name": "Minist\u00e8re de l'\u00c9conomie, des Finances et de la Souverainet\u00e9 industrielle et num\u00e9rique",
                   "acronym": "MEFSIN",
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
                   "slug": "ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -1318,8 +1318,8 @@ const meta = {
                   "granularity": "fr:commune"
                 },
                 "license": "fr-lo",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/impots-locaux-fichier-de-recensement-des-elements-dimposition-a-la-fiscalite-directe-locale-rei-3/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/impots-locaux-fichier-de-recensement-des-elements-dimposition-a-la-fiscalite-directe-locale-rei-3/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/impots-locaux-fichier-de-recensement-des-elements-dimposition-a-la-fiscalite-directe-locale-rei-3/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/impots-locaux-fichier-de-recensement-des-elements-dimposition-a-la-fiscalite-directe-locale-rei-3/",
                 "last_update": "2023-07-03T13:04:28.507000+00:00",
                 "archived": null,
                 "quality": {
@@ -1350,7 +1350,7 @@ const meta = {
                 "title": "Base Adresse Nationale",
                 "acronym": "BAN",
                 "slug": "base-adresse-nationale",
-                "description": "La **Base Adresse Nationale** est l\u2019une des neuf bases de donn\u00e9es du [service public des donn\u00e9es de r\u00e9f\u00e9rence](https://www.opendata.gouv.tg /fr/reference). C'est le r\u00e9f\u00e9rentiel d'adresses **officiellement reconnu par l\u2019administration**.\n\n**Service num\u00e9rique d'int\u00e9r\u00eat national sur lequel sont adoss\u00e9es de nombreuses politiques publiques, la BAN fait partie de l'infrastructure socle du **syst\u00e8me d\u2019information et de communication de l\u2019\u00c9tat** et est \u00e0 ce titre plac\u00e9e sous la **responsabilit\u00e9 du Premier ministre**.\n\nSous co-pilotage **DINUM**, **IGN** et **ANCT**, sa construction est assur\u00e9e en premier lieu par les **communes**, **seules autorit\u00e9s comp\u00e9tentes en terme d\u2019adressage**.\n\nLa Base Adresse Nationale est accessible sous forme de fichiers et d\u2019API.\n\nUn [service de g\u00e9ocodage gratuit](https://adresse.opendata.gouv.tg /api) est mis \u00e0 disposition par Etalab.\n",
+                "description": "La **Base Adresse Nationale** est l\u2019une des neuf bases de donn\u00e9es du [service public des donn\u00e9es de r\u00e9f\u00e9rence](https://www.opendata.gouv.tg/fr/reference). C'est le r\u00e9f\u00e9rentiel d'adresses **officiellement reconnu par l\u2019administration**.\n\n**Service num\u00e9rique d'int\u00e9r\u00eat national sur lequel sont adoss\u00e9es de nombreuses politiques publiques, la BAN fait partie de l'infrastructure socle du **syst\u00e8me d\u2019information et de communication de l\u2019\u00c9tat** et est \u00e0 ce titre plac\u00e9e sous la **responsabilit\u00e9 du Premier ministre**.\n\nSous co-pilotage **DINUM**, **IGN** et **ANCT**, sa construction est assur\u00e9e en premier lieu par les **communes**, **seules autorit\u00e9s comp\u00e9tentes en terme d\u2019adressage**.\n\nLa Base Adresse Nationale est accessible sous forme de fichiers et d\u2019API.\n\nUn [service de g\u00e9ocodage gratuit](https://adresse.opendata.gouv.tg/api) est mis \u00e0 disposition par Etalab.\n",
                 "created_at": "2015-04-17T14:25:16.900000+00:00",
                 "last_modified": "2024-08-28T09:47:04.599000+00:00",
                 "deleted": null,
@@ -1369,13 +1369,13 @@ const meta = {
                 ],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/5530fbacc751df5ff937dddb/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/5530fbacc751df5ff937dddb/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 1
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5530fbacc751df5ff937dddb&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5530fbacc751df5ff937dddb&page=1&page_size=50",
                   "type": "GET",
                   "total": 2
                 },
@@ -1384,7 +1384,7 @@ const meta = {
                 "extras": {
                   "recommendations-externals": [
                     {
-                      "id": "https://adresse.opendata.gouv.tg /",
+                      "id": "https://adresse.opendata.gouv.tg/",
                       "score": 50,
                       "source": "edito",
                       "messages": {
@@ -1401,7 +1401,7 @@ const meta = {
                       }
                     }
                   ],
-                  "transport:url": "https://transport.opendata.gouv.tg /datasets/base-adresse-nationale",
+                  "transport:url": "https://transport.opendata.gouv.tg/datasets/base-adresse-nationale",
                   "apigouvfr:apis": [
                     {
                       "title": "API Adresse (Base Adresse Nationale - BAN)",
@@ -1436,11 +1436,11 @@ const meta = {
                 "organization": {
                   "name": "Base Adresse Nationale",
                   "acronym": "BAN",
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/base-adresse-nationale/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/base-adresse-nationale/",
                   "slug": "base-adresse-nationale",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/base-adresse-nationale/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/40/05f4e0291e4ad49a9321071c195cce-original.jpg",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/40/05f4e0291e4ad49a9321071c195cce-100.jpg",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/base-adresse-nationale/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/40/05f4e0291e4ad49a9321071c195cce-original.jpg",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/40/05f4e0291e4ad49a9321071c195cce-100.jpg",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -1463,8 +1463,8 @@ const meta = {
                   "granularity": "country"
                 },
                 "license": "lov2",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/base-adresse-nationale/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/base-adresse-nationale/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/base-adresse-nationale/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/base-adresse-nationale/",
                 "last_update": "2024-08-28T12:17:10.618977+00:00",
                 "archived": null,
                 "quality": {
@@ -1508,13 +1508,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/6010206e7aa742eb447930f7/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/6010206e7aa742eb447930f7/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 30
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=6010206e7aa742eb447930f7&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=6010206e7aa742eb447930f7&page=1&page_size=50",
                   "type": "GET",
                   "total": 7
                 },
@@ -1554,11 +1554,11 @@ const meta = {
                 "organization": {
                   "name": "Sant\u00e9 publique France",
                   "acronym": "SPF",
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/sante-publique-france/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/sante-publique-france/",
                   "slug": "sante-publique-france",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/sante-publique-france/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/76/69d8ead7684d25a80c9fa97d943b06-original.png",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/76/69d8ead7684d25a80c9fa97d943b06-100.png",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/sante-publique-france/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/76/69d8ead7684d25a80c9fa97d943b06-original.png",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/76/69d8ead7684d25a80c9fa97d943b06-100.png",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -1580,8 +1580,8 @@ const meta = {
                   "granularity": "fr:departement"
                 },
                 "license": "lov2",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/",
                 "last_update": "2023-07-13T15:52:24.758000+00:00",
                 "archived": null,
                 "quality": {
@@ -1626,13 +1626,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/61d5e2d372a52d9f9411ff88/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/61d5e2d372a52d9f9411ff88/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 2
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=61d5e2d372a52d9f9411ff88&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=61d5e2d372a52d9f9411ff88&page=1&page_size=50",
                   "type": "GET",
                   "total": 0
                 },
@@ -1649,11 +1649,11 @@ const meta = {
                 "organization": {
                   "name": "Institut National de la Statistique et des Etudes Economiques (Insee)",
                   "acronym": null,
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
                   "slug": "institut-national-de-la-statistique-et-des-etudes-economiques-insee",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -1678,8 +1678,8 @@ const meta = {
                   "granularity": "other"
                 },
                 "license": "lov2",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/geolocalisation-des-etablissements-du-repertoire-sirene-pour-les-etudes-statistiques/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/geolocalisation-des-etablissements-du-repertoire-sirene-pour-les-etudes-statistiques/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/geolocalisation-des-etablissements-du-repertoire-sirene-pour-les-etudes-statistiques/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/geolocalisation-des-etablissements-du-repertoire-sirene-pour-les-etudes-statistiques/",
                 "last_update": "2024-08-21T13:28:11.216000+00:00",
                 "archived": null,
                 "quality": {
@@ -1727,13 +1727,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/548acaf2c751df1eac4120e7/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/548acaf2c751df1eac4120e7/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 1
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=548acaf2c751df1eac4120e7&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=548acaf2c751df1eac4120e7&page=1&page_size=50",
                   "type": "GET",
                   "total": 4
                 },
@@ -1750,11 +1750,11 @@ const meta = {
                 "organization": {
                   "name": "Institut National de la Statistique et des Etudes Economiques (Insee)",
                   "acronym": null,
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
                   "slug": "institut-national-de-la-statistique-et-des-etudes-economiques-insee",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -1776,8 +1776,8 @@ const meta = {
                   "granularity": "fr:iris"
                 },
                 "license": "fr-lo",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/base-permanente-des-equipements-1/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/base-permanente-des-equipements-1/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/base-permanente-des-equipements-1/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/base-permanente-des-equipements-1/",
                 "last_update": "2024-08-20T10:51:24.302311+00:00",
                 "archived": null,
                 "quality": {
@@ -1805,7 +1805,7 @@ const meta = {
                 "title": "Donn\u00e9es des urgences hospitali\u00e8res et de SOS m\u00e9decins relatives \u00e0 l'\u00e9pid\u00e9mie de COVID-19 ",
                 "acronym": null,
                 "slug": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
-                "description": "### INFORMATION IMPORTANTE\n\n**Ce jeudi 4 Novembre 2021**, le format de la variable **sursaud_cl_age_corona** sera modifi\u00e9 :\n\n**Nouveau codage :**\n0 = \"Tous \u00e2ges\"\n1 = \"0-4 ans\" \n2 = \"5-14 ans\"\n3 = \"15-44 ans\"\n4 = \"45-64 ans\"\n5 = \"65-74 ans\"\n6 = \"75 ans ou plus\"\n\n**Ancien actuel :**\n0 = \"Tous \u00e2ges\"\nA = \"moins de 15ans\" \nB = \"15-44 ans\"\nC = \"45-64 ans\"\nD = \"65-74 ans\"\nE = \"75 ans ou plus\"\n\n\n### Les actions de Sant\u00e9 publique France\n\nSant\u00e9 publique France a pour mission d'am\u00e9liorer et de prot\u00e9ger la sant\u00e9 des populations. Durant la crise sanitaire li\u00e9e \u00e0 l'\u00e9pid\u00e9mie du COVID-19, Sant\u00e9 publique France se charge de surveiller et comprendre la dynamique de l'\u00e9pid\u00e9mie, d'anticiper les diff\u00e9rents sc\u00e9narii et de mettre en place des actions pour pr\u00e9venir et limiter la transmission de ce virus sur le territoire national.\n\n### Description du jeu de donn\u00e9es\n\nDeux fichiers sont propos\u00e9s :\n\n- **Les donn\u00e9es quotidiennes de SOS m\u00e9decins et des urgences hospitali\u00e8res par d\u00e9partement, sexe et tranche d\u2019\u00e2ge des patients** : nombre de passages aux urgences pour suspicion de COVID-19, nombre total de passages aux urgences avec un diagnostic m\u00e9dical renseign\u00e9, nombre d\u2019hospitalisations parmi les passages aux urgences pour suspicion de COVID-19, nombre total d\u2019actes m\u00e9dicaux SOS M\u00e9decins pour suspicion de COVID-19, nombre total d\u2019actes m\u00e9dicaux SOS M\u00e9decins avec un diagnostic m\u00e9dical renseign\u00e9.\n\n- **Les donn\u00e9es quotidiennes de SOS m\u00e9decins et des urgences hospitali\u00e8res par r\u00e9gion, sexe et tranches d\u2019\u00e2ge des patients** : nombre de passages aux urgences pour suspicion de COVID-19, nombre total de passages aux urgences avec un diagnostic m\u00e9dical renseign\u00e9, nombre d\u2019hospitalisations parmi les passages aux urgences pour suspicion de COVID-19, nombre d\u2019actes m\u00e9dicaux SOS M\u00e9decins pour suspicion de COVID-19, nombre total d\u2019actes m\u00e9dicaux SOS M\u00e9decins avec un diagnostic m\u00e9dical renseign\u00e9. Le code r\u00e9gion correspond au [code INSEE](https://fr.wikipedia.org/wiki/R\u00e9gion_fran\u00e7aise#Niveau_national) publi\u00e9 par l\u2019INSEE sur [www.opendata.gouv.tg ](https://www.opendata.gouv.tg /fr/datasets/code-officiel-geographique-cog/#resource-c2a54903-513e-41b9-a108-3d9cb2104217).\n\n### Anomalies d\u00e9tect\u00e9es dans les fichiers\n\nAttention, certains fichiers peuvent comporter des anomalies du fait des difficult\u00e9s de collecte des donn\u00e9es.\n\nDes rapports d'erreurs sont publi\u00e9s tous les jours par Etalab dans la rubrique ressources communautaires :\n- [Rapport d'erreurs pour le fichier quotidien](https://static.opendata.gouv.tg /resources/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/20200402-160328/sursaud-covid19-quotidien-incoherence-01042020.xlsx) ;\n- [Rapport d'erreurs pour le fichier hebdomadaire](https://static.opendata.gouv.tg /resources/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/20200402-160350/sursaud-covid19-hebdomadaire-incoherence-01042020.xlsx).\n\n\u00c0 noter que : \n- Pour certains patients, la classe d\u2019\u00e2ge n\u2019a pas \u00e9t\u00e9 identifi\u00e9e dans la base de donn\u00e9es. Ce qui peut induire un d\u00e9calage entre la somme de toutes les classes d\u2019\u00e2ge d\u2019un indicateur et le nombre total de cet indicateur ;\n- Pour certains patients, le sexe n\u2019a pas \u00e9t\u00e9 identifi\u00e9 dans la base de donn\u00e9es. Ce qui peut induire un d\u00e9calage entre la somme H/F d\u2019un indicateur et le nombre total de cet indicateur.\n\n\nN\u2019h\u00e9sitez pas \u00e0 signaler d'autres anomalies en commentaire. Ces remarques seront communiqu\u00e9es \u00e0 l'\u00e9quipe en charge de la collecte et diffusion des donn\u00e9es. \n\n### Autres donn\u00e9es disponibles\n\n[Sant\u00e9 publique France](https://www.opendata.gouv.tg /fr/organizations/sante-publique-france/) publie \u00e9galement les [donn\u00e9es hospitali\u00e8res relatives \u00e0 l\u2019\u00e9pid\u00e9mie de COVID-19](https://www.opendata.gouv.tg /fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/).\n",
+                "description": "### INFORMATION IMPORTANTE\n\n**Ce jeudi 4 Novembre 2021**, le format de la variable **sursaud_cl_age_corona** sera modifi\u00e9 :\n\n**Nouveau codage :**\n0 = \"Tous \u00e2ges\"\n1 = \"0-4 ans\" \n2 = \"5-14 ans\"\n3 = \"15-44 ans\"\n4 = \"45-64 ans\"\n5 = \"65-74 ans\"\n6 = \"75 ans ou plus\"\n\n**Ancien actuel :**\n0 = \"Tous \u00e2ges\"\nA = \"moins de 15ans\" \nB = \"15-44 ans\"\nC = \"45-64 ans\"\nD = \"65-74 ans\"\nE = \"75 ans ou plus\"\n\n\n### Les actions de Sant\u00e9 publique France\n\nSant\u00e9 publique France a pour mission d'am\u00e9liorer et de prot\u00e9ger la sant\u00e9 des populations. Durant la crise sanitaire li\u00e9e \u00e0 l'\u00e9pid\u00e9mie du COVID-19, Sant\u00e9 publique France se charge de surveiller et comprendre la dynamique de l'\u00e9pid\u00e9mie, d'anticiper les diff\u00e9rents sc\u00e9narii et de mettre en place des actions pour pr\u00e9venir et limiter la transmission de ce virus sur le territoire national.\n\n### Description du jeu de donn\u00e9es\n\nDeux fichiers sont propos\u00e9s :\n\n- **Les donn\u00e9es quotidiennes de SOS m\u00e9decins et des urgences hospitali\u00e8res par d\u00e9partement, sexe et tranche d\u2019\u00e2ge des patients** : nombre de passages aux urgences pour suspicion de COVID-19, nombre total de passages aux urgences avec un diagnostic m\u00e9dical renseign\u00e9, nombre d\u2019hospitalisations parmi les passages aux urgences pour suspicion de COVID-19, nombre total d\u2019actes m\u00e9dicaux SOS M\u00e9decins pour suspicion de COVID-19, nombre total d\u2019actes m\u00e9dicaux SOS M\u00e9decins avec un diagnostic m\u00e9dical renseign\u00e9.\n\n- **Les donn\u00e9es quotidiennes de SOS m\u00e9decins et des urgences hospitali\u00e8res par r\u00e9gion, sexe et tranches d\u2019\u00e2ge des patients** : nombre de passages aux urgences pour suspicion de COVID-19, nombre total de passages aux urgences avec un diagnostic m\u00e9dical renseign\u00e9, nombre d\u2019hospitalisations parmi les passages aux urgences pour suspicion de COVID-19, nombre d\u2019actes m\u00e9dicaux SOS M\u00e9decins pour suspicion de COVID-19, nombre total d\u2019actes m\u00e9dicaux SOS M\u00e9decins avec un diagnostic m\u00e9dical renseign\u00e9. Le code r\u00e9gion correspond au [code INSEE](https://fr.wikipedia.org/wiki/R\u00e9gion_fran\u00e7aise#Niveau_national) publi\u00e9 par l\u2019INSEE sur [www.opendata.gouv.tg ](https://www.opendata.gouv.tg/fr/datasets/code-officiel-geographique-cog/#resource-c2a54903-513e-41b9-a108-3d9cb2104217).\n\n### Anomalies d\u00e9tect\u00e9es dans les fichiers\n\nAttention, certains fichiers peuvent comporter des anomalies du fait des difficult\u00e9s de collecte des donn\u00e9es.\n\nDes rapports d'erreurs sont publi\u00e9s tous les jours par Etalab dans la rubrique ressources communautaires :\n- [Rapport d'erreurs pour le fichier quotidien](https://static.opendata.gouv.tg/resources/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/20200402-160328/sursaud-covid19-quotidien-incoherence-01042020.xlsx) ;\n- [Rapport d'erreurs pour le fichier hebdomadaire](https://static.opendata.gouv.tg/resources/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/20200402-160350/sursaud-covid19-hebdomadaire-incoherence-01042020.xlsx).\n\n\u00c0 noter que : \n- Pour certains patients, la classe d\u2019\u00e2ge n\u2019a pas \u00e9t\u00e9 identifi\u00e9e dans la base de donn\u00e9es. Ce qui peut induire un d\u00e9calage entre la somme de toutes les classes d\u2019\u00e2ge d\u2019un indicateur et le nombre total de cet indicateur ;\n- Pour certains patients, le sexe n\u2019a pas \u00e9t\u00e9 identifi\u00e9 dans la base de donn\u00e9es. Ce qui peut induire un d\u00e9calage entre la somme H/F d\u2019un indicateur et le nombre total de cet indicateur.\n\n\nN\u2019h\u00e9sitez pas \u00e0 signaler d'autres anomalies en commentaire. Ces remarques seront communiqu\u00e9es \u00e0 l'\u00e9quipe en charge de la collecte et diffusion des donn\u00e9es. \n\n### Autres donn\u00e9es disponibles\n\n[Sant\u00e9 publique France](https://www.opendata.gouv.tg/fr/organizations/sante-publique-france/) publie \u00e9galement les [donn\u00e9es hospitali\u00e8res relatives \u00e0 l\u2019\u00e9pid\u00e9mie de COVID-19](https://www.opendata.gouv.tg/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/).\n",
                 "created_at": "2020-03-20T17:19:01.201000+00:00",
                 "last_modified": "2024-08-28T16:00:12.446000+00:00",
                 "deleted": null,
@@ -1818,13 +1818,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/5e74ecf52eb7514f2d3b8845/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/5e74ecf52eb7514f2d3b8845/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 7
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5e74ecf52eb7514f2d3b8845&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5e74ecf52eb7514f2d3b8845&page=1&page_size=50",
                   "type": "GET",
                   "total": 8
                 },
@@ -1872,11 +1872,11 @@ const meta = {
                 "organization": {
                   "name": "Sant\u00e9 publique France",
                   "acronym": "SPF",
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/sante-publique-france/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/sante-publique-france/",
                   "slug": "sante-publique-france",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/sante-publique-france/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/76/69d8ead7684d25a80c9fa97d943b06-original.png",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/76/69d8ead7684d25a80c9fa97d943b06-100.png",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/sante-publique-france/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/76/69d8ead7684d25a80c9fa97d943b06-original.png",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/76/69d8ead7684d25a80c9fa97d943b06-100.png",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -1896,8 +1896,8 @@ const meta = {
                   "granularity": "fr:departement"
                 },
                 "license": "lov2",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/",
                 "last_update": "2024-08-28T18:00:12.315000+00:00",
                 "archived": null,
                 "quality": {
@@ -1943,13 +1943,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/621df2954fa5a3b5a023e23c/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/621df2954fa5a3b5a023e23c/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 7
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=621df2954fa5a3b5a023e23c&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=621df2954fa5a3b5a023e23c&page=1&page_size=50",
                   "type": "GET",
                   "total": 3
                 },
@@ -1966,11 +1966,11 @@ const meta = {
                 "organization": {
                   "name": "Minist\u00e8re de l'Int\u00e9rieur et des Outre-Mer",
                   "acronym": null,
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-linterieur-et-des-outre-mer/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-linterieur-et-des-outre-mer/",
                   "slug": "ministere-de-linterieur-et-des-outre-mer",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-linterieur-et-des-outre-mer/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/64/efa546af334b4cbf07e36f694db4fe-original.png",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/64/efa546af334b4cbf07e36f694db4fe-100.png",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-linterieur-et-des-outre-mer/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/64/efa546af334b4cbf07e36f694db4fe-original.png",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/64/efa546af334b4cbf07e36f694db4fe-100.png",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -1995,8 +1995,8 @@ const meta = {
                   "granularity": "fr:commune"
                 },
                 "license": "lov2",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/bases-statistiques-communale-departementale-et-regionale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/bases-statistiques-communale-departementale-et-regionale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/bases-statistiques-communale-departementale-et-regionale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/bases-statistiques-communale-departementale-et-regionale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales/",
                 "last_update": "2024-07-18T15:05:05.416000+00:00",
                 "archived": null,
                 "quality": {
@@ -2024,7 +2024,7 @@ const meta = {
                 "title": "Synth\u00e8se des indicateurs de suivi de l\u2019\u00e9pid\u00e9mie COVID-19",
                 "acronym": null,
                 "slug": "synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19",
-                "description": "**Dans un contexte d\u2019\u00e9pid\u00e9mie favorable, \u00e0 compter du 1er juillet 2023, le cadre juridique actuellement en cours pr\u00e9voit l\u2019arr\u00eat du traitement des donn\u00e9es personnelles issues de SI-DEP. Par cons\u00e9quent, apr\u00e8s une p\u00e9riode transitoire d\u2019ajustement de deux semaines, les nouveaux indicateurs de surveillance virologique seront publi\u00e9s aux niveaux national, r\u00e9gional et d\u00e9partemental) \u00e0 une fr\u00e9quence hebdomadaire. \nLes consignes de saisie sp\u00e9cifiques dans SI-VIC seront lev\u00e9es \u00e0 partir de cette date, les indicateurs hospitaliers ne seront plus disponibles. \nSant\u00e9 publique France maintient la surveillance de l\u2019\u00e9pid\u00e9mie \u00e0 travers son dispositif multi-sources. Les indicateurs relatifs \u00e0 la surveillance g\u00e9nomique, aux recours aux associations SOS M\u00e9decins, aux urgences hospitali\u00e8res et aux d\u00e9c\u00e8s resteront disponibles.** \n\n\n### INFORMATION 25/01/2023\n\nSuite \u00e0 une erreur de saisie, le nombre de d\u00e9c\u00e8s survenus en semaine 03 en ESMS a \u00e9t\u00e9 revu \u00e0 la baisse. Les corrections n\u00e9cessaires ont \u00e9t\u00e9 apport\u00e9es et expliquent la baisse artificielle du nombre de d\u00e9c\u00e8s total survenus depuis le d\u00e9but de l\u2019\u00e9pid\u00e9mie.\n\n\u26a0\ufe0f  **15/11/2022** Suite \u00e0 la suspension de l\u2019activit\u00e9 par une partie des Laboratoires de biologie m\u00e9dicale priv\u00e9s depuis le 14 novembre, le nombre de \u00ab Nouveaux cas confirm\u00e9s depuis la veille \u00bb est sous-estim\u00e9 \u00e0 compter du mardi 15/11. De m\u00eame le taux d\u2019incidence et le taux de d\u00e9pistage seront sous-estim\u00e9s \u00e0 compter du jeudi 17/11. Les \u00e9quipes de Sant\u00e9 publique France restent mobilis\u00e9es pour assurer le suivi de l\u2019\u00e9pid\u00e9mie qui repose sur une surveillance multi-sources. \n\n**08/06/2022**\n**Compte tenu de la tendance actuelle favorable et la baisse des principaux indicateurs, \u00e0 partir du 11 juin 2022, les indicateurs COVID-19 produits par Sant\u00e9 publique France seront actualis\u00e9s sur G\u00e9odes et opendata.gouv.tg  tous les jours \u00e0 l\u2019exception des week-end et des jours f\u00e9ri\u00e9s.**\n\n\n### Description du jeu de donn\u00e9es\n\n**Ce jeu de donn\u00e9es comprends l'essentiel des indicateurs de synth\u00e8se permettant le suivi de l'\u00e9pid\u00e9mie de COVID-19 en France.** Un inventaire des donn\u00e9es relatives au COVID-19 sur opendata.gouv.tg  est disponible [ici](https://www.opendata.gouv.tg /fr/pages/donnees_covid).\n\nCes donn\u00e9es sont notamment expos\u00e9es sur l'onglet *vue d'ensemble* du [tableau de bord de suivi de l'\u00e9pid\u00e9mie disponible sur gouvernement.fr](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees). Ce dernier pr\u00e9sente depuis le 28 mars 2020 les donn\u00e9es relatives \u00e0 l\u2019\u00e9pid\u00e9mie de COVID-19 en France. \n\nCet outil dont le [code source est libre](https://github.com/etalab/covid19-dashboard), a \u00e9t\u00e9 d\u00e9velopp\u00e9 sous l\u2019impulsion d\u2019Etalab et avec la collaboration de la soci\u00e9t\u00e9 civile. Il propose une vision consolid\u00e9e des donn\u00e9es officielles disponibles. \n\n## Description des donn\u00e9es\n\nLes donn\u00e9es contenues dans le jeu de donn\u00e9es sont publi\u00e9es quotidiennement. \n\n### Donn\u00e9es contextuelles : \n- ```'date'``` = Date \n\n- ```'dep'```= D\u00e9partement\n\n- ```'reg'```= R\u00e9gion\n\n- ```'lib_dep'```= libell\u00e9 d\u00e9partement \n\n- ```'lib_reg'```= libell\u00e9 r\u00e9gion \n\n### Donn\u00e9es relatives \u00e0 la situation hospitali\u00e8re \n- ```'hosp'```= Nombre de patients actuellement hospitalis\u00e9s pour COVID-19.\n-  ```'incid_hosp'```= Nombre de nouveaux patients hospitalis\u00e9s au cours des derni\u00e8res 24h.\n\n- ```'rea'```= Nombre de patients actuellement en r\u00e9animation ou en soins intensifs.\n- ```'incid_rea'```= Nombre de nouveaux patients admis en r\u00e9animation au cours des derni\u00e8res 24h.\n\n- ```'rad'```= Nombre cumul\u00e9 de patients ayant \u00e9t\u00e9 hospitalis\u00e9s pour COVID-19 et de retour \u00e0 domicile en raison de l'am\u00e9lioration de leur \u00e9tat de sant\u00e9.\n- ```'incid_rad'```= Nouveaux retours \u00e0 domicile au cours des derni\u00e8res 24h.\n\n### Donn\u00e9es relatives au d\u00e9c\u00e8s pour cause de COVID-19\n\n- ```'dchosp'```= D\u00e9c\u00e8s \u00e0 l\u2019h\u00f4pital\n-  ```'incid_dchosp'```= Nouveaux patients d\u00e9c\u00e9d\u00e9s \u00e0 l\u2019h\u00f4pital au cours des derni\u00e8res 24h.\n\n- ```'esms_dc'```= D\u00e9c\u00e8s en ESMS\n\n- ```'dc_tot'```= Cumul des d\u00e9c\u00e8s (cumul des d\u00e9c\u00e8s constat\u00e9s \u00e0 l'h\u00f4pital et en EMS)\n\n### Donn\u00e9es relatives aux tests\n- ```'conf'```= Nombre de cas confirm\u00e9s\n- ```'conf_j1'```= Nombre de nouveaux cas confirm\u00e9s (J-1 date de r\u00e9sultats)\n- ```'pos'```= Nombre de personnes d\u00e9clar\u00e9es positives (J-3 date de pr\u00e9l\u00e8vement)\n- ```'pos_7j'``` = Nombre de personnes d\u00e9clar\u00e9es positives sur une semaine (J-3 date de pr\u00e9l\u00e8vement)\n\n- ```'esms_cas'``` = Cas confirm\u00e9s en ESMS\n\n### Donn\u00e9es relatives aux indicateurs de suivi de l\u2019\u00e9pid\u00e9mie de COVID-19\n\n- ```'tx_pos'```= **Taux de positivit\u00e9** des tests virologiques (Le taux de positivit\u00e9 correspond au nombre de personnes test\u00e9es positives (RT-PCR et test antig\u00e9nique) pour la premi\u00e8re fois depuis plus de 60 jours rapport\u00e9 au nombre total de personnes test\u00e9es positives ou n\u00e9gatives sur une p\u00e9riode donn\u00e9e ; et qui n\u2018ont jamais \u00e9t\u00e9 test\u00e9es positive dans les 60 jours pr\u00e9c\u00e9dents.)\n\n- ```'tx_incid'```= **Taux d'incidence** (activit\u00e9 \u00e9pid\u00e9mique : Le taux d'incidence correspond au nombre de personnes test\u00e9es positives (RT-PCR et test antig\u00e9nique) pour la premi\u00e8re fois depuis plus de 60 jours rapport\u00e9 \u00e0 la taille de la population. Il est exprim\u00e9 pour 100 000 habitants)\n\n- ```'TO'```= **Taux d'occupation** : tension hospitali\u00e8re sur la capacit\u00e9 en r\u00e9animation (Proportion de patients atteints de COVID-19 actuellement en r\u00e9animation, en soins intensifs, ou en unit\u00e9 de surveillance continue rapport\u00e9e au total des lits en capacit\u00e9 initiale, c\u2019est-\u00e0-dire avant d\u2019augmenter les capacit\u00e9s de lits de r\u00e9animation dans un h\u00f4pital).\n\n- ```'R'```= **Facteur de reproduction du virus** (\u00e9volution du R0 : Le nombre de reproduction du virus : c\u2019est le nombre moyen de personnes qu\u2019une personne infect\u00e9e peut contaminer. Si le R effectif est sup\u00e9rieur \u00e0 1, l\u2019\u00e9pid\u00e9mie se d\u00e9veloppe ; s\u2019il est inf\u00e9rieur \u00e0 1, l\u2019\u00e9pid\u00e9mie r\u00e9gresse) \n\n\n---\n**Points d'attentions**  : \n- Les m\u00e9thodes de collecte des donn\u00e9es ont \u00e9volu\u00e9es dans le temps ; \n- Au cours de l'\u00e9t\u00e9 2020, les donn\u00e9es n'ont pas \u00e9t\u00e9 publi\u00e9es durant les week-end et jours f\u00e9ri\u00e9s. \n\n### **Ressources**\n- **[Consulter le tableau de bord](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees)** \n- **[Consulter l'inventaire des donn\u00e9es relatives au COVID-19 sur opendata.gouv.tg ](https://www.opendata.gouv.tg /fr/pages/donnees_covid)** \n- **[Consulter les donn\u00e9es de Sant\u00e9 publique France](https://www.opendata.gouv.tg /fr/organizations/sante-publique-france/)** \n- **[Consulter les donn\u00e9es du minist\u00e8re des Solidarit\u00e9s et de la Sant\u00e9](https://www.opendata.gouv.tg /fr/organizations/ministere-des-solidarites-et-de-la-sante/)** ",
+                "description": "**Dans un contexte d\u2019\u00e9pid\u00e9mie favorable, \u00e0 compter du 1er juillet 2023, le cadre juridique actuellement en cours pr\u00e9voit l\u2019arr\u00eat du traitement des donn\u00e9es personnelles issues de SI-DEP. Par cons\u00e9quent, apr\u00e8s une p\u00e9riode transitoire d\u2019ajustement de deux semaines, les nouveaux indicateurs de surveillance virologique seront publi\u00e9s aux niveaux national, r\u00e9gional et d\u00e9partemental) \u00e0 une fr\u00e9quence hebdomadaire. \nLes consignes de saisie sp\u00e9cifiques dans SI-VIC seront lev\u00e9es \u00e0 partir de cette date, les indicateurs hospitaliers ne seront plus disponibles. \nSant\u00e9 publique France maintient la surveillance de l\u2019\u00e9pid\u00e9mie \u00e0 travers son dispositif multi-sources. Les indicateurs relatifs \u00e0 la surveillance g\u00e9nomique, aux recours aux associations SOS M\u00e9decins, aux urgences hospitali\u00e8res et aux d\u00e9c\u00e8s resteront disponibles.** \n\n\n### INFORMATION 25/01/2023\n\nSuite \u00e0 une erreur de saisie, le nombre de d\u00e9c\u00e8s survenus en semaine 03 en ESMS a \u00e9t\u00e9 revu \u00e0 la baisse. Les corrections n\u00e9cessaires ont \u00e9t\u00e9 apport\u00e9es et expliquent la baisse artificielle du nombre de d\u00e9c\u00e8s total survenus depuis le d\u00e9but de l\u2019\u00e9pid\u00e9mie.\n\n\u26a0\ufe0f  **15/11/2022** Suite \u00e0 la suspension de l\u2019activit\u00e9 par une partie des Laboratoires de biologie m\u00e9dicale priv\u00e9s depuis le 14 novembre, le nombre de \u00ab Nouveaux cas confirm\u00e9s depuis la veille \u00bb est sous-estim\u00e9 \u00e0 compter du mardi 15/11. De m\u00eame le taux d\u2019incidence et le taux de d\u00e9pistage seront sous-estim\u00e9s \u00e0 compter du jeudi 17/11. Les \u00e9quipes de Sant\u00e9 publique France restent mobilis\u00e9es pour assurer le suivi de l\u2019\u00e9pid\u00e9mie qui repose sur une surveillance multi-sources. \n\n**08/06/2022**\n**Compte tenu de la tendance actuelle favorable et la baisse des principaux indicateurs, \u00e0 partir du 11 juin 2022, les indicateurs COVID-19 produits par Sant\u00e9 publique France seront actualis\u00e9s sur G\u00e9odes et opendata.gouv.tg  tous les jours \u00e0 l\u2019exception des week-end et des jours f\u00e9ri\u00e9s.**\n\n\n### Description du jeu de donn\u00e9es\n\n**Ce jeu de donn\u00e9es comprends l'essentiel des indicateurs de synth\u00e8se permettant le suivi de l'\u00e9pid\u00e9mie de COVID-19 en France.** Un inventaire des donn\u00e9es relatives au COVID-19 sur opendata.gouv.tg  est disponible [ici](https://www.opendata.gouv.tg/fr/pages/donnees_covid).\n\nCes donn\u00e9es sont notamment expos\u00e9es sur l'onglet *vue d'ensemble* du [tableau de bord de suivi de l'\u00e9pid\u00e9mie disponible sur gouvernement.fr](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees). Ce dernier pr\u00e9sente depuis le 28 mars 2020 les donn\u00e9es relatives \u00e0 l\u2019\u00e9pid\u00e9mie de COVID-19 en France. \n\nCet outil dont le [code source est libre](https://github.com/etalab/covid19-dashboard), a \u00e9t\u00e9 d\u00e9velopp\u00e9 sous l\u2019impulsion d\u2019Etalab et avec la collaboration de la soci\u00e9t\u00e9 civile. Il propose une vision consolid\u00e9e des donn\u00e9es officielles disponibles. \n\n## Description des donn\u00e9es\n\nLes donn\u00e9es contenues dans le jeu de donn\u00e9es sont publi\u00e9es quotidiennement. \n\n### Donn\u00e9es contextuelles : \n- ```'date'``` = Date \n\n- ```'dep'```= D\u00e9partement\n\n- ```'reg'```= R\u00e9gion\n\n- ```'lib_dep'```= libell\u00e9 d\u00e9partement \n\n- ```'lib_reg'```= libell\u00e9 r\u00e9gion \n\n### Donn\u00e9es relatives \u00e0 la situation hospitali\u00e8re \n- ```'hosp'```= Nombre de patients actuellement hospitalis\u00e9s pour COVID-19.\n-  ```'incid_hosp'```= Nombre de nouveaux patients hospitalis\u00e9s au cours des derni\u00e8res 24h.\n\n- ```'rea'```= Nombre de patients actuellement en r\u00e9animation ou en soins intensifs.\n- ```'incid_rea'```= Nombre de nouveaux patients admis en r\u00e9animation au cours des derni\u00e8res 24h.\n\n- ```'rad'```= Nombre cumul\u00e9 de patients ayant \u00e9t\u00e9 hospitalis\u00e9s pour COVID-19 et de retour \u00e0 domicile en raison de l'am\u00e9lioration de leur \u00e9tat de sant\u00e9.\n- ```'incid_rad'```= Nouveaux retours \u00e0 domicile au cours des derni\u00e8res 24h.\n\n### Donn\u00e9es relatives au d\u00e9c\u00e8s pour cause de COVID-19\n\n- ```'dchosp'```= D\u00e9c\u00e8s \u00e0 l\u2019h\u00f4pital\n-  ```'incid_dchosp'```= Nouveaux patients d\u00e9c\u00e9d\u00e9s \u00e0 l\u2019h\u00f4pital au cours des derni\u00e8res 24h.\n\n- ```'esms_dc'```= D\u00e9c\u00e8s en ESMS\n\n- ```'dc_tot'```= Cumul des d\u00e9c\u00e8s (cumul des d\u00e9c\u00e8s constat\u00e9s \u00e0 l'h\u00f4pital et en EMS)\n\n### Donn\u00e9es relatives aux tests\n- ```'conf'```= Nombre de cas confirm\u00e9s\n- ```'conf_j1'```= Nombre de nouveaux cas confirm\u00e9s (J-1 date de r\u00e9sultats)\n- ```'pos'```= Nombre de personnes d\u00e9clar\u00e9es positives (J-3 date de pr\u00e9l\u00e8vement)\n- ```'pos_7j'``` = Nombre de personnes d\u00e9clar\u00e9es positives sur une semaine (J-3 date de pr\u00e9l\u00e8vement)\n\n- ```'esms_cas'``` = Cas confirm\u00e9s en ESMS\n\n### Donn\u00e9es relatives aux indicateurs de suivi de l\u2019\u00e9pid\u00e9mie de COVID-19\n\n- ```'tx_pos'```= **Taux de positivit\u00e9** des tests virologiques (Le taux de positivit\u00e9 correspond au nombre de personnes test\u00e9es positives (RT-PCR et test antig\u00e9nique) pour la premi\u00e8re fois depuis plus de 60 jours rapport\u00e9 au nombre total de personnes test\u00e9es positives ou n\u00e9gatives sur une p\u00e9riode donn\u00e9e ; et qui n\u2018ont jamais \u00e9t\u00e9 test\u00e9es positive dans les 60 jours pr\u00e9c\u00e9dents.)\n\n- ```'tx_incid'```= **Taux d'incidence** (activit\u00e9 \u00e9pid\u00e9mique : Le taux d'incidence correspond au nombre de personnes test\u00e9es positives (RT-PCR et test antig\u00e9nique) pour la premi\u00e8re fois depuis plus de 60 jours rapport\u00e9 \u00e0 la taille de la population. Il est exprim\u00e9 pour 100 000 habitants)\n\n- ```'TO'```= **Taux d'occupation** : tension hospitali\u00e8re sur la capacit\u00e9 en r\u00e9animation (Proportion de patients atteints de COVID-19 actuellement en r\u00e9animation, en soins intensifs, ou en unit\u00e9 de surveillance continue rapport\u00e9e au total des lits en capacit\u00e9 initiale, c\u2019est-\u00e0-dire avant d\u2019augmenter les capacit\u00e9s de lits de r\u00e9animation dans un h\u00f4pital).\n\n- ```'R'```= **Facteur de reproduction du virus** (\u00e9volution du R0 : Le nombre de reproduction du virus : c\u2019est le nombre moyen de personnes qu\u2019une personne infect\u00e9e peut contaminer. Si le R effectif est sup\u00e9rieur \u00e0 1, l\u2019\u00e9pid\u00e9mie se d\u00e9veloppe ; s\u2019il est inf\u00e9rieur \u00e0 1, l\u2019\u00e9pid\u00e9mie r\u00e9gresse) \n\n\n---\n**Points d'attentions**  : \n- Les m\u00e9thodes de collecte des donn\u00e9es ont \u00e9volu\u00e9es dans le temps ; \n- Au cours de l'\u00e9t\u00e9 2020, les donn\u00e9es n'ont pas \u00e9t\u00e9 publi\u00e9es durant les week-end et jours f\u00e9ri\u00e9s. \n\n### **Ressources**\n- **[Consulter le tableau de bord](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees)** \n- **[Consulter l'inventaire des donn\u00e9es relatives au COVID-19 sur opendata.gouv.tg ](https://www.opendata.gouv.tg/fr/pages/donnees_covid)** \n- **[Consulter les donn\u00e9es de Sant\u00e9 publique France](https://www.opendata.gouv.tg/fr/organizations/sante-publique-france/)** \n- **[Consulter les donn\u00e9es du minist\u00e8re des Solidarit\u00e9s et de la Sant\u00e9](https://www.opendata.gouv.tg/fr/organizations/ministere-des-solidarites-et-de-la-sante/)** ",
                 "created_at": "2021-02-02T09:27:44.214000+00:00",
                 "last_modified": "2023-09-13T15:40:16.875000+00:00",
                 "deleted": null,
@@ -2037,13 +2037,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/60190d00a7273a8100dd4d38/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/60190d00a7273a8100dd4d38/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 2
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=60190d00a7273a8100dd4d38&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=60190d00a7273a8100dd4d38&page=1&page_size=50",
                   "type": "GET",
                   "total": 0
                 },
@@ -2083,11 +2083,11 @@ const meta = {
                 "organization": {
                   "name": "Sant\u00e9 publique France",
                   "acronym": "SPF",
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/sante-publique-france/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/sante-publique-france/",
                   "slug": "sante-publique-france",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/sante-publique-france/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/76/69d8ead7684d25a80c9fa97d943b06-original.png",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/76/69d8ead7684d25a80c9fa97d943b06-100.png",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/sante-publique-france/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/76/69d8ead7684d25a80c9fa97d943b06-original.png",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/76/69d8ead7684d25a80c9fa97d943b06-100.png",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -2109,8 +2109,8 @@ const meta = {
                   "granularity": "fr:departement"
                 },
                 "license": "lov2",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19/",
                 "last_update": "2023-06-30T17:59:10.362000+00:00",
                 "archived": null,
                 "quality": {
@@ -2155,13 +2155,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/53698f50a3a729239d2036f5/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/53698f50a3a729239d2036f5/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 1
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=53698f50a3a729239d2036f5&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=53698f50a3a729239d2036f5&page=1&page_size=50",
                   "type": "GET",
                   "total": 0
                 },
@@ -2181,11 +2181,11 @@ const meta = {
                 "organization": {
                   "name": "Minist\u00e8re des Solidarit\u00e9s et de la Sant\u00e9",
                   "acronym": null,
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-des-solidarites-et-de-la-sante/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-des-solidarites-et-de-la-sante/",
                   "slug": "ministere-des-solidarites-et-de-la-sante",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-des-solidarites-et-de-la-sante/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/3c/2a35d973814c2681b6941e11810ff3-original.png",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/3c/2a35d973814c2681b6941e11810ff3-100.png",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-des-solidarites-et-de-la-sante/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/3c/2a35d973814c2681b6941e11810ff3-original.png",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/3c/2a35d973814c2681b6941e11810ff3-100.png",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -2207,8 +2207,8 @@ const meta = {
                   "granularity": "country"
                 },
                 "license": "fr-lo",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/base-de-donnees-publique-des-medicaments-base-officielle/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/base-de-donnees-publique-des-medicaments-base-officielle/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/",
                 "last_update": "2024-06-24T00:11:37.722180+00:00",
                 "archived": null,
                 "quality": {
@@ -2235,7 +2235,7 @@ const meta = {
                 "title": "Donn\u00e9es essentielles de la commande publique - fichiers consolid\u00e9s",
                 "acronym": "DECP",
                 "slug": "donnees-essentielles-de-la-commande-publique-fichiers-consolides",
-                "description": "L\u2019[arr\u00eat\u00e9](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038318675) du 22 mars 2019 relatif aux donn\u00e9es essentielles pr\u00e9voit l\u2019obligation pour tous les acheteurs publics fran\u00e7ais (collectivit\u00e9s territoriales, minist\u00e8res, h\u00f4pitaux publics, \u00e9tablissements publics, etc.) et toutes les autorit\u00e9s conc\u00e9dantes fran\u00e7aises de publier les donn\u00e9es essentielles de leurs march\u00e9s publics et de leurs contrats de concession sur leur profil d'acheteur pendant une dur\u00e9e de cinq ans.         \nIl est \u00e9galement possible de les publier sur le portail national des donn\u00e9es ouvertes [opendata.gouv.tg ](https://www.opendata.gouv.tg /fr/)\n\nA compter du 1er Janvier 2024, les donn\u00e9es essentielles des march\u00e9s publics et des contrats de concession doivent \u00eatre publi\u00e9es par les acheteurs et les autorit\u00e9s conc\u00e9dantes directement sur [opendata.gouv.tg ](https://www.opendata.gouv.tg /fr/) et devront \u00eatre conformes aux exigences fix\u00e9es par les arr\u00eat\u00e9s modifi\u00e9s du 22 d\u00e9cembre 2022 ([arr\u00eat\u00e9 march\u00e9s publics](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000048876437/2024-01-01/) & [arr\u00eat\u00e9 concessions](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000048916375/2024-01-01/))\nAfin de faciliter l\u2019utilisation de ces donn\u00e9es \u00e0 l'\u00e9chelle nationale, un fichier unique agr\u00e9geant et retraitant les diff\u00e9rentes sources en provenance de [opendata.gouv.tg ](https://www.opendata.gouv.tg /fr/) est mis \u00e0 disposition.\n\nLes sources de donn\u00e9es utilis\u00e9es sont les suivantes :\n\u2022\tdonn\u00e9es issues du PES March\u00e9 de la DGFiP\n\u2022\tdonn\u00e9es issues de l'API DUME de l'AIFE\n\u2022\tdonn\u00e9es issues de l\u2019\u00e9diteur AWS \n\u2022\tdonn\u00e9es issues de l\u2019\u00e9diteur Atexo\n\u2022\tdonn\u00e9es issues de l\u2019\u00e9diteur Dematis\n\u2022\tdonn\u00e9es issues du profil d\u2019acheteur M\u00e9galis Bretagne\n\u2022\tdonn\u00e9es issues du profil d\u2019acheteur Territoires Num\u00e9riques-BFC\n\u2022\tdonn\u00e9es issues du profil d\u2019acheteur marches-publics. info\n\u2022\tdonn\u00e9es issues du Grand Lyon\n\u2022\tdonn\u00e9es issues de la R\u00e9gion Bretagne\n\n**Bon \u00e0 savoir**\n\nLes donn\u00e9es issues de l\u2019arr\u00eat\u00e9 du 22 mars 2019 relatif aux donn\u00e9es essentielles de la commande publique sont visualisables dans 4 jeux de donn\u00e9es disponibles au lien [suivant](https://data.economie.gouv.fr/pages/donnees-essentielles-de-la-commande-publique/).\n",
+                "description": "L\u2019[arr\u00eat\u00e9](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038318675) du 22 mars 2019 relatif aux donn\u00e9es essentielles pr\u00e9voit l\u2019obligation pour tous les acheteurs publics fran\u00e7ais (collectivit\u00e9s territoriales, minist\u00e8res, h\u00f4pitaux publics, \u00e9tablissements publics, etc.) et toutes les autorit\u00e9s conc\u00e9dantes fran\u00e7aises de publier les donn\u00e9es essentielles de leurs march\u00e9s publics et de leurs contrats de concession sur leur profil d'acheteur pendant une dur\u00e9e de cinq ans.         \nIl est \u00e9galement possible de les publier sur le portail national des donn\u00e9es ouvertes [opendata.gouv.tg ](https://www.opendata.gouv.tg/fr/)\n\nA compter du 1er Janvier 2024, les donn\u00e9es essentielles des march\u00e9s publics et des contrats de concession doivent \u00eatre publi\u00e9es par les acheteurs et les autorit\u00e9s conc\u00e9dantes directement sur [opendata.gouv.tg ](https://www.opendata.gouv.tg/fr/) et devront \u00eatre conformes aux exigences fix\u00e9es par les arr\u00eat\u00e9s modifi\u00e9s du 22 d\u00e9cembre 2022 ([arr\u00eat\u00e9 march\u00e9s publics](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000048876437/2024-01-01/) & [arr\u00eat\u00e9 concessions](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000048916375/2024-01-01/))\nAfin de faciliter l\u2019utilisation de ces donn\u00e9es \u00e0 l'\u00e9chelle nationale, un fichier unique agr\u00e9geant et retraitant les diff\u00e9rentes sources en provenance de [opendata.gouv.tg ](https://www.opendata.gouv.tg/fr/) est mis \u00e0 disposition.\n\nLes sources de donn\u00e9es utilis\u00e9es sont les suivantes :\n\u2022\tdonn\u00e9es issues du PES March\u00e9 de la DGFiP\n\u2022\tdonn\u00e9es issues de l'API DUME de l'AIFE\n\u2022\tdonn\u00e9es issues de l\u2019\u00e9diteur AWS \n\u2022\tdonn\u00e9es issues de l\u2019\u00e9diteur Atexo\n\u2022\tdonn\u00e9es issues de l\u2019\u00e9diteur Dematis\n\u2022\tdonn\u00e9es issues du profil d\u2019acheteur M\u00e9galis Bretagne\n\u2022\tdonn\u00e9es issues du profil d\u2019acheteur Territoires Num\u00e9riques-BFC\n\u2022\tdonn\u00e9es issues du profil d\u2019acheteur marches-publics. info\n\u2022\tdonn\u00e9es issues du Grand Lyon\n\u2022\tdonn\u00e9es issues de la R\u00e9gion Bretagne\n\n**Bon \u00e0 savoir**\n\nLes donn\u00e9es issues de l\u2019arr\u00eat\u00e9 du 22 mars 2019 relatif aux donn\u00e9es essentielles de la commande publique sont visualisables dans 4 jeux de donn\u00e9es disponibles au lien [suivant](https://data.economie.gouv.fr/pages/donnees-essentielles-de-la-commande-publique/).\n",
                 "created_at": "2019-05-10T15:26:14.659000+00:00",
                 "last_modified": "2024-09-02T02:30:40.061000+00:00",
                 "deleted": null,
@@ -2253,13 +2253,13 @@ const meta = {
                 "badges": [],
                 "resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/2/datasets/5cd57bf68b4c4179299eb0e9/resources/?page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/2/datasets/5cd57bf68b4c4179299eb0e9/resources/?page=1&page_size=50",
                   "type": "GET",
                   "total": 1572
                 },
                 "community_resources": {
                   "rel": "subsection",
-                  "href": "https://www.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5cd57bf68b4c4179299eb0e9&page=1&page_size=50",
+                  "href": "https://www.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5cd57bf68b4c4179299eb0e9&page=1&page_size=50",
                   "type": "GET",
                   "total": 5
                 },
@@ -2276,11 +2276,11 @@ const meta = {
                 "organization": {
                   "name": "Minist\u00e8re de l'\u00c9conomie, des Finances et de la Souverainet\u00e9 industrielle et num\u00e9rique",
                   "acronym": "MEFSIN",
-                  "uri": "https://www.opendata.gouv.tg /api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+                  "uri": "https://www.opendata.gouv.tg/api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
                   "slug": "ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique",
-                  "page": "https://www.opendata.gouv.tg /fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
-                  "logo": "https://static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
-                  "logo_thumbnail": "https://static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
+                  "page": "https://www.opendata.gouv.tg/fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+                  "logo": "https://static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
+                  "logo_thumbnail": "https://static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
                   "badges": [
                     {
                       "kind": "public-service"
@@ -2305,8 +2305,8 @@ const meta = {
                   "granularity": "poi"
                 },
                 "license": "fr-lo",
-                "uri": "https://www.opendata.gouv.tg /api/1/datasets/donnees-essentielles-de-la-commande-publique-fichiers-consolides/",
-                "page": "https://www.opendata.gouv.tg /fr/datasets/donnees-essentielles-de-la-commande-publique-fichiers-consolides/",
+                "uri": "https://www.opendata.gouv.tg/api/1/datasets/donnees-essentielles-de-la-commande-publique-fichiers-consolides/",
+                "page": "https://www.opendata.gouv.tg/fr/datasets/donnees-essentielles-de-la-commande-publique-fichiers-consolides/",
                 "last_update": "2024-09-02T05:24:08.227911+00:00",
                 "archived": null,
                 "quality": {
@@ -2333,7 +2333,7 @@ const meta = {
             "page": 1,
             "page_size": 20,
             "total": 10000,
-            "next_page": "https://www.opendata.gouv.tg /api/2/datasets/search/?viewMode=story&id=components-search--default-search&page_size=20&page=2",
+            "next_page": "https://www.opendata.gouv.tg/api/2/datasets/search/?viewMode=story&id=components-search--default-search&page_size=20&page=2",
             "previous_page": null
           });
         }),
@@ -2381,13 +2381,13 @@ const sampleResults = JSON.stringify([
     ],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/57343feb88ee3823b0d1b934/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/57343feb88ee3823b0d1b934/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 4
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=57343feb88ee3823b0d1b934&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=57343feb88ee3823b0d1b934&page=1&page_size=50",
       "type": "GET",
       "total": 2
     },
@@ -2426,11 +2426,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Première ministre",
       "acronym": null,
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/premiere-ministre/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/premiere-ministre/",
       "slug": "premiere-ministre",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/premiere-ministre/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/9a/b212bd561b4e54af775c49390f9f24-original.png",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/9a/b212bd561b4e54af775c49390f9f24-100.png",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/premiere-ministre/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/9a/b212bd561b4e54af775c49390f9f24-original.png",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/9a/b212bd561b4e54af775c49390f9f24-100.png",
       "badges": [
         {
           "kind": "public-service"
@@ -2453,8 +2453,8 @@ const sampleResults = JSON.stringify([
       "granularity": "other"
     },
     "license": "fr-lo",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/referentiel-de-lorganisation-administrative-de-letat/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/referentiel-de-lorganisation-administrative-de-letat/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/referentiel-de-lorganisation-administrative-de-letat/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/referentiel-de-lorganisation-administrative-de-letat/",
     "last_update": "2023-10-16T09:20:53.934951+00:00",
     "archived": null,
     "quality": {
@@ -2500,13 +2500,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/621df2954fa5a3b5a023e23c/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/621df2954fa5a3b5a023e23c/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 4
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=621df2954fa5a3b5a023e23c&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=621df2954fa5a3b5a023e23c&page=1&page_size=50",
       "type": "GET",
       "total": 3
     },
@@ -2522,11 +2522,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Ministère de l'Intérieur et des Outre-Mer",
       "acronym": null,
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/ministere-de-linterieur-et-des-outre-mer/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/ministere-de-linterieur-et-des-outre-mer/",
       "slug": "ministere-de-linterieur-et-des-outre-mer",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/ministere-de-linterieur-et-des-outre-mer/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/64/efa546af334b4cbf07e36f694db4fe-original.png",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/64/efa546af334b4cbf07e36f694db4fe-100.png",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/ministere-de-linterieur-et-des-outre-mer/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/64/efa546af334b4cbf07e36f694db4fe-original.png",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/64/efa546af334b4cbf07e36f694db4fe-100.png",
       "badges": [
         {
           "kind": "public-service"
@@ -2549,8 +2549,8 @@ const sampleResults = JSON.stringify([
       "granularity": "fr:commune"
     },
     "license": "lov2",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/bases-statistiques-communale-et-departementale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/bases-statistiques-communale-et-departementale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/bases-statistiques-communale-et-departementale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/bases-statistiques-communale-et-departementale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales/",
     "last_update": "2023-07-19T08:08:41.022000+00:00",
     "archived": null,
     "quality": {
@@ -2591,13 +2591,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/586a824588ee3835ec3f4e61/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/586a824588ee3835ec3f4e61/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 5
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=586a824588ee3835ec3f4e61&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=586a824588ee3835ec3f4e61&page=1&page_size=50",
       "type": "GET",
       "total": 1
     },
@@ -2613,11 +2613,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Institut National de la Statistique et des Etudes Economiques (Insee)",
       "acronym": null,
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
       "slug": "institut-national-de-la-statistique-et-des-etudes-economiques-insee",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
       "badges": [
         {
           "kind": "public-service"
@@ -2640,8 +2640,8 @@ const sampleResults = JSON.stringify([
       "granularity": "fr:departement"
     },
     "license": "fr-lo",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/fichier-des-prenoms-edition-2016-voir-fichier-des-prenoms-de-1900-a-2019/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/fichier-des-prenoms-edition-2016-voir-fichier-des-prenoms-de-1900-a-2019/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/fichier-des-prenoms-edition-2016-voir-fichier-des-prenoms-de-1900-a-2019/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/fichier-des-prenoms-edition-2016-voir-fichier-des-prenoms-de-1900-a-2019/",
     "last_update": "2023-09-15T10:33:38.659041+00:00",
     "archived": null,
     "quality": {
@@ -2685,13 +2685,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/61d5e2d372a52d9f9411ff88/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/61d5e2d372a52d9f9411ff88/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 2
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=61d5e2d372a52d9f9411ff88&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=61d5e2d372a52d9f9411ff88&page=1&page_size=50",
       "type": "GET",
       "total": 0
     },
@@ -2707,11 +2707,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Institut National de la Statistique et des Etudes Economiques (Insee)",
       "acronym": null,
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
       "slug": "institut-national-de-la-statistique-et-des-etudes-economiques-insee",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
       "badges": [
         {
           "kind": "public-service"
@@ -2734,8 +2734,8 @@ const sampleResults = JSON.stringify([
       "granularity": "other"
     },
     "license": "lov2",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/geolocalisation-des-etablissements-du-repertoire-sirene-pour-les-etudes-statistiques/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/geolocalisation-des-etablissements-du-repertoire-sirene-pour-les-etudes-statistiques/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/geolocalisation-des-etablissements-du-repertoire-sirene-pour-les-etudes-statistiques/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/geolocalisation-des-etablissements-du-repertoire-sirene-pour-les-etudes-statistiques/",
     "last_update": "2023-10-17T14:41:19.750000+00:00",
     "archived": null,
     "quality": {
@@ -2775,13 +2775,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/649998d50f6f27459dc6cf5b/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/649998d50f6f27459dc6cf5b/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 7
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=649998d50f6f27459dc6cf5b&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=649998d50f6f27459dc6cf5b&page=1&page_size=50",
       "type": "GET",
       "total": 0
     },
@@ -2797,11 +2797,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Institut National de la Statistique et des Etudes Economiques (Insee)",
       "acronym": null,
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
       "slug": "institut-national-de-la-statistique-et-des-etudes-economiques-insee",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
       "badges": [
         {
           "kind": "public-service"
@@ -2824,8 +2824,8 @@ const sampleResults = JSON.stringify([
       "granularity": "other"
     },
     "license": "lov2",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/bureaux-de-vote-et-adresses-de-leurs-electeurs/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/bureaux-de-vote-et-adresses-de-leurs-electeurs/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/bureaux-de-vote-et-adresses-de-leurs-electeurs/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/bureaux-de-vote-et-adresses-de-leurs-electeurs/",
     "last_update": "2023-06-27T15:08:37.295000+00:00",
     "archived": null,
     "quality": {
@@ -2852,7 +2852,7 @@ const sampleResults = JSON.stringify([
     "title": "Données essentielles de la commande publique - fichiers consolidés",
     "acronym": "DECP",
     "slug": "donnees-essentielles-de-la-commande-publique-fichiers-consolides",
-    "description": "[L’arrêté du 14 avril 2017](https://www.legifrance.gouv.fr/eli/arrete/2017/4/14/ECFM1637256A/jo/texte), modifié par [l'arrêté du 27 juillet 2018](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037282994&dateTexte=&categorieLien=id), est entré en vigueur le 1er octobre 2018, et avec lui l’obligation pour les 70 000 acheteurs publics français (collectivités, ministères, hôpitaux publics, etc.) de publier les données essentielles de leurs marchés publics sur leur profil d'acheteur.\n\nAfin de faciliter la consommation de ces données à l'échelle nationale, nous avons développé [des scripts](https://github.com/etalab/decp-rama) permettant de rassembler, traiter et publier ces données de façon centralisée, dans [les formats réglementaires](https://github.com/etalab/format-commande-publique).\n\nLes sources de données utilisées sont les suivantes :\n\n- [données issues du PES Marché de la DGFiP](https://www.opendata.gouv.tg /fr/datasets/donnees-essentielles-de-la-commande-publique-transmises-via-le-pes-marche/)\n- [données collectées par l'API DUME de l'AIFE](https://www.opendata.gouv.tg /fr/organizations/agence-pour-linformatique-financiere-de-letat/) \n- données issues du profil d'acheteur [Achatpublic.com](https://www.opendata.gouv.tg /fr/datasets/aife-de-44785462100045/) mises à disposition via l'API DUME de l'AIFE\n- données issues du profil d'acheteur [Dématis](https://www.opendata.gouv.tg /fr/organizations/dematis/) facilitant le téléchargement des données de ses clients ([e-marchespublics.com](https://www.opendata.gouv.tg /fr/datasets/donnees-essentielles-des-marches-publics-e-marchespublics-com-1/#_))\n- données publiées [sur le portail Open Data du Grand Lyon](https://data.grandlyon.com/citoyennete/marchf-public-de-la-mftropole-de-lyon/)\n- données publiées sur le profil d'acheteur AWS ([marches-publics.info](https://www.marches-publics.info/mpiaws/index.cfm?fuseaction=pub.affResultats&IDs=25)), extraites et publiées manuellement par Colin Maudry [sur opendata.gouv.tg ](https://www.opendata.gouv.tg /fr/datasets/donnees-essentielles-des-marches-publics-publies-sur-marches-publics-info-aws/)\n\nSi vous avez connaissance de sources de données susceptibles d'être agrégées à ce jeu de données, merci de nous contacter sur decp@finances.gouv.fr ou de l'indiquer dans les commentaires ci-dessous (espace \"Discussions\").\n\n### Bon à savoir\n\n- Les données publiées par l'AIFE souffrent de quelques anomalies décrites [ici](https://github.com/etalab/decp-rama/issues/5). Vous pouvez connaître la source des données grâce au champ `source` de chaque marché.\n- Nous excluons les données de marchés qui sont manifestement [fictifs](https://www.opendata.gouv.tg /fr/datasets/5cd57bf68b4c4179299eb0e9/#resource-c0e97cb8-4530-4709-9fc3-eb264fcce8f7) ou [inexploitables](https://www.opendata.gouv.tg /fr/datasets/5cd57bf68b4c4179299eb0e9/#resource-9e149698-7804-49f1-b15c-e300be611995) (voir aussi [sur Github](https://github.com/etalab/decp-rama/issues/26))\n\n\n",
+    "description": "[L’arrêté du 14 avril 2017](https://www.legifrance.gouv.fr/eli/arrete/2017/4/14/ECFM1637256A/jo/texte), modifié par [l'arrêté du 27 juillet 2018](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037282994&dateTexte=&categorieLien=id), est entré en vigueur le 1er octobre 2018, et avec lui l’obligation pour les 70 000 acheteurs publics français (collectivités, ministères, hôpitaux publics, etc.) de publier les données essentielles de leurs marchés publics sur leur profil d'acheteur.\n\nAfin de faciliter la consommation de ces données à l'échelle nationale, nous avons développé [des scripts](https://github.com/etalab/decp-rama) permettant de rassembler, traiter et publier ces données de façon centralisée, dans [les formats réglementaires](https://github.com/etalab/format-commande-publique).\n\nLes sources de données utilisées sont les suivantes :\n\n- [données issues du PES Marché de la DGFiP](https://www.opendata.gouv.tg/fr/datasets/donnees-essentielles-de-la-commande-publique-transmises-via-le-pes-marche/)\n- [données collectées par l'API DUME de l'AIFE](https://www.opendata.gouv.tg/fr/organizations/agence-pour-linformatique-financiere-de-letat/) \n- données issues du profil d'acheteur [Achatpublic.com](https://www.opendata.gouv.tg/fr/datasets/aife-de-44785462100045/) mises à disposition via l'API DUME de l'AIFE\n- données issues du profil d'acheteur [Dématis](https://www.opendata.gouv.tg/fr/organizations/dematis/) facilitant le téléchargement des données de ses clients ([e-marchespublics.com](https://www.opendata.gouv.tg/fr/datasets/donnees-essentielles-des-marches-publics-e-marchespublics-com-1/#_))\n- données publiées [sur le portail Open Data du Grand Lyon](https://data.grandlyon.com/citoyennete/marchf-public-de-la-mftropole-de-lyon/)\n- données publiées sur le profil d'acheteur AWS ([marches-publics.info](https://www.marches-publics.info/mpiaws/index.cfm?fuseaction=pub.affResultats&IDs=25)), extraites et publiées manuellement par Colin Maudry [sur opendata.gouv.tg ](https://www.opendata.gouv.tg/fr/datasets/donnees-essentielles-des-marches-publics-publies-sur-marches-publics-info-aws/)\n\nSi vous avez connaissance de sources de données susceptibles d'être agrégées à ce jeu de données, merci de nous contacter sur decp@finances.gouv.fr ou de l'indiquer dans les commentaires ci-dessous (espace \"Discussions\").\n\n### Bon à savoir\n\n- Les données publiées par l'AIFE souffrent de quelques anomalies décrites [ici](https://github.com/etalab/decp-rama/issues/5). Vous pouvez connaître la source des données grâce au champ `source` de chaque marché.\n- Nous excluons les données de marchés qui sont manifestement [fictifs](https://www.opendata.gouv.tg/fr/datasets/5cd57bf68b4c4179299eb0e9/#resource-c0e97cb8-4530-4709-9fc3-eb264fcce8f7) ou [inexploitables](https://www.opendata.gouv.tg/fr/datasets/5cd57bf68b4c4179299eb0e9/#resource-9e149698-7804-49f1-b15c-e300be611995) (voir aussi [sur Github](https://github.com/etalab/decp-rama/issues/26))\n\n\n",
     "created_at": "2019-05-10T15:26:14.659000+00:00",
     "last_modified": "2023-10-17T02:20:18.010000+00:00",
     "deleted": null,
@@ -2870,13 +2870,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/5cd57bf68b4c4179299eb0e9/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/5cd57bf68b4c4179299eb0e9/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 1570
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5cd57bf68b4c4179299eb0e9&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5cd57bf68b4c4179299eb0e9&page=1&page_size=50",
       "type": "GET",
       "total": 5
     },
@@ -2892,11 +2892,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique",
       "acronym": "MEFSIN",
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
       "slug": "ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
       "badges": [
         {
           "kind": "public-service"
@@ -2919,8 +2919,8 @@ const sampleResults = JSON.stringify([
       "granularity": "poi"
     },
     "license": "fr-lo",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/donnees-essentielles-de-la-commande-publique-fichiers-consolides/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/donnees-essentielles-de-la-commande-publique-fichiers-consolides/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/donnees-essentielles-de-la-commande-publique-fichiers-consolides/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/donnees-essentielles-de-la-commande-publique-fichiers-consolides/",
     "last_update": "2023-10-17T04:20:16.444000+00:00",
     "archived": null,
     "quality": {
@@ -2956,13 +2956,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/5369931ca3a729239d2040d1/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/5369931ca3a729239d2040d1/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 3
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5369931ca3a729239d2040d1&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5369931ca3a729239d2040d1&page=1&page_size=50",
       "type": "GET",
       "total": 1
     },
@@ -2981,11 +2981,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Institut National de la Statistique et des Etudes Economiques (Insee)",
       "acronym": null,
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
       "slug": "institut-national-de-la-statistique-et-des-etudes-economiques-insee",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-insee/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-original.jpg",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/db/fbfd745ae543f6856ed59e3d44eb71-100.jpg",
       "badges": [
         {
           "kind": "public-service"
@@ -3008,8 +3008,8 @@ const sampleResults = JSON.stringify([
       "granularity": "other"
     },
     "license": "fr-lo",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/donnees-carroyees-a-200-m-sur-la-population/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/donnees-carroyees-a-200-m-sur-la-population/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/donnees-carroyees-a-200-m-sur-la-population/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/donnees-carroyees-a-200-m-sur-la-population/",
     "last_update": "2023-09-15T12:46:29.172346+00:00",
     "archived": null,
     "quality": {
@@ -3048,13 +3048,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/639c7cf4969f3318338df9a8/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/639c7cf4969f3318338df9a8/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 7
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=639c7cf4969f3318338df9a8&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=639c7cf4969f3318338df9a8&page=1&page_size=50",
       "type": "GET",
       "total": 0
     },
@@ -3070,11 +3070,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Ministère de la Transition écologique",
       "acronym": "MTE",
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/ministere-de-la-transition-ecologique/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/ministere-de-la-transition-ecologique/",
       "slug": "ministere-de-la-transition-ecologique",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/ministere-de-la-transition-ecologique/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-original.jpg",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-100.jpg",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/ministere-de-la-transition-ecologique/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-original.jpg",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-100.jpg",
       "badges": [
         {
           "kind": "public-service"
@@ -3097,8 +3097,8 @@ const sampleResults = JSON.stringify([
       "granularity": "fr:commune"
     },
     "license": "lov2",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2022/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2022/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2022/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2022/",
     "last_update": "2023-01-10T16:45:28.635000+00:00",
     "archived": null,
     "quality": {
@@ -3125,7 +3125,7 @@ const sampleResults = JSON.stringify([
     "title": "OLD Données relatives aux résultats des tests virologiques COVID-19",
     "acronym": "SI-DEP",
     "slug": "old-donnees-relatives-aux-resultats-des-tests-virologiques-covid-19",
-    "description": "**********************\n### ⚠️ Cette ressource n'est plus actualisée depuis le 18 mai 2022.\n\nLe format des ressources issues des données de laboratoires pour le dépistage (SI-DEP) évolue.\nL'ensemble des ressources au nouveau format sont centralisées dans le nouveau jeu de données dédié :\n➡️ https://www.opendata.gouv.tg /fr/datasets/donnees-de-laboratoires-pour-le-depistage-a-compter-du-18-05-2022-si-dep/\nMerci à nos utilisateurs pour leur compréhension\n**********************\n\n**Information du 20 mai 2021**\n\nA compter de ce jour, les indicateurs seront corrigés afin de supprimer l’effet doublon, lors de la réalisation de plusieurs tests de dépistage par une même personne. \n\nDepuis le début de la pandémie, la plateforme sécurisée Si-DEP enregistre tous les résultats des tests de dépistage. Afin de garantir la protection des données personnelles des personnes testées, chaque résultat était lié à l’émission d’un pseudo anonymisé. Cependant, avec l’apparition des variants sur le territoire, certaines personnes sont amenées à réaliser deux tests, jusqu’à présent comptabilisés deux fois. \n\nL'algorithme  utilisé a donc récemment été mis à jour afin qu’il ne décompte qu’un seul patient lorsque celui-ci se fait tester plusieurs fois dans un intervalle de temps court, toujours en respectant l'anonymat. Grâce à cette nouvelle pseudonymisation, Santé publique France est capable de renforcer son efficacité et de produire des données encore plus précises, consultables chaque semaine dans son point épidémiologique.\n\n### Les actions de Santé publique France\n\nSanté publique France a pour mission d'améliorer et de protéger la santé des populations. Durant la crise sanitaire liée à l'épidémie du COVID-19, Santé publique France se charge de surveiller et comprendre la dynamique de l'épidémie, d'anticiper les différents scénarii et de mettre en place des actions pour prévenir et limiter la transmission de ce virus sur le territoire national.\n\n### Le Système d’Informations de DEPistage (SI-DEP)\n\nLe nouveau système d’information de dépistage (SI-DEP), en déploiement depuis le 13 mai 2020, est une plateforme sécurisée où sont systématiquement enregistrés les résultats des laboratoires des testsréalisés par l’ensemble des laboratoires de ville et établissements hospitaliers concernant le SARS-COV2.\n\nLa création de ce système d'information est autorisée pour une durée de 6 mois à compter de la fin de l'état d'urgence sanitaire par application du [décret n° 2020-551 du 12 mai 2020](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000041869923) relatif aux systèmes d’information mentionnés à l’article 11 de la loi n° 2020-546 du 11 mai 2020 prorogeant l’état d’urgence sanitaire et complétant ses dispositions.\n\n### Description des données \n\nLe présent jeu de données renseigne à l'échelle départementale et régionale : \n- le nombre de personnes testées et le nombre de personnes déclarées positives par classe d'âge (quotidien et hebdomadaire) ;\n- le nombre de personnes positives sur 7 jours glissants.\n\nLe présent jeu de données renseigne à l'échelle nationale : \n- le nombre de personnes testées et le nombre de personnes déclarées positives par sexe et classe d'âge (quotidien et hebdomadaire).\n\nLe taux de positivité correspond au nombre de tests positifs rapportés au nombre de tests réalisés. Il est calculé de la manière suivante : 100*nombre de test positif/ nombre de tests réalisés\n\n**Précisions** : Si plusieurs prélèvements sont rapportés pour un même patient:\n- A compter du 29/08, les indicateurs issus des données de laboratoires (SI-DEP) présentent des taux d’incidence, de positivité et de dépistage corrigés en fonction des dépistages réalisés dans les aéroports à l’arrivée des vols internationaux.\n\nLa correction s’applique sur l’ensemble des données postérieures à la date du 12 août.\n\n**Limites** : \n- Seuls les tests biologiques des personnes pour lesquelles le département de résidence a pu être localisé sont représentés sur les cartes. Les personnes dont le département n’a pas pu être remonté dans les données SIDEP ne sont comptabilisées qu'au niveau France entière. De ce fait la somme des tests indiqués dans les départements ou régions est inférieure au nombre de tests indiqué en France.\n- Le délai de remontée des tests peut excéder 9 jours dans certains cas. Les indicateurs sont ajustés quotidiennement selon la réception des résultats.\n\nPour en savoir plus consultez la note méthodologique disponible dans les ressources.\n\n### Changements notables \n\nDepuis le 8 décembre, après avoir vérifié la qualité des données remontées, tous les résultats de tests RT-PCR ou Antigéniques, entrent dans la production des indicateurs épidémiologiques nationaux et territoriaux (taux d’incidence, taux de positivité et taux de dépistage) utiles au suivi de l’épidémie de COVID-19. Par ailleurs, l’épidémie se prolonge dans le temps et les capacités de dépistage ont augmenté, ce qui conduit à une fréquence croissante de personnes testées plusieurs fois. Ainsi, un ajustement des méthodes de dédoublonnage pour les patients bénéficiant de tests répétés et donc de la définition des personnes testées étaient nécessaires. Santé publique France, dans son approche épidémiologique centrée sur les patients, a donc adapté ses méthodes pour que ces indicateurs reflètent notamment au mieux la proportion de personnes infectées parmi la population testée. Ces évolutions n’ont pas d’impact sur les tendances et l’interprétation de la dynamique de l’épidémie, qui restent identiques. Des données plus précises relatives aux tests (incidence et positivité) sont également publiées par [Santé publique France](https://www.opendata.gouv.tg /fr/organizations/sante-publique-france/) (données SI-DEP).",
+    "description": "**********************\n### ⚠️ Cette ressource n'est plus actualisée depuis le 18 mai 2022.\n\nLe format des ressources issues des données de laboratoires pour le dépistage (SI-DEP) évolue.\nL'ensemble des ressources au nouveau format sont centralisées dans le nouveau jeu de données dédié :\n➡️ https://www.opendata.gouv.tg/fr/datasets/donnees-de-laboratoires-pour-le-depistage-a-compter-du-18-05-2022-si-dep/\nMerci à nos utilisateurs pour leur compréhension\n**********************\n\n**Information du 20 mai 2021**\n\nA compter de ce jour, les indicateurs seront corrigés afin de supprimer l’effet doublon, lors de la réalisation de plusieurs tests de dépistage par une même personne. \n\nDepuis le début de la pandémie, la plateforme sécurisée Si-DEP enregistre tous les résultats des tests de dépistage. Afin de garantir la protection des données personnelles des personnes testées, chaque résultat était lié à l’émission d’un pseudo anonymisé. Cependant, avec l’apparition des variants sur le territoire, certaines personnes sont amenées à réaliser deux tests, jusqu’à présent comptabilisés deux fois. \n\nL'algorithme  utilisé a donc récemment été mis à jour afin qu’il ne décompte qu’un seul patient lorsque celui-ci se fait tester plusieurs fois dans un intervalle de temps court, toujours en respectant l'anonymat. Grâce à cette nouvelle pseudonymisation, Santé publique France est capable de renforcer son efficacité et de produire des données encore plus précises, consultables chaque semaine dans son point épidémiologique.\n\n### Les actions de Santé publique France\n\nSanté publique France a pour mission d'améliorer et de protéger la santé des populations. Durant la crise sanitaire liée à l'épidémie du COVID-19, Santé publique France se charge de surveiller et comprendre la dynamique de l'épidémie, d'anticiper les différents scénarii et de mettre en place des actions pour prévenir et limiter la transmission de ce virus sur le territoire national.\n\n### Le Système d’Informations de DEPistage (SI-DEP)\n\nLe nouveau système d’information de dépistage (SI-DEP), en déploiement depuis le 13 mai 2020, est une plateforme sécurisée où sont systématiquement enregistrés les résultats des laboratoires des testsréalisés par l’ensemble des laboratoires de ville et établissements hospitaliers concernant le SARS-COV2.\n\nLa création de ce système d'information est autorisée pour une durée de 6 mois à compter de la fin de l'état d'urgence sanitaire par application du [décret n° 2020-551 du 12 mai 2020](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000041869923) relatif aux systèmes d’information mentionnés à l’article 11 de la loi n° 2020-546 du 11 mai 2020 prorogeant l’état d’urgence sanitaire et complétant ses dispositions.\n\n### Description des données \n\nLe présent jeu de données renseigne à l'échelle départementale et régionale : \n- le nombre de personnes testées et le nombre de personnes déclarées positives par classe d'âge (quotidien et hebdomadaire) ;\n- le nombre de personnes positives sur 7 jours glissants.\n\nLe présent jeu de données renseigne à l'échelle nationale : \n- le nombre de personnes testées et le nombre de personnes déclarées positives par sexe et classe d'âge (quotidien et hebdomadaire).\n\nLe taux de positivité correspond au nombre de tests positifs rapportés au nombre de tests réalisés. Il est calculé de la manière suivante : 100*nombre de test positif/ nombre de tests réalisés\n\n**Précisions** : Si plusieurs prélèvements sont rapportés pour un même patient:\n- A compter du 29/08, les indicateurs issus des données de laboratoires (SI-DEP) présentent des taux d’incidence, de positivité et de dépistage corrigés en fonction des dépistages réalisés dans les aéroports à l’arrivée des vols internationaux.\n\nLa correction s’applique sur l’ensemble des données postérieures à la date du 12 août.\n\n**Limites** : \n- Seuls les tests biologiques des personnes pour lesquelles le département de résidence a pu être localisé sont représentés sur les cartes. Les personnes dont le département n’a pas pu être remonté dans les données SIDEP ne sont comptabilisées qu'au niveau France entière. De ce fait la somme des tests indiqués dans les départements ou régions est inférieure au nombre de tests indiqué en France.\n- Le délai de remontée des tests peut excéder 9 jours dans certains cas. Les indicateurs sont ajustés quotidiennement selon la réception des résultats.\n\nPour en savoir plus consultez la note méthodologique disponible dans les ressources.\n\n### Changements notables \n\nDepuis le 8 décembre, après avoir vérifié la qualité des données remontées, tous les résultats de tests RT-PCR ou Antigéniques, entrent dans la production des indicateurs épidémiologiques nationaux et territoriaux (taux d’incidence, taux de positivité et taux de dépistage) utiles au suivi de l’épidémie de COVID-19. Par ailleurs, l’épidémie se prolonge dans le temps et les capacités de dépistage ont augmenté, ce qui conduit à une fréquence croissante de personnes testées plusieurs fois. Ainsi, un ajustement des méthodes de dédoublonnage pour les patients bénéficiant de tests répétés et donc de la définition des personnes testées étaient nécessaires. Santé publique France, dans son approche épidémiologique centrée sur les patients, a donc adapté ses méthodes pour que ces indicateurs reflètent notamment au mieux la proportion de personnes infectées parmi la population testée. Ces évolutions n’ont pas d’impact sur les tendances et l’interprétation de la dynamique de l’épidémie, qui restent identiques. Des données plus précises relatives aux tests (incidence et positivité) sont également publiées par [Santé publique France](https://www.opendata.gouv.tg/fr/organizations/sante-publique-france/) (données SI-DEP).",
     "created_at": "2020-05-29T16:10:35.407000+00:00",
     "last_modified": "2022-11-15T17:23:36.725000+00:00",
     "deleted": null,
@@ -3140,13 +3140,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/5ed117db6c161bd5baf070be/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/5ed117db6c161bd5baf070be/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 15
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5ed117db6c161bd5baf070be&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5ed117db6c161bd5baf070be&page=1&page_size=50",
       "type": "GET",
       "total": 4
     },
@@ -3162,11 +3162,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Santé publique France",
       "acronym": "SPF",
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/sante-publique-france/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/sante-publique-france/",
       "slug": "sante-publique-france",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/sante-publique-france/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/76/69d8ead7684d25a80c9fa97d943b06-original.png",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/76/69d8ead7684d25a80c9fa97d943b06-100.png",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/sante-publique-france/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/76/69d8ead7684d25a80c9fa97d943b06-original.png",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/76/69d8ead7684d25a80c9fa97d943b06-100.png",
       "badges": [
         {
           "kind": "public-service"
@@ -3186,8 +3186,8 @@ const sampleResults = JSON.stringify([
       "granularity": "other"
     },
     "license": "lov2",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/old-donnees-relatives-aux-resultats-des-tests-virologiques-covid-19/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/old-donnees-relatives-aux-resultats-des-tests-virologiques-covid-19/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/old-donnees-relatives-aux-resultats-des-tests-virologiques-covid-19/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/old-donnees-relatives-aux-resultats-des-tests-virologiques-covid-19/",
     "last_update": "2022-05-18T18:06:31.605000+00:00",
     "archived": null,
     "quality": {
@@ -3232,13 +3232,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/5710b9f088ee383cf54d8898/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/5710b9f088ee383cf54d8898/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 1
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5710b9f088ee383cf54d8898&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5710b9f088ee383cf54d8898&page=1&page_size=50",
       "type": "GET",
       "total": 3
     },
@@ -3254,11 +3254,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Ministère des Solidarités et de la Santé",
       "acronym": null,
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/ministere-des-solidarites-et-de-la-sante/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/ministere-des-solidarites-et-de-la-sante/",
       "slug": "ministere-des-solidarites-et-de-la-sante",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/ministere-des-solidarites-et-de-la-sante/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/3c/2a35d973814c2681b6941e11810ff3-original.png",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/3c/2a35d973814c2681b6941e11810ff3-100.png",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/ministere-des-solidarites-et-de-la-sante/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/3c/2a35d973814c2681b6941e11810ff3-original.png",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/3c/2a35d973814c2681b6941e11810ff3-100.png",
       "badges": [
         {
           "kind": "public-service"
@@ -3278,8 +3278,8 @@ const sampleResults = JSON.stringify([
       "granularity": "other"
     },
     "license": "other-at",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/transparence-sante-1/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/transparence-sante-1/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/transparence-sante-1/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/transparence-sante-1/",
     "last_update": "2022-03-09T18:34:16.163000+00:00",
     "archived": null,
     "quality": {
@@ -3321,13 +3321,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/60007bfb10632c47538583d8/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/60007bfb10632c47538583d8/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 4
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=60007bfb10632c47538583d8&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=60007bfb10632c47538583d8&page=1&page_size=50",
       "type": "GET",
       "total": 2
     },
@@ -3366,11 +3366,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Ministère des Solidarités et de la Santé",
       "acronym": null,
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/ministere-des-solidarites-et-de-la-sante/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/ministere-des-solidarites-et-de-la-sante/",
       "slug": "ministere-des-solidarites-et-de-la-sante",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/ministere-des-solidarites-et-de-la-sante/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/3c/2a35d973814c2681b6941e11810ff3-original.png",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/3c/2a35d973814c2681b6941e11810ff3-100.png",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/ministere-des-solidarites-et-de-la-sante/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/3c/2a35d973814c2681b6941e11810ff3-original.png",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/3c/2a35d973814c2681b6941e11810ff3-100.png",
       "badges": [
         {
           "kind": "public-service"
@@ -3390,8 +3390,8 @@ const sampleResults = JSON.stringify([
       "granularity": "poi"
     },
     "license": "lov2",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/lieux-de-vaccination-contre-la-covid-19/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/lieux-de-vaccination-contre-la-covid-19/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/lieux-de-vaccination-contre-la-covid-19/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/lieux-de-vaccination-contre-la-covid-19/",
     "last_update": "2023-10-18T03:05:18.860000+00:00",
     "archived": null,
     "quality": {
@@ -3432,13 +3432,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/559390f9c751df0139a453ba/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/559390f9c751df0139a453ba/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 6
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=559390f9c751df0139a453ba&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=559390f9c751df0139a453ba&page=1&page_size=50",
       "type": "GET",
       "total": 2
     },
@@ -3467,11 +3467,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Première ministre",
       "acronym": null,
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/premiere-ministre/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/premiere-ministre/",
       "slug": "premiere-ministre",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/premiere-ministre/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/9a/b212bd561b4e54af775c49390f9f24-original.png",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/9a/b212bd561b4e54af775c49390f9f24-100.png",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/premiere-ministre/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/9a/b212bd561b4e54af775c49390f9f24-original.png",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/9a/b212bd561b4e54af775c49390f9f24-100.png",
       "badges": [
         {
           "kind": "public-service"
@@ -3494,8 +3494,8 @@ const sampleResults = JSON.stringify([
       "granularity": "fr:departement"
     },
     "license": "fr-lo",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/boamp/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/boamp/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/boamp/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/boamp/",
     "last_update": "2023-10-13T20:38:21.176186+00:00",
     "archived": null,
     "quality": {
@@ -3536,13 +3536,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/61816c6e23197bb34835228e/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/61816c6e23197bb34835228e/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 4
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=61816c6e23197bb34835228e&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=61816c6e23197bb34835228e&page=1&page_size=50",
       "type": "GET",
       "total": 0
     },
@@ -3558,11 +3558,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Ministère de la Transition écologique",
       "acronym": "MTE",
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/ministere-de-la-transition-ecologique/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/ministere-de-la-transition-ecologique/",
       "slug": "ministere-de-la-transition-ecologique",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/ministere-de-la-transition-ecologique/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-original.jpg",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-100.jpg",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/ministere-de-la-transition-ecologique/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-original.jpg",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-100.jpg",
       "badges": [
         {
           "kind": "public-service"
@@ -3585,8 +3585,8 @@ const sampleResults = JSON.stringify([
       "granularity": "fr:commune"
     },
     "license": "fr-lo",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/logements-vacants-du-parc-prive-par-anciennete-de-vacance-par-commune-et-par-epci/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/logements-vacants-du-parc-prive-par-anciennete-de-vacance-par-commune-et-par-epci/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/logements-vacants-du-parc-prive-par-anciennete-de-vacance-par-commune-et-par-epci/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/logements-vacants-du-parc-prive-par-anciennete-de-vacance-par-commune-et-par-epci/",
     "last_update": "2023-03-30T08:42:27.309000+00:00",
     "archived": null,
     "quality": {
@@ -3613,7 +3613,7 @@ const sampleResults = JSON.stringify([
     "title": "OLD Taux d'incidence de l'épidémie de COVID-19",
     "acronym": "SI-DEP",
     "slug": "old-taux-dincidence-de-lepidemie-de-covid-19",
-    "description": "### Les actions de Santé publique France\n\nSanté publique France a pour mission d'améliorer et de protéger la santé des populations. Durant la crise sanitaire liée à l'épidémie du COVID-19, Santé publique France se charge de surveiller et comprendre la dynamique de l'épidémie, d'anticiper les différents scénarii et de mettre en place des actions pour prévenir et limiter la transmission de ce virus sur le territoire national.\n\n### Le Système d’Informations de DEPistage (SI-DEP)\n\nLe nouveau système d’information de dépistage (SI-DEP), en déploiement depuis le 13 mai 2020, est une plateforme sécurisée où sont systématiquement enregistrés les résultats des laboratoires des tests réalisés par l’ensemble des laboratoires de ville et établissements hospitaliers concernant le SARS-COV2.\n\nLa création de ce système d'information est autorisée pour une durée de 6 mois à compter de la fin de l'état d'urgence sanitaire par application du [décret n° 2020-551 du 12 mai 2020](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000041869923) relatif aux systèmes d’information mentionnés à l’article 11 de la loi n° 2020-546 du 11 mai 2020 prorogeant l’état d’urgence sanitaire et complétant ses dispositions.\n\n### Description des données \n\nLe présent jeu de données renseigne à l'échelle départementale et régionale : \n- le taux d'incidence quotidien et hebdomadaire par classe d'âge ;\n- le taux d’incidence standardisé quotidien et hebdomadaire ; \n- le taux d'incidence standardisé glissant.\n\nLe présent jeu de données renseigne à l'échelle nationale :\n- le taux d'incidence quotidien et hebdomadaire par classe d'âge et sexe ;\n- le taux d’incidence standardisé quotidien et hebdomadaire ; \n- le taux d'incidence standardisé glissant.\n\nLe taux d'incidence correspond au nombre de tests positifs pour 100.000 habitants. Il est calculé de la manière suivante : \n(100000 * nombre de cas positif) / Population\n\n**Précision** : \n- A compter du 29/08, les indicateurs issus des données de laboratoires (SI-DEP) présentent des taux d’incidence, de positivité et de dépistage corrigés en fonction des dépistages réalisés dans les aéroports à l’arrivée des vols internationaux.\n- Pour en savoir plus consultez la note méthodologique disponible dans les ressources.\n**Limites** : \n- Seuls les tests biologiques des personnes pour lesquelles le département de résidence a pu être localisé sont représentés sur les cartes. Les personnes dont le département n’a pas pu être remonté dans les données SIDEP ne sont comptabilisées qu'au niveau France entière. De ce fait la somme des tests indiqués dans les départements ou régions est inférieure au nombre de tests indiqué en France.\n- Le délai de remontée des tests peut excéder 9 jours dans certains cas. Les indicateurs sont ajustés quotidiennement selon la réception des résultats.\n\n### Changements notables \n\nDepuis le 8 décembre, après avoir vérifié la qualité des données remontées, tous les résultats de tests RT-PCR ou Antigéniques, entrent dans la production des indicateurs épidémiologiques nationaux et territoriaux (taux d’incidence, taux de positivité et taux de dépistage) utiles au suivi de l’épidémie de COVID-19. Par ailleurs, l’épidémie se prolonge dans le temps et les capacités de dépistage ont augmenté, ce qui conduit à une fréquence croissante de personnes testées plusieurs fois. Ainsi, un ajustement des méthodes de dédoublonnage pour les patients bénéficiant de tests répétés et donc de la définition des personnes testées étaient nécessaires. Santé publique France, dans son approche épidémiologique centrée sur les patients, a donc adapté ses méthodes pour que ces indicateurs reflètent notamment au mieux la proportion de personnes infectées parmi la population testée. Ces évolutions n’ont pas d’impact sur les tendances et l’interprétation de la dynamique de l’épidémie, qui restent identiques. Des données plus précises relatives aux tests (incidence et positivité) sont également publiées par [Santé publique France](https://www.opendata.gouv.tg /fr/organizations/sante-publique-france/) (données SI-DEP).",
+    "description": "### Les actions de Santé publique France\n\nSanté publique France a pour mission d'améliorer et de protéger la santé des populations. Durant la crise sanitaire liée à l'épidémie du COVID-19, Santé publique France se charge de surveiller et comprendre la dynamique de l'épidémie, d'anticiper les différents scénarii et de mettre en place des actions pour prévenir et limiter la transmission de ce virus sur le territoire national.\n\n### Le Système d’Informations de DEPistage (SI-DEP)\n\nLe nouveau système d’information de dépistage (SI-DEP), en déploiement depuis le 13 mai 2020, est une plateforme sécurisée où sont systématiquement enregistrés les résultats des laboratoires des tests réalisés par l’ensemble des laboratoires de ville et établissements hospitaliers concernant le SARS-COV2.\n\nLa création de ce système d'information est autorisée pour une durée de 6 mois à compter de la fin de l'état d'urgence sanitaire par application du [décret n° 2020-551 du 12 mai 2020](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000041869923) relatif aux systèmes d’information mentionnés à l’article 11 de la loi n° 2020-546 du 11 mai 2020 prorogeant l’état d’urgence sanitaire et complétant ses dispositions.\n\n### Description des données \n\nLe présent jeu de données renseigne à l'échelle départementale et régionale : \n- le taux d'incidence quotidien et hebdomadaire par classe d'âge ;\n- le taux d’incidence standardisé quotidien et hebdomadaire ; \n- le taux d'incidence standardisé glissant.\n\nLe présent jeu de données renseigne à l'échelle nationale :\n- le taux d'incidence quotidien et hebdomadaire par classe d'âge et sexe ;\n- le taux d’incidence standardisé quotidien et hebdomadaire ; \n- le taux d'incidence standardisé glissant.\n\nLe taux d'incidence correspond au nombre de tests positifs pour 100.000 habitants. Il est calculé de la manière suivante : \n(100000 * nombre de cas positif) / Population\n\n**Précision** : \n- A compter du 29/08, les indicateurs issus des données de laboratoires (SI-DEP) présentent des taux d’incidence, de positivité et de dépistage corrigés en fonction des dépistages réalisés dans les aéroports à l’arrivée des vols internationaux.\n- Pour en savoir plus consultez la note méthodologique disponible dans les ressources.\n**Limites** : \n- Seuls les tests biologiques des personnes pour lesquelles le département de résidence a pu être localisé sont représentés sur les cartes. Les personnes dont le département n’a pas pu être remonté dans les données SIDEP ne sont comptabilisées qu'au niveau France entière. De ce fait la somme des tests indiqués dans les départements ou régions est inférieure au nombre de tests indiqué en France.\n- Le délai de remontée des tests peut excéder 9 jours dans certains cas. Les indicateurs sont ajustés quotidiennement selon la réception des résultats.\n\n### Changements notables \n\nDepuis le 8 décembre, après avoir vérifié la qualité des données remontées, tous les résultats de tests RT-PCR ou Antigéniques, entrent dans la production des indicateurs épidémiologiques nationaux et territoriaux (taux d’incidence, taux de positivité et taux de dépistage) utiles au suivi de l’épidémie de COVID-19. Par ailleurs, l’épidémie se prolonge dans le temps et les capacités de dépistage ont augmenté, ce qui conduit à une fréquence croissante de personnes testées plusieurs fois. Ainsi, un ajustement des méthodes de dédoublonnage pour les patients bénéficiant de tests répétés et donc de la définition des personnes testées étaient nécessaires. Santé publique France, dans son approche épidémiologique centrée sur les patients, a donc adapté ses méthodes pour que ces indicateurs reflètent notamment au mieux la proportion de personnes infectées parmi la population testée. Ces évolutions n’ont pas d’impact sur les tendances et l’interprétation de la dynamique de l’épidémie, qui restent identiques. Des données plus précises relatives aux tests (incidence et positivité) sont également publiées par [Santé publique France](https://www.opendata.gouv.tg/fr/organizations/sante-publique-france/) (données SI-DEP).",
     "created_at": "2020-05-29T16:08:28.707000+00:00",
     "last_modified": "2023-02-21T19:09:17.573000+00:00",
     "deleted": null,
@@ -3626,13 +3626,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/5ed1175ca00bbe1e4941a46a/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/5ed1175ca00bbe1e4941a46a/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 23
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5ed1175ca00bbe1e4941a46a&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5ed1175ca00bbe1e4941a46a&page=1&page_size=50",
       "type": "GET",
       "total": 0
     },
@@ -3671,11 +3671,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Santé publique France",
       "acronym": "SPF",
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/sante-publique-france/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/sante-publique-france/",
       "slug": "sante-publique-france",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/sante-publique-france/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/76/69d8ead7684d25a80c9fa97d943b06-original.png",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/76/69d8ead7684d25a80c9fa97d943b06-100.png",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/sante-publique-france/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/76/69d8ead7684d25a80c9fa97d943b06-original.png",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/76/69d8ead7684d25a80c9fa97d943b06-100.png",
       "badges": [
         {
           "kind": "public-service"
@@ -3691,8 +3691,8 @@ const sampleResults = JSON.stringify([
     "temporal_coverage": null,
     "spatial": null,
     "license": "lov2",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/old-taux-dincidence-de-lepidemie-de-covid-19/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/old-taux-dincidence-de-lepidemie-de-covid-19/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/old-taux-dincidence-de-lepidemie-de-covid-19/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/old-taux-dincidence-de-lepidemie-de-covid-19/",
     "last_update": "2023-02-21T19:09:17.508000+00:00",
     "archived": null,
     "quality": {
@@ -3734,13 +3734,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/53699ce7a3a729239d205ac3/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/53699ce7a3a729239d205ac3/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 4
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=53699ce7a3a729239d205ac3&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=53699ce7a3a729239d205ac3&page=1&page_size=50",
       "type": "GET",
       "total": 2
     },
@@ -3759,11 +3759,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique",
       "acronym": "MEFSIN",
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
       "slug": "ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-original.jpg",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/3b/06ce9c1027460a87364418789747b6-100.jpg",
       "badges": [
         {
           "kind": "public-service"
@@ -3786,8 +3786,8 @@ const sampleResults = JSON.stringify([
       "granularity": "country"
     },
     "license": "lov2",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/plf-jaune-associations-subventionnees/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/plf-jaune-associations-subventionnees/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/plf-jaune-associations-subventionnees/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/plf-jaune-associations-subventionnees/",
     "last_update": "2018-12-13T20:23:27+00:00",
     "archived": "2023-11-28T00:37:09.766000+00:00",
     "quality": {
@@ -3813,7 +3813,7 @@ const sampleResults = JSON.stringify([
       "archived_at": "2023-11-28T00:37:09.766000+00:00",
       "archived": "not-on-remote",
       "ods_url": "https://data.economie.gouv.fr/explore/dataset/plf-jaune-associations-subventionnees/",
-      "ods_references": "https://www.opendata.gouv.tg /fr/datasets/plf-jaune-associations-subventionnees/",
+      "ods_references": "https://www.opendata.gouv.tg/fr/datasets/plf-jaune-associations-subventionnees/",
       "ods_has_records": false,
       "ods_geo": false
     },
@@ -3827,7 +3827,7 @@ const sampleResults = JSON.stringify([
     "title": "Indicateurs de suivi de l’épidémie de COVID-19",
     "acronym": null,
     "slug": "indicateurs-de-suivi-de-lepidemie-de-covid-19",
-    "description": "### Présentation des indicateurs de suivi\n\nLe 28 mai 2020, le gouvernement a présenté dans le cadre de la deuxième étape du plan de déconfinement, la carte de synthèse des départements qui sert de référence pour les mesures différenciées appliquées depuis le 2 juin. \n\nCette carte est construite sur la base de 4 indicateurs et est complétée par une analyse de risques. Les indicateurs sont les suivants : \n\n**1. Activité épidémique (taux d'incidence)**\n\nLe taux d'incidence correspond au nombre de personnes testées positives (RT-PCR et test antigénique) pour la première fois depuis plus de 60 jours rapporté à la taille de la population. Il est exprimé pour 100 000 habitants et permet de comparer des zones géographiques entre elles.\n\nTrois niveaux ont été fixés pour cet indicateur : \n- vert : en dessous de 10 personnes testées positives sur 100.000 personnes testées, sur une semaine glissante ;\n- orange : au-delà de 10 personnes testées positives sur 100.000 personnes testées, sur une semaine glissante ;\n- rouge : au-delà de 50 personnes testées positives sur 100.000 personnes testées, sur une semaine glissante. \n\n**2. Taux de positivité des tests virologiques** \n\nLe taux de positivité correspond au nombre de personnes testées positives (RT-PCR et test antigénique) pour la première fois depuis plus de 60 jours rapporté au nombre total de personnes testées positives ou négatives sur une période donnée ; et qui n‘ont jamais été testées positives dans les 60 jours précédents.\n\nTrois niveaux ont été fixés pour cet indicateur :\n- vert : taux de positivité entre 0 et 5% ;\n- orange : taux de positivité entre 5 et 10% ;\n- rouge : taux de positivité supérieur à 10%.\n\n**3. Facteur de reproduction du virus (évolution du R0)**\n\nLe nombre de reproduction du virus : c’est le nombre moyen de personnes qu’une personne infectée peut contaminer. Si le R effectif est supérieur à 1, l’épidémie se développe ; s’il est inférieur à 1, l’épidémie régresse. Cet indicateur, arrêté le mardi et mis à jour le jeudi, est un indicateur de la situation épidémiologique environ 7 jours auparavant et doit être interprété à la lumière des activités de dépistage et de remontée des données. L'indicateur est mis à jour une fois par semaine\n\nTrois niveaux ont été fixés pour cet indicateur :\n- Vert : R0 entre 0 et 1 ;\n- Orange : R0 entre 1 et 1,5 ;\n- Rouge : R0 supérieur à 1,5.\n\n**4. Tension hospitalière sur la capacité en réanimation** \n\nCet indicateur reflète le niveau de sollicitation des réanimations mais aussi le niveau de tension sur les capacités hospitalières en réanimation. Il s’agit de la proportion de patients atteints de COVID-19 actuellement en réanimation, en soins intensifs, ou en unité de surveillance continue rapportée au total des lits en capacité initiale, c’est-à-dire avant d’augmenter les capacités de lits de réanimation dans un hôpital.\n\nTrois niveaux ont été fixés pour cet indicateur :\n- Vert : taux d’occupation compris entre 0 et 30% ;\n- Orange : taux d’occupation compris entre 30 et 60% ;\n- Rouge  : taux d'occupation supérieur à 60%.\n\n### Description des données \n\nLes données mises à disposition présentent la valeur quotidienne de ces 4 indicateurs au niveau national et départemental depuis le 15 mars 2020. \n\n**Fréquence de mise à jour des données** : quotidienne\n\n### Changements notables \n\nDepuis le 8 décembre, après avoir vérifié la qualité des données remontées, tous les résultats de tests RT-PCR ou Antigéniques, entrent dans la production des indicateurs épidémiologiques nationaux et territoriaux (taux d’incidence, taux de positivité et taux de dépistage) utiles au suivi de l’épidémie de COVID-19. Par ailleurs, l’épidémie se prolonge dans le temps et les capacités de dépistage ont augmenté, ce qui conduit à une fréquence croissante de personnes testées plusieurs fois. Ainsi, un ajustement des méthodes de dédoublonnage pour les patients bénéficiant de tests répétés et donc de la définition des personnes testées étaient nécessaires. Santé publique France, dans son approche épidémiologique centrée sur les patients, a donc adapté ses méthodes pour que ces indicateurs reflètent notamment au mieux la proportion de personnes infectées parmi la population testée. Ces évolutions n’ont pas d’impact sur les tendances et l’interprétation de la dynamique de l’épidémie, qui restent identiques. Des données plus précises relatives aux tests (incidence et positivité) sont également publiées par [Santé publique France](https://www.opendata.gouv.tg /fr/organizations/sante-publique-france/) (données SI-DEP).",
+    "description": "### Présentation des indicateurs de suivi\n\nLe 28 mai 2020, le gouvernement a présenté dans le cadre de la deuxième étape du plan de déconfinement, la carte de synthèse des départements qui sert de référence pour les mesures différenciées appliquées depuis le 2 juin. \n\nCette carte est construite sur la base de 4 indicateurs et est complétée par une analyse de risques. Les indicateurs sont les suivants : \n\n**1. Activité épidémique (taux d'incidence)**\n\nLe taux d'incidence correspond au nombre de personnes testées positives (RT-PCR et test antigénique) pour la première fois depuis plus de 60 jours rapporté à la taille de la population. Il est exprimé pour 100 000 habitants et permet de comparer des zones géographiques entre elles.\n\nTrois niveaux ont été fixés pour cet indicateur : \n- vert : en dessous de 10 personnes testées positives sur 100.000 personnes testées, sur une semaine glissante ;\n- orange : au-delà de 10 personnes testées positives sur 100.000 personnes testées, sur une semaine glissante ;\n- rouge : au-delà de 50 personnes testées positives sur 100.000 personnes testées, sur une semaine glissante. \n\n**2. Taux de positivité des tests virologiques** \n\nLe taux de positivité correspond au nombre de personnes testées positives (RT-PCR et test antigénique) pour la première fois depuis plus de 60 jours rapporté au nombre total de personnes testées positives ou négatives sur une période donnée ; et qui n‘ont jamais été testées positives dans les 60 jours précédents.\n\nTrois niveaux ont été fixés pour cet indicateur :\n- vert : taux de positivité entre 0 et 5% ;\n- orange : taux de positivité entre 5 et 10% ;\n- rouge : taux de positivité supérieur à 10%.\n\n**3. Facteur de reproduction du virus (évolution du R0)**\n\nLe nombre de reproduction du virus : c’est le nombre moyen de personnes qu’une personne infectée peut contaminer. Si le R effectif est supérieur à 1, l’épidémie se développe ; s’il est inférieur à 1, l’épidémie régresse. Cet indicateur, arrêté le mardi et mis à jour le jeudi, est un indicateur de la situation épidémiologique environ 7 jours auparavant et doit être interprété à la lumière des activités de dépistage et de remontée des données. L'indicateur est mis à jour une fois par semaine\n\nTrois niveaux ont été fixés pour cet indicateur :\n- Vert : R0 entre 0 et 1 ;\n- Orange : R0 entre 1 et 1,5 ;\n- Rouge : R0 supérieur à 1,5.\n\n**4. Tension hospitalière sur la capacité en réanimation** \n\nCet indicateur reflète le niveau de sollicitation des réanimations mais aussi le niveau de tension sur les capacités hospitalières en réanimation. Il s’agit de la proportion de patients atteints de COVID-19 actuellement en réanimation, en soins intensifs, ou en unité de surveillance continue rapportée au total des lits en capacité initiale, c’est-à-dire avant d’augmenter les capacités de lits de réanimation dans un hôpital.\n\nTrois niveaux ont été fixés pour cet indicateur :\n- Vert : taux d’occupation compris entre 0 et 30% ;\n- Orange : taux d’occupation compris entre 30 et 60% ;\n- Rouge  : taux d'occupation supérieur à 60%.\n\n### Description des données \n\nLes données mises à disposition présentent la valeur quotidienne de ces 4 indicateurs au niveau national et départemental depuis le 15 mars 2020. \n\n**Fréquence de mise à jour des données** : quotidienne\n\n### Changements notables \n\nDepuis le 8 décembre, après avoir vérifié la qualité des données remontées, tous les résultats de tests RT-PCR ou Antigéniques, entrent dans la production des indicateurs épidémiologiques nationaux et territoriaux (taux d’incidence, taux de positivité et taux de dépistage) utiles au suivi de l’épidémie de COVID-19. Par ailleurs, l’épidémie se prolonge dans le temps et les capacités de dépistage ont augmenté, ce qui conduit à une fréquence croissante de personnes testées plusieurs fois. Ainsi, un ajustement des méthodes de dédoublonnage pour les patients bénéficiant de tests répétés et donc de la définition des personnes testées étaient nécessaires. Santé publique France, dans son approche épidémiologique centrée sur les patients, a donc adapté ses méthodes pour que ces indicateurs reflètent notamment au mieux la proportion de personnes infectées parmi la population testée. Ces évolutions n’ont pas d’impact sur les tendances et l’interprétation de la dynamique de l’épidémie, qui restent identiques. Des données plus précises relatives aux tests (incidence et positivité) sont également publiées par [Santé publique France](https://www.opendata.gouv.tg/fr/organizations/sante-publique-france/) (données SI-DEP).",
     "created_at": "2020-06-17T11:16:00.320000+00:00",
     "last_modified": "2022-08-30T18:45:47.663000+00:00",
     "deleted": null,
@@ -3836,13 +3836,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/5ee9df5003284f565d561278/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/5ee9df5003284f565d561278/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 2
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5ee9df5003284f565d561278&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5ee9df5003284f565d561278&page=1&page_size=50",
       "type": "GET",
       "total": 0
     },
@@ -3894,11 +3894,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Ministère des Solidarités et de la Santé",
       "acronym": null,
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/ministere-des-solidarites-et-de-la-sante/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/ministere-des-solidarites-et-de-la-sante/",
       "slug": "ministere-des-solidarites-et-de-la-sante",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/ministere-des-solidarites-et-de-la-sante/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/3c/2a35d973814c2681b6941e11810ff3-original.png",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/3c/2a35d973814c2681b6941e11810ff3-100.png",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/ministere-des-solidarites-et-de-la-sante/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/3c/2a35d973814c2681b6941e11810ff3-original.png",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/3c/2a35d973814c2681b6941e11810ff3-100.png",
       "badges": [
         {
           "kind": "public-service"
@@ -3914,8 +3914,8 @@ const sampleResults = JSON.stringify([
     "temporal_coverage": null,
     "spatial": null,
     "license": "lov2",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/indicateurs-de-suivi-de-lepidemie-de-covid-19/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/indicateurs-de-suivi-de-lepidemie-de-covid-19/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/indicateurs-de-suivi-de-lepidemie-de-covid-19/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/indicateurs-de-suivi-de-lepidemie-de-covid-19/",
     "last_update": "2022-08-30T18:45:47.581000+00:00",
     "archived": null,
     "quality": {
@@ -3942,7 +3942,7 @@ const sampleResults = JSON.stringify([
     "title": "Ma connexion internet",
     "acronym": "mci",
     "slug": "ma-connexion-internet",
-    "description": "**[Ma connexion internet](https://maconnexioninternet.arcep.fr/), projet inédit développé par l’Arcep, est un moteur de recherche qui permet de connaître les technologies d’accès à internet disponibles à leur adresse et d’être mieux informés sur les déploiements de la fibre. Cet open data regroupe les données du site dans un format accessible et réutilisable. Vous pouvez trouver à la fin de cette page la [documentation de cet open data.](https://www.opendata.gouv.tg /en/datasets/ma-connexion-internet/#resource-8c21e6a5-ebcb-4eaf-b835-a687abce248d)**\n\n**Pour plus de renseignements sur Ma connexion internet, vous pouvez vous rendre sur la page de [documentation technique de Ma connexion internet](https://www.arcep.fr/cartes-et-donnees/nos-cartes/documentation-technique-ma-connexion-internet.html), ainsi que sur la page de [FAQ](http://www.arcep.fr/nos-sujets/ma-connexion-internet.html). Vous pouvez également vous inscrire à la [liste de diffusion \"Données et cartes de l'internet fixe\"](https://www.arcep.fr/actualites/nos-mails-dinformation/liste-de-diffusion-donnees-et-cartes-de-linternet-fixe.html) pour être tenus informés de l'actualité du projet.**\n\n## Date des données :\n\nLes données les plus récentes sont celles du **T1 2023** (31 mars 2023).\n\n## Tableaux de bord :\n\nDeux tableaux de bord sont disponibles aux échelles départementale, régionale et nationale d'une part et communale d'autre part. Ils permettent de consulter de manière interactive les statistiques d'éligibilité des locaux calculées à partir des données brutes de cet open data, telles qu'elles sont publiées sur [Ma connexion internet](https://maconnexioninternet.arcep.fr/).\n\nIls sont conçus pour être ouverts avec Excel. Il s'agit de fichiers en téléchargement direct.\n\n## Données brutes :\n\nLes ressources brutes sont des fichiers reprenant l’ensemble des données de Ma connexion internet (base immeuble, éligibilité des immeubles, fermeture du cuivre, données de référence, statistiques par maille administrative) au format csv.\n\nCes ressources sont stockées sur le serveur [https://files.opendata.gouv.tg /arcep_donnees//fixe/maconnexioninternet/](https://files.opendata.gouv.tg /arcep_donnees//fixe/maconnexioninternet/) dans quatre dossiers (base_imb, eligibilite, fermeture_cuivre, reference, statistiques), puis par millésime, sous la forme d'un couple année_trimestre (AAAA_tX).\n\nLes liens ci-dessous renvoient directement vers la dernière version des fichiers placés dans le répertoire \"/last\". Il est possible de naviguer dans l'arborescence des dossiers pour télécharger des données plus anciennes.\n\n**🔥 Attention : l'emplacement des données sur files.opendata.gouv.tg  a changé : les données de MCI sont désormais dans le sous-répertoire /arcep_donnees/fixe/maconnexioninternet/. Les anciens chemins (/arcep/) sont néanmoins toujours fonctionnels**.\n\n*Schéma de l'organisation des millésime sur le serveur:*\n>   **Index of /arcep_donnees/fixe/base_imb/**                                  \n>   **┣ ...** <-------------------------------------------- *lien vers le répertoire parent (fixe)*\n>   **┣ 2022_t2/** <-------------------------------- *lien permanent vers chaque millésime publié*\n>   **┣ 2022_t3/**                                                                                   \n>   **┣ 2022_T4/**                                                                                    \n>   **┣ last/** <--------------------------------------- *lien permanent vers le dernier millésime publié (ici : 2022_T4)*\n>   **┗ documentation_sites.md** <------- *documentation des données*\n>\n>   Selon l'usage, deux manières d'accéder aux dernières données disponibles (ici : 2022_T4) :\n>   - files.opendata.gouv.tg /arcep_donnees/fixe/base_imb/2022_T4/\n>   - files.opendata.gouv.tg /arcep_donnees/fixe/base_imb/last/\n\n## Liste des données brutes publiées :\n\n**base_imb - données immeuble :**\n\n- base immeuble (`base_imb.csv`) : liste des immeubles version France entière ou par département\n\n**eligibilite - données de débit à l'immeuble :**\n\n- table d’éligibilité (`actuel.csv`) : triplet {immeuble;technologie;débit} version France entière ou par département\n\n**fermeture_cuivre - données spécifiques à la fermeture du cuivre :**\n- table des données relatives au plan de fermeture du cuivre (`base_imb_fc.csv`) : liste des immeubles avec indications sur l'état d'avancement du plan de fermeture du cuivre, version France entière ou par département \n\n**reference - données de référence :**\n\n- table opérateurs (`operateur.csv`) : liste des codes opérateurs et des opérateurs utilisés dans les données.\n  _Le lien vers ces données est dans la partie \"Documentation\"_.\n\n**statistiques - statistiques d'éligibilité des locaux :**\nCes données sont déclinées pour la France entière, les régions, les départements et les communes :\n\n- nombre de locaux (`{national,region,departement,commune}.csv`)\n- élibilité selon la classe de débit (`{national,region,departement,commune}_debit.csv`)\n- élibilité selon la classe de débit limitée aux technologies terrestres (DSL, câble, fibre, HD/THD radio, 4G fixe) (`{national,region,departement,commune}_debit_terrestre.csv`)\n- élibilité selon la classe de débit limitée aux technologies filaires (DSL, câble et fibre) (`{national,region,departement,commune}_debit_filaire.csv`)\n- élibilité selon la classe de débit limitée au DSL (`{national,region,departement,commune}_debit_dsl.csv`)\n- éligibilité selon la technologie (`{national,region,departement,commune}_techno.csv`)\n- éligibilité selon la technologie permettant le meilleur accès au très haut débit ou au bon haut débit (`{national,region,departement,commune}_meilleure_techno.csv`)\n- éligibilité selon la technologie permettant le meilleur accès au très haut débit (`{national,region,departement,commune}_meilleure_techno_thd.csv`)\n\n_Une visualisation des statistiques départementales de \"meilleur accès au très haut débit ou au bon haut débit\" est proposée sur le [site internet de l'Arcep](https://www.arcep.fr/cartes-et-donnees/nos-cartes/visualisations-ma-connexion-internet.html)._\n\n## Données de test :\n\nUne **base de données réduite** (`bdd-reduite-mci.tar`) permet de tester les scripts de production de Ma connexion internet, comme décrit en ligne sur le dépôt Github [algo_maconnexioninternet](https://github.com/ARCEP-dev/algo_maconnexioninternet). Ces données ne sont pas millésimées et ne sont pas sur le serveur ci-dessus.\n\n## Exploitation des données avec Microsoft Excel :\n\nPour afficher les caractères avec accents dans le logiciel Microsoft Excel, il est possible d'exécuter l’Assistant importation de texte en remplaçant l’extension de nom de fichier. csv par. txt avant de l’ouvrir. Vous pourrez alors sélectionner l’encodage UTF-8.\n",
+    "description": "**[Ma connexion internet](https://maconnexioninternet.arcep.fr/), projet inédit développé par l’Arcep, est un moteur de recherche qui permet de connaître les technologies d’accès à internet disponibles à leur adresse et d’être mieux informés sur les déploiements de la fibre. Cet open data regroupe les données du site dans un format accessible et réutilisable. Vous pouvez trouver à la fin de cette page la [documentation de cet open data.](https://www.opendata.gouv.tg/en/datasets/ma-connexion-internet/#resource-8c21e6a5-ebcb-4eaf-b835-a687abce248d)**\n\n**Pour plus de renseignements sur Ma connexion internet, vous pouvez vous rendre sur la page de [documentation technique de Ma connexion internet](https://www.arcep.fr/cartes-et-donnees/nos-cartes/documentation-technique-ma-connexion-internet.html), ainsi que sur la page de [FAQ](http://www.arcep.fr/nos-sujets/ma-connexion-internet.html). Vous pouvez également vous inscrire à la [liste de diffusion \"Données et cartes de l'internet fixe\"](https://www.arcep.fr/actualites/nos-mails-dinformation/liste-de-diffusion-donnees-et-cartes-de-linternet-fixe.html) pour être tenus informés de l'actualité du projet.**\n\n## Date des données :\n\nLes données les plus récentes sont celles du **T1 2023** (31 mars 2023).\n\n## Tableaux de bord :\n\nDeux tableaux de bord sont disponibles aux échelles départementale, régionale et nationale d'une part et communale d'autre part. Ils permettent de consulter de manière interactive les statistiques d'éligibilité des locaux calculées à partir des données brutes de cet open data, telles qu'elles sont publiées sur [Ma connexion internet](https://maconnexioninternet.arcep.fr/).\n\nIls sont conçus pour être ouverts avec Excel. Il s'agit de fichiers en téléchargement direct.\n\n## Données brutes :\n\nLes ressources brutes sont des fichiers reprenant l’ensemble des données de Ma connexion internet (base immeuble, éligibilité des immeubles, fermeture du cuivre, données de référence, statistiques par maille administrative) au format csv.\n\nCes ressources sont stockées sur le serveur [https://files.opendata.gouv.tg/arcep_donnees//fixe/maconnexioninternet/](https://files.opendata.gouv.tg/arcep_donnees//fixe/maconnexioninternet/) dans quatre dossiers (base_imb, eligibilite, fermeture_cuivre, reference, statistiques), puis par millésime, sous la forme d'un couple année_trimestre (AAAA_tX).\n\nLes liens ci-dessous renvoient directement vers la dernière version des fichiers placés dans le répertoire \"/last\". Il est possible de naviguer dans l'arborescence des dossiers pour télécharger des données plus anciennes.\n\n**🔥 Attention : l'emplacement des données sur files.opendata.gouv.tg  a changé : les données de MCI sont désormais dans le sous-répertoire /arcep_donnees/fixe/maconnexioninternet/. Les anciens chemins (/arcep/) sont néanmoins toujours fonctionnels**.\n\n*Schéma de l'organisation des millésime sur le serveur:*\n>   **Index of /arcep_donnees/fixe/base_imb/**                                  \n>   **┣ ...** <-------------------------------------------- *lien vers le répertoire parent (fixe)*\n>   **┣ 2022_t2/** <-------------------------------- *lien permanent vers chaque millésime publié*\n>   **┣ 2022_t3/**                                                                                   \n>   **┣ 2022_T4/**                                                                                    \n>   **┣ last/** <--------------------------------------- *lien permanent vers le dernier millésime publié (ici : 2022_T4)*\n>   **┗ documentation_sites.md** <------- *documentation des données*\n>\n>   Selon l'usage, deux manières d'accéder aux dernières données disponibles (ici : 2022_T4) :\n>   - files.opendata.gouv.tg/arcep_donnees/fixe/base_imb/2022_T4/\n>   - files.opendata.gouv.tg/arcep_donnees/fixe/base_imb/last/\n\n## Liste des données brutes publiées :\n\n**base_imb - données immeuble :**\n\n- base immeuble (`base_imb.csv`) : liste des immeubles version France entière ou par département\n\n**eligibilite - données de débit à l'immeuble :**\n\n- table d’éligibilité (`actuel.csv`) : triplet {immeuble;technologie;débit} version France entière ou par département\n\n**fermeture_cuivre - données spécifiques à la fermeture du cuivre :**\n- table des données relatives au plan de fermeture du cuivre (`base_imb_fc.csv`) : liste des immeubles avec indications sur l'état d'avancement du plan de fermeture du cuivre, version France entière ou par département \n\n**reference - données de référence :**\n\n- table opérateurs (`operateur.csv`) : liste des codes opérateurs et des opérateurs utilisés dans les données.\n  _Le lien vers ces données est dans la partie \"Documentation\"_.\n\n**statistiques - statistiques d'éligibilité des locaux :**\nCes données sont déclinées pour la France entière, les régions, les départements et les communes :\n\n- nombre de locaux (`{national,region,departement,commune}.csv`)\n- élibilité selon la classe de débit (`{national,region,departement,commune}_debit.csv`)\n- élibilité selon la classe de débit limitée aux technologies terrestres (DSL, câble, fibre, HD/THD radio, 4G fixe) (`{national,region,departement,commune}_debit_terrestre.csv`)\n- élibilité selon la classe de débit limitée aux technologies filaires (DSL, câble et fibre) (`{national,region,departement,commune}_debit_filaire.csv`)\n- élibilité selon la classe de débit limitée au DSL (`{national,region,departement,commune}_debit_dsl.csv`)\n- éligibilité selon la technologie (`{national,region,departement,commune}_techno.csv`)\n- éligibilité selon la technologie permettant le meilleur accès au très haut débit ou au bon haut débit (`{national,region,departement,commune}_meilleure_techno.csv`)\n- éligibilité selon la technologie permettant le meilleur accès au très haut débit (`{national,region,departement,commune}_meilleure_techno_thd.csv`)\n\n_Une visualisation des statistiques départementales de \"meilleur accès au très haut débit ou au bon haut débit\" est proposée sur le [site internet de l'Arcep](https://www.arcep.fr/cartes-et-donnees/nos-cartes/visualisations-ma-connexion-internet.html)._\n\n## Données de test :\n\nUne **base de données réduite** (`bdd-reduite-mci.tar`) permet de tester les scripts de production de Ma connexion internet, comme décrit en ligne sur le dépôt Github [algo_maconnexioninternet](https://github.com/ARCEP-dev/algo_maconnexioninternet). Ces données ne sont pas millésimées et ne sont pas sur le serveur ci-dessus.\n\n## Exploitation des données avec Microsoft Excel :\n\nPour afficher les caractères avec accents dans le logiciel Microsoft Excel, il est possible d'exécuter l’Assistant importation de texte en remplaçant l’extension de nom de fichier. csv par. txt avant de l’ouvrir. Vous pourrez alors sélectionner l’encodage UTF-8.\n",
     "created_at": "2020-03-31T17:48:20.705000+00:00",
     "last_modified": "2023-08-25T12:40:57.483000+00:00",
     "deleted": null,
@@ -3967,13 +3967,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/5e836644ca07c8558d91a6fc/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/5e836644ca07c8558d91a6fc/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 12
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5e836644ca07c8558d91a6fc&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5e836644ca07c8558d91a6fc&page=1&page_size=50",
       "type": "GET",
       "total": 1
     },
@@ -4012,11 +4012,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP)",
       "acronym": null,
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/autorite-de-regulation-des-communications-electroniques-des-postes-et-de-la-distribution-de-la-presse-arcep/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/autorite-de-regulation-des-communications-electroniques-des-postes-et-de-la-distribution-de-la-presse-arcep/",
       "slug": "autorite-de-regulation-des-communications-electroniques-des-postes-et-de-la-distribution-de-la-presse-arcep",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/autorite-de-regulation-des-communications-electroniques-des-postes-et-de-la-distribution-de-la-presse-arcep/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/1f/047bb9cae647e9bf0bb222412f0dc3-original.jpg",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/1f/047bb9cae647e9bf0bb222412f0dc3-100.jpg",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/autorite-de-regulation-des-communications-electroniques-des-postes-et-de-la-distribution-de-la-presse-arcep/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/1f/047bb9cae647e9bf0bb222412f0dc3-original.jpg",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/1f/047bb9cae647e9bf0bb222412f0dc3-100.jpg",
       "badges": [
         {
           "kind": "public-service"
@@ -4039,8 +4039,8 @@ const sampleResults = JSON.stringify([
       "granularity": "other"
     },
     "license": "lov2",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/ma-connexion-internet/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/ma-connexion-internet/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/ma-connexion-internet/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/ma-connexion-internet/",
     "last_update": "2023-07-14T21:58:12.496593+00:00",
     "archived": null,
     "quality": {
@@ -4076,13 +4076,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/62581fdf02e05e365ea227a1/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/62581fdf02e05e365ea227a1/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 16
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=62581fdf02e05e365ea227a1&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=62581fdf02e05e365ea227a1&page=1&page_size=50",
       "type": "GET",
       "total": 10
     },
@@ -4098,11 +4098,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Ministère de l'Intérieur et des Outre-Mer",
       "acronym": null,
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/ministere-de-linterieur-et-des-outre-mer/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/ministere-de-linterieur-et-des-outre-mer/",
       "slug": "ministere-de-linterieur-et-des-outre-mer",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/ministere-de-linterieur-et-des-outre-mer/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/64/efa546af334b4cbf07e36f694db4fe-original.png",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/64/efa546af334b4cbf07e36f694db4fe-100.png",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/ministere-de-linterieur-et-des-outre-mer/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/64/efa546af334b4cbf07e36f694db4fe-original.png",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/64/efa546af334b4cbf07e36f694db4fe-100.png",
       "badges": [
         {
           "kind": "public-service"
@@ -4118,8 +4118,8 @@ const sampleResults = JSON.stringify([
     "temporal_coverage": null,
     "spatial": null,
     "license": "notspecified",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/election-presidentielle-des-10-et-24-avril-2022-resultats-definitifs-du-1er-tour/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/election-presidentielle-des-10-et-24-avril-2022-resultats-definitifs-du-1er-tour/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/election-presidentielle-des-10-et-24-avril-2022-resultats-definitifs-du-1er-tour/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/election-presidentielle-des-10-et-24-avril-2022-resultats-definitifs-du-1er-tour/",
     "last_update": "2022-04-14T15:26:17.908000+00:00",
     "archived": null,
     "quality": {
@@ -4159,13 +4159,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/53698ecca3a729239d203579/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/53698ecca3a729239d203579/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 1
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=53698ecca3a729239d203579&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=53698ecca3a729239d203579&page=1&page_size=50",
       "type": "GET",
       "total": 0
     },
@@ -4186,11 +4186,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Institut national de l'origine et de la qualité (INAO)",
       "acronym": null,
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/institut-national-de-l-origine-et-de-la-qualite-inao/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/institut-national-de-l-origine-et-de-la-qualite-inao/",
       "slug": "institut-national-de-l-origine-et-de-la-qualite-inao",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/institut-national-de-l-origine-et-de-la-qualite-inao/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/e4/a2fe7b52ad475892124bb80fb77a0d-original.png",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/e4/a2fe7b52ad475892124bb80fb77a0d-100.png",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/institut-national-de-l-origine-et-de-la-qualite-inao/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/e4/a2fe7b52ad475892124bb80fb77a0d-original.png",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/e4/a2fe7b52ad475892124bb80fb77a0d-100.png",
       "badges": [
         {
           "kind": "public-service"
@@ -4213,8 +4213,8 @@ const sampleResults = JSON.stringify([
       "granularity": "fr:commune"
     },
     "license": "fr-lo",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/aires-geographiques-des-aoc-aop/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/aires-geographiques-des-aoc-aop/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/aires-geographiques-des-aoc-aop/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/aires-geographiques-des-aoc-aop/",
     "last_update": "2023-10-02T10:20:33.623000+00:00",
     "archived": null,
     "quality": {
@@ -4241,7 +4241,7 @@ const sampleResults = JSON.stringify([
     "title": "\"Carte des loyers\" - Indicateurs de loyers d'annonce par commune en 2018",
     "acronym": null,
     "slug": "carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2018",
-    "description": "**Une version plus récente de ces indicateurs est consultable sur cette page : https://www.opendata.gouv.tg /fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2022/\nDu fait d'évolution de la méthodologie et du maillage communal, les versions successives des indicateurs ne peuvent pas être comparés pour fournir des informations sur l'évolution des loyers.**\n\n### Contexte du projet\n\nLa connaissance du niveau des loyers est importante pour garantir le bon fonctionnement du marché locatif et la conduite des politiques nationales et locales de l’habitat. La Direction Générale de l’Aménagement, du Logement et de la Nature (DGALN) a lancé en 2018 le projet de « carte des loyers » en s’associant d’une part à une équipe de recherche en économie d’Agrosup Dijon et de l’Institut national de la recherche en agronomique (INRAE), et d’autre part à SeLoger, leboncoin et PAP. \n\nCe partenariat innovant a permis de reconstituer une base de données avec plus de 9 millions d’annonces locatives. A partir de ces données, l’équipe de recherche a développé une méthodologie d’estimation d’indicateurs, à l’échelle communale, du loyer (charges comprises) par m² pour les appartements et maisons. \n\nCes indicateurs expérimentaux sont mis en ligne afin d’être utilisable par tous : services de l’Etat, collectivités territoriales, professionnels de l’immobiliers, particuliers bailleurs et locataires. Dans une deuxième phase du projet, la méthodologie devra être consolidée et pérennisée, pour prévoir une actualisation à intervalle régulier de ces indicateurs. \n\nCe projet fournit une information complémentaire à celle offerte par les Observatoires Locaux des Loyers (OLL), déployés depuis 2013 et renforcés depuis 2018 par la loi Elan. Aujourd’hui, ce réseau associatif de 30 OLL publie chaque année des informations précises sur les loyers pratiqués dans 51 des principales agglomérations françaises.\n\n### Présentation du jeu de données\n\nLes données diffusées sont des indicateurs de loyers d’annonces, à l’échelle de la commune. Le champ couvert est la France entière, hors Mayotte. La géographie des communes est celle en vigueur au 1er janvier 2017.\n\nLes indicateurs de loyers sont calculés grâce à l’utilisation des données d’annonces parues sur leboncoin, SeLoger et PAP sur la période 2015-2019.\n\nLes indicateurs de loyers sont fournis charges comprises pour des biens types mis en location au 3ème trimestre 2018 avec les caractéristiques de référence suivantes :\n- Pour un appartement : surface de 49 m² et surface moyenne par pièce de 22,1 m²\n- Pour une maison : surface de 92 m² et surface moyenne par pièce de 22,5 m²\n\n### Conditions d’utilisation des données\n\nCes indicateurs sont utilisables librement, sous réserve de mentionner la source sous la forme suivante : _« Estimations UMR 1041 CESAER (AgroSup Dijon-INRAE) à partir des données SeLoger, leboncoin, PAP »_.\n\n### Précautions d’emploi\n\nLes indicateurs de loyers sont calculés charges comprises, sur des données d’annonces, donc mesurent des loyers de flux uniquement. Les données ont été dédoublonnées mais sans pouvoir s’appuyer sur des photos et des caractéristiques très discriminantes. Pour les communes n’ayant aucun logement mis en location via une annonce sur au moins un des 3 sites sur la période considérée, l’indicateur de loyer est celui estimé pour une maille plus grande comprenant des communes voisines présentant des caractéristiques similaires.\n\nPar ailleurs, les données ne permettant pas de distinguer avec certitude les locations meublées et touristiques, des biais dans les indicateurs de loyers peuvent être observés localement.\n\n**Les utilisateurs sont invités à considérer avec prudence les indicateurs de loyer dans les communes où le coefficient de détermination (R2) est inférieur à 0,5, le nombre d’observations dans la commune est inférieur à 30 ou l’intervalle de prédiction est très large.**\n\n",
+    "description": "**Une version plus récente de ces indicateurs est consultable sur cette page : https://www.opendata.gouv.tg/fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2022/\nDu fait d'évolution de la méthodologie et du maillage communal, les versions successives des indicateurs ne peuvent pas être comparés pour fournir des informations sur l'évolution des loyers.**\n\n### Contexte du projet\n\nLa connaissance du niveau des loyers est importante pour garantir le bon fonctionnement du marché locatif et la conduite des politiques nationales et locales de l’habitat. La Direction Générale de l’Aménagement, du Logement et de la Nature (DGALN) a lancé en 2018 le projet de « carte des loyers » en s’associant d’une part à une équipe de recherche en économie d’Agrosup Dijon et de l’Institut national de la recherche en agronomique (INRAE), et d’autre part à SeLoger, leboncoin et PAP. \n\nCe partenariat innovant a permis de reconstituer une base de données avec plus de 9 millions d’annonces locatives. A partir de ces données, l’équipe de recherche a développé une méthodologie d’estimation d’indicateurs, à l’échelle communale, du loyer (charges comprises) par m² pour les appartements et maisons. \n\nCes indicateurs expérimentaux sont mis en ligne afin d’être utilisable par tous : services de l’Etat, collectivités territoriales, professionnels de l’immobiliers, particuliers bailleurs et locataires. Dans une deuxième phase du projet, la méthodologie devra être consolidée et pérennisée, pour prévoir une actualisation à intervalle régulier de ces indicateurs. \n\nCe projet fournit une information complémentaire à celle offerte par les Observatoires Locaux des Loyers (OLL), déployés depuis 2013 et renforcés depuis 2018 par la loi Elan. Aujourd’hui, ce réseau associatif de 30 OLL publie chaque année des informations précises sur les loyers pratiqués dans 51 des principales agglomérations françaises.\n\n### Présentation du jeu de données\n\nLes données diffusées sont des indicateurs de loyers d’annonces, à l’échelle de la commune. Le champ couvert est la France entière, hors Mayotte. La géographie des communes est celle en vigueur au 1er janvier 2017.\n\nLes indicateurs de loyers sont calculés grâce à l’utilisation des données d’annonces parues sur leboncoin, SeLoger et PAP sur la période 2015-2019.\n\nLes indicateurs de loyers sont fournis charges comprises pour des biens types mis en location au 3ème trimestre 2018 avec les caractéristiques de référence suivantes :\n- Pour un appartement : surface de 49 m² et surface moyenne par pièce de 22,1 m²\n- Pour une maison : surface de 92 m² et surface moyenne par pièce de 22,5 m²\n\n### Conditions d’utilisation des données\n\nCes indicateurs sont utilisables librement, sous réserve de mentionner la source sous la forme suivante : _« Estimations UMR 1041 CESAER (AgroSup Dijon-INRAE) à partir des données SeLoger, leboncoin, PAP »_.\n\n### Précautions d’emploi\n\nLes indicateurs de loyers sont calculés charges comprises, sur des données d’annonces, donc mesurent des loyers de flux uniquement. Les données ont été dédoublonnées mais sans pouvoir s’appuyer sur des photos et des caractéristiques très discriminantes. Pour les communes n’ayant aucun logement mis en location via une annonce sur au moins un des 3 sites sur la période considérée, l’indicateur de loyer est celui estimé pour une maille plus grande comprenant des communes voisines présentant des caractéristiques similaires.\n\nPar ailleurs, les données ne permettant pas de distinguer avec certitude les locations meublées et touristiques, des biais dans les indicateurs de loyers peuvent être observés localement.\n\n**Les utilisateurs sont invités à considérer avec prudence les indicateurs de loyer dans les communes où le coefficient de détermination (R2) est inférieur à 0,5, le nombre d’observations dans la commune est inférieur à 30 ou l’intervalle de prédiction est très large.**\n\n",
     "created_at": "2020-12-02T17:14:01.579000+00:00",
     "last_modified": "2023-01-10T12:55:05.251000+00:00",
     "deleted": null,
@@ -4255,13 +4255,13 @@ const sampleResults = JSON.stringify([
     "badges": [],
     "resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/2/datasets/5fc7bd499a1944cb674fd064/resources/?page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/2/datasets/5fc7bd499a1944cb674fd064/resources/?page=1&page_size=50",
       "type": "GET",
       "total": 4
     },
     "community_resources": {
       "rel": "subsection",
-      "href": "https://dev.opendata.gouv.tg /api/1/datasets/community_resources/?dataset=5fc7bd499a1944cb674fd064&page=1&page_size=50",
+      "href": "https://dev.opendata.gouv.tg/api/1/datasets/community_resources/?dataset=5fc7bd499a1944cb674fd064&page=1&page_size=50",
       "type": "GET",
       "total": 2
     },
@@ -4277,11 +4277,11 @@ const sampleResults = JSON.stringify([
     "organization": {
       "name": "Ministère de la Transition écologique",
       "acronym": "MTE",
-      "uri": "https://dev.opendata.gouv.tg /api/1/organizations/ministere-de-la-transition-ecologique/",
+      "uri": "https://dev.opendata.gouv.tg/api/1/organizations/ministere-de-la-transition-ecologique/",
       "slug": "ministere-de-la-transition-ecologique",
-      "page": "https://dev.opendata.gouv.tg /fr/organizations/ministere-de-la-transition-ecologique/",
-      "logo": "https://dev-static.opendata.gouv.tg /avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-original.jpg",
-      "logo_thumbnail": "https://dev-static.opendata.gouv.tg /avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-100.jpg",
+      "page": "https://dev.opendata.gouv.tg/fr/organizations/ministere-de-la-transition-ecologique/",
+      "logo": "https://dev-static.opendata.gouv.tg/avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-original.jpg",
+      "logo_thumbnail": "https://dev-static.opendata.gouv.tg/avatars/61/7e6ce6a2b648a8b13472c8ba84b05b-100.jpg",
       "badges": [
         {
           "kind": "public-service"
@@ -4304,8 +4304,8 @@ const sampleResults = JSON.stringify([
       "granularity": "fr:commune"
     },
     "license": "lov2",
-    "uri": "https://dev.opendata.gouv.tg /api/1/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2018/",
-    "page": "https://dev.opendata.gouv.tg /fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2018/",
+    "uri": "https://dev.opendata.gouv.tg/api/1/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2018/",
+    "page": "https://dev.opendata.gouv.tg/fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2018/",
     "last_update": "2020-12-03T11:46:19.622000+00:00",
     "archived": null,
     "quality": {

@@ -28,7 +28,7 @@ const args = {
       },
     ],
     title: "Death record of my grandfather",
-    url: "https://dev.opendata.gouv.tg /api/1/discussions/64d651570ed1adcee429f2dd/",
+    url: "https://dev.opendata.gouv.tg/api/1/discussions/64d651570ed1adcee429f2dd/",
     closed: null,
     closed_by: null,
   }
@@ -92,7 +92,7 @@ const longThreadArgs = {
       }
     ],
     title: "Death record of my grandfather",
-    url: "https://dev.opendata.gouv.tg /api/1/discussions/64d651570ed1adcee429f2dd/",
+    url: "https://dev.opendata.gouv.tg/api/1/discussions/64d651570ed1adcee429f2dd/",
     closed: null,
     closed_by: null,
   }
