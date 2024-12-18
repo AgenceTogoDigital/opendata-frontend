@@ -38,7 +38,8 @@
                         <div class="fr-checkbox-group">
                             <input id="accept_conditions" type="checkbox" name="accept_conditions" required />
                             <label class="fr-label" for="accept_conditions">
-                                <span>{{ _('I have read and accept <a href="%(url)s"> the terms and conditions of the service.</a>', url=url_for('site.terms')) }}</span>
+                                {#<span>{{ _('I have read and accept <a href="%(url)s"> the terms and conditions of the service.</a>', url=url_for('site.terms')) }}</span>#}
+                                <span>{{ _('I have read and accept <a href="%(url)s"> the terms and conditions of the service.</a>', url="https://opendata.gouv.tg/fr/pages/legal/cgu/" )}}</span>
                             </label>
                         </div>
                         {% if config.CAPTCHETAT_BASE_URL %}
